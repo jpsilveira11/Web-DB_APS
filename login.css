@@ -78,10 +78,9 @@ top: -5px;}
 .forget{
     margin: -15px 0 15px ;
     font-size:.9em;
-    /**/
-    text-align: center;
-    vertical-align: middle;
-    position: relative;
+    /*
+    text-align: center;*/
+    position:relative;
     /**/
     color:#fff;
     display:flex;
