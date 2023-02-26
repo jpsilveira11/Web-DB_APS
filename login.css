@@ -69,10 +69,10 @@ top: -5px;}
 
 .inputbox ion-icon{
     position:absolute;
-    right: 8px;
+    left: -20px;
     color:#fff;
     font-size: 1.2em;
-    top:5px;
+    top:2px;
 }
 
 .forget{
