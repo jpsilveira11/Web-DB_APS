@@ -110,7 +110,12 @@ button{
     cursor: pointer;
     font-size: 1em;
     font-weight: 600;
+    transition: background-color .1s ease-out 100ms
 }
+button:hover{
+    background-color:antiquewhite;
+}
+
 .register{
     font-size: .9em;
     color: #fff;
