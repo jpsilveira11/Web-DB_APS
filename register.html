@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
     <head>
-        <title>Login</title>
+        <title>Crie sua conta</title>
         <link rel="stylesheet" href="login.css">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-        <!-- Página disponível em https://web-app-aps.netlify.app/login -->
+        <!-- Página disponível em https://web-app-aps.netlify.app/register -->
     </head>
     <body>
         <section>
@@ -14,7 +14,7 @@
                 <div class="form-value">
                     <form action="">
                         <h2><i class='bx bxl-xing'></i>(Produto)</h2>
-                        <h3>Login</h3>
+                        <h3>Crie sua conta</h3>
                     <div class="inputbox">
                         <ion-icon name="mail-outline"></ion-icon>
                         <input type="email" required>
@@ -25,12 +25,15 @@
                         <input type="Password" required>
                         <label for="">Senha</label> 
                     </div>
-                    <div class="forget">
-                        <label for="" id="checkbox"><span><input type="checkbox">Guardar dados</span><span><a href="#" id="forgot-my-pw">Esqueci minha senha</a></span></label>
+                    <div class="inputbox">
+                        <ion-icon name="lock-closed-outline"></ion-icon>
+                        <input type="Password" required>
+                        <label for="">Confirmar Senha</label> 
                     </div>
-                    <button type="submit">Login</button>
+                    <button type="submit">Registrar-se</button>
                     <div class="register">
-                        <p>Não tem uma conta?<br><a href="register.html">Registre-se</a></div>
+                        <p>Já tem uma conta?<br><a href="login.html">Faça login</a></div>
+                    </div>
                     <div class="follow-us"><span>Siga-nos</span>
                         <span>
                             <a href="#"><i class='bx bxl-facebook'></i></a>
@@ -40,7 +43,6 @@
                             <a href="#"><i class='bx bxl-linkedin'></i></a>
                             <a href="#"><i class='bx bxl-github'></i></a>
                         </span>
-                        </div>
                     </form>
                     
                 </div>

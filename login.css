@@ -31,7 +31,7 @@ section{
 .form-box{
     position: relative;
     width: 420px;
-    height: 510px;
+    height: 520px;
     background: transparent;
     border: 2px solid rgba(255,255,255,0.5);
     border-radius: 20px;
@@ -48,6 +48,13 @@ h2{
     font-size: 2em;
     color: #fff;
     text-align: center;
+}
+
+h3{
+    font-size: 1.5em;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 10px;    
 }
 
 .inputbox{
@@ -141,7 +148,7 @@ button:hover{
     font-size: .9em;
     color: #fff;
     text-align: center;
-    margin: 25px 0 10px;
+    margin: 15px 0 10px;
 }
 .register p a{
     text-decoration: none;
