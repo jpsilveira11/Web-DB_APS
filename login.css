@@ -4,6 +4,16 @@
     padding: 0;
     font-family:'poppins',sans-serif;
 }
+
+body{
+    background: url('images/placeholder_BG.jpg')no-repeat;
+    background-position: center;
+    background-size: cover;
+    /*
+    backdrop-filter: blur(5px);
+    */
+}
+
 section{
     display: flex;
     justify-content: center;
@@ -11,19 +21,24 @@ section{
     min-height: 100vh;
     width: 100;
 
+    /*
     background: url('images/placeholder_BG.jpg')no-repeat;
     background-position: center;
     background-size: cover;
+    */
 }
 
 .form-box{
     position: relative;
-    width: 400px;
-    height: 450px;
+    width: 420px;
+    height: 510px;
     background: transparent;
     border: 2px solid rgba(255,255,255,0.5);
     border-radius: 20px;
     backdrop-filter: blur(15px);
+    /*
+    backdrop-filter: blur(30px);
+    */
     display:flex;
     justify-content: center;
     align-items: center;
@@ -54,7 +69,7 @@ h2{
 }
 input:focus ~ label,
 input:valid ~ label{
-top: -5px;}
+top: -10px;}
 
 .inputbox input{
     width: 100%;
@@ -78,10 +93,11 @@ top: -5px;}
 .forget{
     margin: -15px 0 15px ;
     font-size:.9em;
-    /*
-    text-align: center;*/
+    
+    text-align: center;
     position:relative;
     /**/
+    margin-left: 100px;
     color:#fff;
     display:flex;
     justify-content: space-between;
@@ -99,6 +115,11 @@ top: -5px;}
 .forget label a:hover{
     text-decoration: underline;
 }
+
+.forget label span {
+    display: block;
+}
+
 
 button{
     width: 100%;
@@ -129,4 +150,32 @@ button:hover{
 }
 .register p a:hover{
     text-decoration: underline;
+}
+
+.follow-us{
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    position: fixed;
+    top: 92%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.follow-us span {
+    display: block;
+}
+
+.follow-us a i{
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 1px;
+    cursor: pointer;
+    transition: .5s ease;
+}
+
+.follow-us a:hover i{
+    transform: scale(1.2);
 }
