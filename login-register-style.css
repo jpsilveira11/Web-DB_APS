@@ -31,7 +31,7 @@ section{
 .form-box{
     position: relative;
     width: 420px;
-    height: 520px;
+    height: 470px;
     background: transparent;
     border: 2px solid rgba(255,255,255,0.5);
     border-radius: 20px;
@@ -160,13 +160,13 @@ button:hover{
 }
 
 .follow-us{
-    font-size: 1.2em;
+    font-size: .9em;
     font-weight: bold;
-    text-align: center;
+    text-align: left;
     color: #fff;
     position: fixed;
-    top: 92%;
-    left: 50%;
+    top: 95%;
+    left: 9%;
     transform: translate(-50%, -50%);
 
 }
