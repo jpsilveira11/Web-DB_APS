@@ -162,11 +162,11 @@ button:hover{
 .follow-us{
     font-size: .9em;
     font-weight: bold;
-    text-align: left;
+    text-align: center;
     color: #fff;
-    position: fixed;
+    position: absolute;
     top: 95%;
-    left: 9%;
+    left:50%;
     transform: translate(-50%, -50%);
 
 }
