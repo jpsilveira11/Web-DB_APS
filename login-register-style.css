@@ -192,51 +192,43 @@ button:hover{
 
 @media screen and (max-width: 600px) {
     .form-box{
-        width: 250px;
-        height: 320px;
+        width: 330px;
+        height: 400px;
     }
 
     h2{
-        font-size: 1em;
+        font-size: 1.2em;
         margin-top: 10px;
     }
     h3{
-        font-size: .5em;
-        margin-bottom: 10px;
+        font-size: 1em;
+        margin-bottom: 20px;
     }
 
     .inputbox{
-        margin: 5%;
-        width: 175px;
-        left:5px;
+        margin: 20px 0px 20px 0px;
+        width: 200px;
+        font-size: .8em;
     }
     .inputbox label{
-        font-size:.8em;
+        font-size:.9em;
     }
     
     .forget{
         font-size: .6em;
-        left:20%;
-        margin: 20px 0px 0px 0px;
+        left: 25%;
+        margin: 5px 0px 5px 0px;
     }
 
     button{
         height: 25px;
         font-size: .7em;
-        margin: 15px 0px 10px 0px;
+        margin: 15px 0px 5px 0px;
         
     }
 
     .register{
         font-size: .6em;
-        top:280px;
-        margin: 10px 0px 0px 0px;
+        margin-top: 5px;
     }
-    
-
-
-    
-
-
-
   }
