@@ -6,7 +6,8 @@
 }
 
 body{
-    background: url('images/placeholder_BG.jpg')no-repeat;
+    /*background-color: black;*/
+    background: url('placeholder_BG.jpg')no-repeat;
     background-position: center;
     background-size: cover;
     /*
@@ -62,23 +63,66 @@ h3{
     position:relative;
     margin:30px;
     width: 310px;
-    border-bottom: 2px solid #fff;
+    border: 1.8px solid #fff;
+    border-radius: 8px;
+    outline: none;
 }
 
 .inputbox label{
     position: absolute;
     top:50%;
-    left: 5px;
+    left: 10px;
     transform: translateY(-50%);
     color: #fff;
-    font-size:1em;
+    font-size:.9em;
     pointer-events:none;
     transition: .5s;
+    
 }
 input:focus ~ label,
 input:valid ~ label{
-top: -10px;
-font-size: .9em;
+top: 0;
+font-size: .8em;
+background-color: black;
+color: cyan;
+padding: 0 12px
+}
+
+.inputbox label::before{
+    content:'';
+    position: absolute;
+    top:0;
+    left:0;
+    width: 12px;
+    height:12px;
+    background:transparent;
+    border-left:1.8px solid cyan;
+    border-bottom: 1.8px solid cyan;
+    transform:rotate(45deg);
+    opacity: 0;
+}
+
+.inputbox label::after{
+    content:'';
+    position: absolute;
+    top:0;
+    right:0;
+    width: 12px;
+    height:12px;
+    background:transparent;
+    border-right:1.8px solid cyan;
+    border-top: 1.8px solid cyan;
+    transform:rotate(45deg);
+    opacity: 0;
+    transition: .5s;
+}
+
+.inputbox input:focus~label::before,
+.inputbox input:valid~label::before,
+.inputbox input:focus~label::after,
+.inputbox input:valid~label::after{
+    top:1px;
+    opacity:1;
 }
 
 .inputbox input{
@@ -94,7 +138,7 @@ font-size: .9em;
 
 .inputbox ion-icon{
     position:absolute;
-    left: -25px;
+    left: -22px;
     color:#fff;
     font-size: 1.2em;
     top:2px;
