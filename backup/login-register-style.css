@@ -59,6 +59,14 @@ h3{
     margin-bottom: 10px;    
 }
 
+input:focus{
+    outline: none;
+    border-color: red;
+    box-shadow: 0 0 3px red;
+    -moz-box-shadow: 0 0 3px red;
+    -webkit-box-shadow: 0 0 3px red;
+  }
+
 .inputbox{
     position:relative;
     margin:30px;
@@ -123,6 +131,11 @@ padding: 0 12px
 .inputbox input:valid~label::after{
     top:1px;
     opacity:1;
+}
+
+.inputbox input:focus,
+.inputbox input:valid{
+    border: 1.8px solid cyan;
 }
 
 .inputbox input{
