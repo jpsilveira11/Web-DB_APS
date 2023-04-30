@@ -44,4 +44,3 @@ if __name__=='__main__':
     filename=get_filename()
 
     get_csv(data,filename)
-print(response.text)
