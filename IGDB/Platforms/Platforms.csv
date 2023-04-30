@@ -1,0 +1,200 @@
+ID,Abbreviation,Alternative Name,Name,Data,Link
+3,Linux,GNU/Linux,Linux,https://www.igdb.com/platforms/linux
+4,N64,N64,Nintendo 64,https://www.igdb.com/platforms/n64
+5,Wii,Revolution,Wii,https://www.igdb.com/platforms/wii
+6,PC,mswin,PC (Microsoft Windows),https://www.igdb.com/platforms/win
+7,PS1,"PSX, PSOne, PS",PlayStation,https://www.igdb.com/platforms/ps
+8,PS2,PS2,PlayStation 2,https://www.igdb.com/platforms/ps2
+9,PS3,PS3,PlayStation 3,https://www.igdb.com/platforms/ps3
+11,XBOX,Xbox,https://www.igdb.com/platforms/xbox
+12,X360,X360,Xbox 360,https://www.igdb.com/platforms/xbox360
+13,DOS,PC DOS,DOS,https://www.igdb.com/platforms/dos
+14,Mac,Mac OS,Mac,https://www.igdb.com/platforms/mac
+15,C64,C64/C128/MAX,Commodore C64/128/MAX,https://www.igdb.com/platforms/c64
+16,Amiga,Amiga,https://www.igdb.com/platforms/amiga
+18,NES,NES,Nintendo Entertainment System,https://www.igdb.com/platforms/nes
+19,SNES,"SNES, Super Nintendo",Super Nintendo Entertainment System,https://www.igdb.com/platforms/snes
+20,NDS,NDS,Nintendo DS,https://www.igdb.com/platforms/nds
+21,NGC,GCN,Nintendo GameCube,https://www.igdb.com/platforms/ngc
+22,GBC,GBC,Game Boy Color,https://www.igdb.com/platforms/gbc
+23,DC,DC,Dreamcast,https://www.igdb.com/platforms/dc
+24,GBA,GBA,Game Boy Advance,https://www.igdb.com/platforms/gba
+25,ACPC,Colour Personal Computer,Amstrad CPC,https://www.igdb.com/platforms/acpc
+26,ZXS,ZX Spectrum,https://www.igdb.com/platforms/zxs
+27,MSX,MSX,https://www.igdb.com/platforms/msx
+29,Genesis/MegaDrive,Sega Genesis,Sega Mega Drive/Genesis,https://www.igdb.com/platforms/genesis-slash-megadrive
+30,Sega32,Sega 32X,https://www.igdb.com/platforms/sega32
+32,Saturn,"JVC Saturn, Hi-Saturn, Samsung Saturn, V-Saturn",Sega Saturn,https://www.igdb.com/platforms/saturn
+33,Game Boy,GB,Game Boy,https://www.igdb.com/platforms/gb
+34,Android,Infocusa3,Android,https://www.igdb.com/platforms/android
+35,Game Gear,GG,Sega Game Gear,https://www.igdb.com/platforms/gamegear
+37,3DS,3DS,Nintendo 3DS,https://www.igdb.com/platforms/3ds
+38,PSP,PSP,PlayStation Portable,https://www.igdb.com/platforms/psp
+39,iOS,iOS,https://www.igdb.com/platforms/ios
+41,WiiU,Wii U,https://www.igdb.com/platforms/wiiu
+42,NGage,NGage,N-Gage,https://www.igdb.com/platforms/ngage
+44,zod,Tapwave Zodiac,https://www.igdb.com/platforms/zod
+46,Vita,PS Vita,PlayStation Vita,https://www.igdb.com/platforms/psvita
+47,VC,Virtual Console,https://www.igdb.com/platforms/vc
+48,PS4,PS4,PlayStation 4,https://www.igdb.com/platforms/ps4--1
+49,XONE,XONE,Xbox One,https://www.igdb.com/platforms/xboxone
+50,3DO,3DO,3DO Interactive Multiplayer,https://www.igdb.com/platforms/3do
+51,fds,"Famicom Disk System, FDS",Family Computer Disk System,https://www.igdb.com/platforms/fds
+52,Arcade,Arcade,https://www.igdb.com/platforms/arcade
+53,MSX2,MSX2,https://www.igdb.com/platforms/msx2
+55,Mobile,Legacy Cellphone,Legacy Mobile Device,https://www.igdb.com/platforms/mobile
+57,WonderSwan,WS,WonderSwan,https://www.igdb.com/platforms/wonderswan
+58,SFAM,SFC,Super Famicom,https://www.igdb.com/platforms/sfam
+59,Atari2600,Atari VCS,Atari 2600,https://www.igdb.com/platforms/atari2600
+60,Atari7800,Atari 7800 ProSystem,Atari 7800,https://www.igdb.com/platforms/atari7800
+61,Lynx,Atari Lynx,https://www.igdb.com/platforms/lynx
+62,Jaguar,Atari Jaguar,https://www.igdb.com/platforms/jaguar
+63,Atari-ST,Atari ST/STE,https://www.igdb.com/platforms/atari-st
+64,SMS,"SMS, Mark III",Sega Master System/Mark III,https://www.igdb.com/platforms/sms
+65,Atari8bit,Atari 8-bit,https://www.igdb.com/platforms/atari8bit
+66,Atari5200,Atari 5200 SuperSystem,Atari 5200,https://www.igdb.com/platforms/atari5200
+67,intellivision,Intellivision,https://www.igdb.com/platforms/intellivision
+68,colecovision,ColecoVision,https://www.igdb.com/platforms/colecovision
+69,bbcmicro,BBC Micro,BBC Microcomputer System,https://www.igdb.com/platforms/bbcmicro
+70,vectrex,Vectrex,https://www.igdb.com/platforms/vectrex
+71,vic-20,Commodore VIC-20,https://www.igdb.com/platforms/vic-20
+72,Ouya,Ouya,https://www.igdb.com/platforms/ouya
+73,blackberry,BlackBerry OS,https://www.igdb.com/platforms/blackberry
+74,Win Phone,WP,Windows Phone,https://www.igdb.com/platforms/winphone
+75,Apple][,apple ][,Apple II,https://www.igdb.com/platforms/appleii
+77,x1,Sharp X1,https://www.igdb.com/platforms/x1
+78,segacd,Mega CD,Sega CD,https://www.igdb.com/platforms/segacd
+79,neogeomvs,Neo Geo Multi Video System,Neo Geo MVS,https://www.igdb.com/platforms/neogeomvs
+80,neogeoaes,AES,Neo Geo AES,https://www.igdb.com/platforms/neogeoaes
+82,browser,Internet,Web browser,https://www.igdb.com/platforms/browser
+84,sg1000,Sega Game 1000,SG-1000,https://www.igdb.com/platforms/sg1000
+85,donner30,Donner Model 30,https://www.igdb.com/platforms/donner30
+86,turbografx16,TurboGrafx-16/PC Engine,https://www.igdb.com/platforms/turbografx16--1
+87,virtualboy,VB,Virtual Boy,https://www.igdb.com/platforms/virtualboy
+88,odyssey,Magnavox Odyssey; Odysee; Odisea; Odissea,Odyssey,https://www.igdb.com/platforms/odyssey--1
+89,microvision,Microvision,https://www.igdb.com/platforms/microvision--1
+90,cpet,Commodore PET,https://www.igdb.com/platforms/cpet
+91,astrocade,Bally Arcade,Bally Astrocade,https://www.igdb.com/platforms/astrocade
+93,C16,C16,Commodore 16,https://www.igdb.com/platforms/c16
+94,C+4,Commodore Plus/4,https://www.igdb.com/platforms/c-plus-4
+95,pdp1,Programmed Data Processor-1,PDP-1,https://www.igdb.com/platforms/pdp1
+96,pdp10,PDP-10,https://www.igdb.com/platforms/pdp10
+97,pdp-8,PDP-8,https://www.igdb.com/platforms/pdp-8--1
+98,gt40,DEC GT40,https://www.igdb.com/platforms/gt40
+99,famicom,Famicom,Family Computer,https://www.igdb.com/platforms/famicom
+100,analogueelectronics,Analogue electronics,https://www.igdb.com/platforms/analogueelectronics
+101,nimrod,Ferranti Nimrod Computer,https://www.igdb.com/platforms/nimrod
+102,edsac,Electronic Delay Storage Automatic Calculator,EDSAC,https://www.igdb.com/platforms/edsac--1
+103,pdp-7,PDP-7,https://www.igdb.com/platforms/pdp-7--1
+104,hp2100,HP 2100,https://www.igdb.com/platforms/hp2100
+105,hp3000,HP 3000,https://www.igdb.com/platforms/hp3000
+106,sdssigma7,SDS Sigma 7,https://www.igdb.com/platforms/sdssigma7
+107,call-a-computer,Call-A-Computer time-shared mainframe computer system,https://www.igdb.com/platforms/call-a-computer
+108,pdp11,PDP-11,https://www.igdb.com/platforms/pdp11
+109,cdccyber70,CDC Cyber 70,https://www.igdb.com/platforms/cdccyber70
+110,plato,Programmed Logic for Automatic Teaching Operations,PLATO,https://www.igdb.com/platforms/plato--1
+111,imlac-pds1,Imlac PDS-1,https://www.igdb.com/platforms/imlac-pds1
+112,microcomputer,Microcomputer,https://www.igdb.com/platforms/microcomputer--1
+113,OnLive Game System,https://www.igdb.com/platforms/onlive-game-system
+114,Amiga CD32,https://www.igdb.com/platforms/amiga-cd32
+115,Apple IIGS,https://www.igdb.com/platforms/apple-iigs
+116,Acorn Archimedes,https://www.igdb.com/platforms/acorn-archimedes
+117,Philips CD-i,https://www.igdb.com/platforms/philips-cd-i
+118,FM Towns,https://www.igdb.com/platforms/fm-towns
+119,NGP,Neo Geo Pocket,https://www.igdb.com/platforms/neo-geo-pocket
+120,NGPC,Neo Geo Pocket Color,https://www.igdb.com/platforms/neo-geo-pocket-color
+121,Sharp X68000,https://www.igdb.com/platforms/sharp-x68000
+122,Nuon,https://www.igdb.com/platforms/nuon
+123,WSC,WonderSwan Color,https://www.igdb.com/platforms/wonderswan-color
+124,SwanCrystal,https://www.igdb.com/platforms/swancrystal
+125,PC-8801,https://www.igdb.com/platforms/pc-8801
+126,TRS-80,https://www.igdb.com/platforms/trs-80
+127,Fairchild Channel F,https://www.igdb.com/platforms/fairchild-channel-f
+128,supergrafx,PC Engine SuperGrafx,https://www.igdb.com/platforms/supergrafx
+129,ti-99,Texas Instruments TI-99/4A,Texas Instruments TI-99,https://www.igdb.com/platforms/ti-99
+130,Switch,NX,Nintendo Switch,https://www.igdb.com/platforms/switch
+131,Nintendo Super Disc,Nintendo PlayStation,https://www.igdb.com/platforms/nintendo-playstation
+132,Amazon Fire TV,https://www.igdb.com/platforms/amazon-fire-tv
+133,Magnavox Odyssey²,Odyssey 2 / Videopac G7000,https://www.igdb.com/platforms/odyssey-2-slash-videopac-g7000
+134,Acorn Electron,https://www.igdb.com/platforms/acorn-electron
+135,Hyper Neo Geo 64,https://www.igdb.com/platforms/hyper-neo-geo-64
+136,NGCD,Neo Geo CD,https://www.igdb.com/platforms/neo-geo-cd
+137,n3DS,New Nintendo 3DS,https://www.igdb.com/platforms/new-nintendo-3ds
+138,VC 4000,https://www.igdb.com/platforms/vc-4000
+139,1292 Advanced Programmable Video System,https://www.igdb.com/platforms/1292-advanced-programmable-video-system
+140,AY-3-8500,https://www.igdb.com/platforms/ay-3-8500
+141,AY-3-8610,https://www.igdb.com/platforms/ay-3-8610
+142,PC-50X Family,https://www.igdb.com/platforms/pc-50x-family
+143,AY-3-8760,https://www.igdb.com/platforms/ay-3-8760
+144,AY-3-8710,https://www.igdb.com/platforms/ay-3-8710
+145,AY-3-8603,https://www.igdb.com/platforms/ay-3-8603
+146,AY-3-8605,https://www.igdb.com/platforms/ay-3-8605
+147,AY-3-8606,https://www.igdb.com/platforms/ay-3-8606
+148,AY-3-8607,https://www.igdb.com/platforms/ay-3-8607
+149,PC-98,https://www.igdb.com/platforms/pc-98
+150,TG-16CD/PCECD,Turbografx-16/PC Engine CD,https://www.igdb.com/platforms/turbografx-16-slash-pc-engine-cd
+151,Tandy Color Computer,TRS-80 Color Computer,https://www.igdb.com/platforms/trs-80-color-computer
+152,Fujitsu Micro 7,FM-7,https://www.igdb.com/platforms/fm-7
+153,Dragon 32/64,https://www.igdb.com/platforms/dragon-32-slash-64
+154,Amstrad PCW,https://www.igdb.com/platforms/amstrad-pcw
+155,Tatung Einstein,https://www.igdb.com/platforms/tatung-einstein
+156,Thomson MO5,https://www.igdb.com/platforms/thomson-mo5
+157,NEC PC-6000 Series,https://www.igdb.com/platforms/nec-pc-6000-series
+158,Commodore Dynamic Total Vision,Commodore CDTV,https://www.igdb.com/platforms/commodore-cdtv
+159,Nintendo DSi,https://www.igdb.com/platforms/nintendo-dsi
+161,WMR,Windows Mixed Reality,https://www.igdb.com/platforms/windows-mixed-reality
+162,Oculus VR,Oculus VR,https://www.igdb.com/platforms/oculus-vr
+163,Steam VR,SteamVR,https://www.igdb.com/platforms/steam-vr
+164,Daydream,https://www.igdb.com/platforms/daydream
+165,PlayStation VR,PSVR,PlayStation VR,https://www.igdb.com/platforms/playstation-vr
+166,Pokémon mini,https://www.igdb.com/platforms/pokemon-mini
+167,PS5,PS5,PlayStation 5,https://www.igdb.com/platforms/ps5
+169,Series X,XSX,Xbox Series X|S,https://www.igdb.com/platforms/series-x
+170,Stadia,Stadia,Google Stadia,https://www.igdb.com/platforms/stadia
+203,DUPLICATE Stadia,https://www.igdb.com/platforms/duplicate-stadia
+236,Exidy Sorcerer,https://www.igdb.com/platforms/exidy-sorcerer
+237,Sol-20,https://www.igdb.com/platforms/sol-20
+238,Digital Versatile Disc Player,DVD Player,https://www.igdb.com/platforms/dvd-player
+239,Blu-ray Player,https://www.igdb.com/platforms/blu-ray-player
+240,Zeebo,https://www.igdb.com/platforms/zeebo
+274,PC-FX,https://www.igdb.com/platforms/pc-fx
+306,Satellaview,https://www.igdb.com/platforms/satellaview
+307,"Tricotronic, GW, G&W",Game & Watch,https://www.igdb.com/platforms/game-and-watch
+308,Playdia,https://www.igdb.com/platforms/playdia
+309,Evercade,https://www.igdb.com/platforms/evercade
+339,Kids Computer Pico,Sega Pico,https://www.igdb.com/platforms/sega-pico
+372,OOParts,https://www.igdb.com/platforms/ooparts
+373,ZX81,Sinclair ZX81,https://www.igdb.com/platforms/sinclair-zx81
+374,Sharp MZ-2200,https://www.igdb.com/platforms/sharp-mz-2200
+375,Epoch Cassette Vision,https://www.igdb.com/platforms/epoch-cassette-vision
+376,YENO Super Cassette Vision,Epoch Super Cassette Vision,https://www.igdb.com/platforms/epoch-super-cassette-vision
+377,TV Game,Plug & Play,https://www.igdb.com/platforms/plug-and-play
+378,Super Boy,Gamate,https://www.igdb.com/platforms/gamate
+379,Tiger Game.com,Game.com,https://www.igdb.com/platforms/game-dot-com
+380,Loopy,Casio Loopy,https://www.igdb.com/platforms/casio-loopy
+381,Playdate,https://www.igdb.com/platforms/playdate
+382,Intellivision Amico,https://www.igdb.com/platforms/intellivision-amico
+384,Quest,Oculus Quest,https://www.igdb.com/platforms/oculus-quest
+385,Rift,Oculus Rift,https://www.igdb.com/platforms/oculus-rift
+386,Meta Quest 2,Quest 2,Meta Quest 2,https://www.igdb.com/platforms/meta-quest-2
+387,Go,Oculus Go,https://www.igdb.com/platforms/oculus-go
+388,Samsung Gear VR,Gear VR,https://www.igdb.com/platforms/gear-vr
+389,AirConsole,https://www.igdb.com/platforms/airconsole
+390,PSVR2,PSVR2,PlayStation VR2,https://www.igdb.com/platforms/psvr2
+405,Pocket PC,Windows Mobile,https://www.igdb.com/platforms/windows-mobile
+406,Sinclair Quantum Leap,Sinclair QL,https://www.igdb.com/platforms/sinclair-ql
+407,HyperScan,https://www.igdb.com/platforms/hyperscan
+408,WG-108,Mega Duck/Cougar Boy,https://www.igdb.com/platforms/mega-duck-slash-cougar-boy
+409,Legacy Computer,https://www.igdb.com/platforms/legacy-computer
+410,Jag CD,Atari Jaguar CD,https://www.igdb.com/platforms/atari-jaguar-cd
+411,Handheld LCD Game,Handheld Electronic LCD,https://www.igdb.com/platforms/handheld-electronic-lcd
+412,Leapster Learning Game System,Leapster,https://www.igdb.com/platforms/leapster
+413,Leapster Explorer/LeadPad Explorer,https://www.igdb.com/platforms/leapster-explorer-slash-leadpad-explorer
+414,LeapTV VCD,LeapTV,https://www.igdb.com/platforms/leaptv
+415,Watara/QuickShot Supervision,https://www.igdb.com/platforms/watara-slash-quickshot-supervision
+416,64DD,Nintendo 64DD,https://www.igdb.com/platforms/nintendo-64dd
+417,Garnet OS,Palm OS,https://www.igdb.com/platforms/palm-os
+438,Arduboy,https://www.igdb.com/platforms/arduboy
+439,V.SMILE TV LEARNING SYSTEM,V.Smile,https://www.igdb.com/platforms/vsmile
+440,VMU / VMS,Visual Memory Unit / Visual Memory System,https://www.igdb.com/platforms/visual-memory-unit-slash-visual-memory-system
+441,PocketStation,https://www.igdb.com/platforms/pocketstation
