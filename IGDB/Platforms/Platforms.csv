@@ -1,4 +1,4 @@
-ID,Abbreviation,Alternative Name,Name,Data,Link
+ID,Abbreviation,Alternative Name,Name,Link
 3,Linux,GNU/Linux,Linux,https://www.igdb.com/platforms/linux
 4,N64,N64,Nintendo 64,https://www.igdb.com/platforms/n64
 5,Wii,Revolution,Wii,https://www.igdb.com/platforms/wii
@@ -115,7 +115,7 @@ ID,Abbreviation,Alternative Name,Name,Data,Link
 130,Switch,NX,Nintendo Switch,https://www.igdb.com/platforms/switch
 131,Nintendo Super Disc,Nintendo PlayStation,https://www.igdb.com/platforms/nintendo-playstation
 132,Amazon Fire TV,https://www.igdb.com/platforms/amazon-fire-tv
-133,Magnavox Odyssey²,Odyssey 2 / Videopac G7000,https://www.igdb.com/platforms/odyssey-2-slash-videopac-g7000
+133,Magnavox OdysseyÂ²,Odyssey 2 / Videopac G7000,https://www.igdb.com/platforms/odyssey-2-slash-videopac-g7000
 134,Acorn Electron,https://www.igdb.com/platforms/acorn-electron
 135,Hyper Neo Geo 64,https://www.igdb.com/platforms/hyper-neo-geo-64
 136,NGCD,Neo Geo CD,https://www.igdb.com/platforms/neo-geo-cd
@@ -147,7 +147,7 @@ ID,Abbreviation,Alternative Name,Name,Data,Link
 163,Steam VR,SteamVR,https://www.igdb.com/platforms/steam-vr
 164,Daydream,https://www.igdb.com/platforms/daydream
 165,PlayStation VR,PSVR,PlayStation VR,https://www.igdb.com/platforms/playstation-vr
-166,Pokémon mini,https://www.igdb.com/platforms/pokemon-mini
+166,PokÃ©mon mini,https://www.igdb.com/platforms/pokemon-mini
 167,PS5,PS5,PlayStation 5,https://www.igdb.com/platforms/ps5
 169,Series X,XSX,Xbox Series X|S,https://www.igdb.com/platforms/series-x
 170,Stadia,Stadia,Google Stadia,https://www.igdb.com/platforms/stadia
