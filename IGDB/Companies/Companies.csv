@@ -1,501 +1,501 @@
-ID,Country,Creation,Name,Slug,Link
-1,840,1297810753,Electronic Arts,electronic-arts,https://www.igdb.com/companies/electronic-arts
-2,124,1297810806,BioWare,bioware,https://www.igdb.com/companies/bioware
-3,840,1297814400,Looking Glass Studios,looking-glass-studios,https://www.igdb.com/companies/looking-glass-studios
-4,826,1297817598,Eidos Interactive,eidos-interactive,https://www.igdb.com/companies/eidos-interactive
-5,840,1297814400,Interplay Entertainment,interplay-entertainment,https://www.igdb.com/companies/interplay-entertainment
-6,826,1297817708,Lionhead Studios,lionhead-studios,https://www.igdb.com/companies/lionhead-studios
-7,840,1297814400,Visceral Games,visceral-games,https://www.igdb.com/companies/visceral-games
-8,840,1298843864,2K Games,2k-games,https://www.igdb.com/companies/2k-games
-9,840,1298937600,Lucasfilm Games,lucasfilm-games,https://www.igdb.com/companies/lucasfilm-games
-10,840,1298937600,LucasArts,lucasarts,https://www.igdb.com/companies/lucasarts
-11,840,1298937600,EA Redwood Shores,ea-redwood-shores,https://www.igdb.com/companies/ea-redwood-shores
+ID,Creation,Name,Slug,Link
+1,1297810753,Electronic Arts,electronic-arts,https://www.igdb.com/companies/electronic-arts
+2,1297810806,BioWare,bioware,https://www.igdb.com/companies/bioware
+3,1297814400,Looking Glass Studios,looking-glass-studios,https://www.igdb.com/companies/looking-glass-studios
+4,1297817598,Eidos Interactive,eidos-interactive,https://www.igdb.com/companies/eidos-interactive
+5,1297814400,Interplay Entertainment,interplay-entertainment,https://www.igdb.com/companies/interplay-entertainment
+6,1297817708,Lionhead Studios,lionhead-studios,https://www.igdb.com/companies/lionhead-studios
+7,1297814400,Visceral Games,visceral-games,https://www.igdb.com/companies/visceral-games
+8,1298843864,2K Games,2k-games,https://www.igdb.com/companies/2k-games
+9,1298937600,Lucasfilm Games,lucasfilm-games,https://www.igdb.com/companies/lucasfilm-games
+10,1298937600,LucasArts,lucasarts,https://www.igdb.com/companies/lucasarts
+11,1298937600,EA Redwood Shores,ea-redwood-shores,https://www.igdb.com/companies/ea-redwood-shores
 12,1298987117,Black Isle Studios,black-isle-studios,https://www.igdb.com/companies/black-isle-studios
-13,840,1298937600,Demiurge Studios,demiurge-studios,https://www.igdb.com/companies/demiurge-studios
-14,826,1298937600,Bullfrog Productions,bullfrog-productions,https://www.igdb.com/companies/bullfrog-productions
-15,840,1299196800,2K Marin,2k-marin,https://www.igdb.com/companies/2k-marin
-17,124,1299196800,Digital Extremes,digital-extremes,https://www.igdb.com/companies/digital-extremes
-18,156,1299196800,2K China,2k-china,https://www.igdb.com/companies/2k-china
-19,250,1299265070,Arkane Studios,arkane-studios,https://www.igdb.com/companies/arkane-studios
+13,1298937600,Demiurge Studios,demiurge-studios,https://www.igdb.com/companies/demiurge-studios
+14,1298937600,Bullfrog Productions,bullfrog-productions,https://www.igdb.com/companies/bullfrog-productions
+15,1299196800,2K Marin,2k-marin,https://www.igdb.com/companies/2k-marin
+17,1299196800,Digital Extremes,digital-extremes,https://www.igdb.com/companies/digital-extremes
+18,1299196800,2K China,2k-china,https://www.igdb.com/companies/2k-china
+19,1299265070,Arkane Studios,arkane-studios,https://www.igdb.com/companies/arkane-studios
 20,1299196800,Darkside Game Studios,darkside-game-studios,https://www.igdb.com/companies/darkside-game-studios
-21,840,1299323621,Irrational Games,irrational-games,https://www.igdb.com/companies/irrational-games
-23,826,1299283200,Feral Interactive,feral-interactive,https://www.igdb.com/companies/feral-interactive
-24,840,1299352329,Sierra Entertainment,sierra-entertainment,https://www.igdb.com/companies/sierra-entertainment
-25,840,1299456000,Ion Storm,ion-storm,https://www.igdb.com/companies/ion-storm
-26,392,1299456000,Square Enix,square-enix,https://www.igdb.com/companies/square-enix
-27,124,1299498520,Eidos Montréal,eidos-montreal,https://www.igdb.com/companies/eidos-montreal
+21,1299323621,Irrational Games,irrational-games,https://www.igdb.com/companies/irrational-games
+23,1299283200,Feral Interactive,feral-interactive,https://www.igdb.com/companies/feral-interactive
+24,1299352329,Sierra Entertainment,sierra-entertainment,https://www.igdb.com/companies/sierra-entertainment
+25,1299456000,Ion Storm,ion-storm,https://www.igdb.com/companies/ion-storm
+26,1299456000,Square Enix,square-enix,https://www.igdb.com/companies/square-enix
+27,1299498520,Eidos Montréal,eidos-montreal,https://www.igdb.com/companies/eidos-montreal
 28,1299974400,(Archive) Bethesda Softworks LLC,archive-bethesda-softworks-llc,https://www.igdb.com/companies/archive-bethesda-softworks-llc
-29,840,1300047980,Rockstar Games,rockstar-games,https://www.igdb.com/companies/rockstar-games
-30,36,1300048019,Team Bondi,team-bondi,https://www.igdb.com/companies/team-bondi
-32,840,1299974400,Sierra On-Line,sierra-on-line,https://www.igdb.com/companies/sierra-on-line
-36,752,1300060800,Frictional Games,frictional-games,https://www.igdb.com/companies/frictional-games
-37,392,1300096897,Capcom,capcom,https://www.igdb.com/companies/capcom
-38,124,1300098889,Ubisoft Montreal,ubisoft-montreal,https://www.igdb.com/companies/ubisoft-montreal
-39,250,1300098934,Ubisoft Annecy,ubisoft-annecy,https://www.igdb.com/companies/ubisoft-annecy
-41,840,1300060800,Riot Games,riot-games,https://www.igdb.com/companies/riot-games
-42,156,1300101366,Tencent Holdings,tencent-holdings,https://www.igdb.com/companies/tencent-holdings
-44,392,1300060800,Team Ico,team-ico,https://www.igdb.com/companies/team-ico
-45,392,1300106339,"Sony Computer Entertainment, Inc. (SCEI)",sony-computer-entertainment-inc-scei,https://www.igdb.com/companies/sony-computer-entertainment-inc-scei
-47,840,1300060800,Obsidian Entertainment,obsidian-entertainment,https://www.igdb.com/companies/obsidian-entertainment
-48,840,1300060800,NetherRealm Studios,netherrealm-studios,https://www.igdb.com/companies/netherrealm-studios
-50,840,1300107048,WB Games,wb-games,https://www.igdb.com/companies/wb-games
-51,840,1300107718,Blizzard Entertainment,blizzard-entertainment,https://www.igdb.com/companies/blizzard-entertainment
+29,1300047980,Rockstar Games,rockstar-games,https://www.igdb.com/companies/rockstar-games
+30,1300048019,Team Bondi,team-bondi,https://www.igdb.com/companies/team-bondi
+32,1299974400,Sierra On-Line,sierra-on-line,https://www.igdb.com/companies/sierra-on-line
+36,1300060800,Frictional Games,frictional-games,https://www.igdb.com/companies/frictional-games
+37,1300096897,Capcom,capcom,https://www.igdb.com/companies/capcom
+38,1300098889,Ubisoft Montreal,ubisoft-montreal,https://www.igdb.com/companies/ubisoft-montreal
+39,1300098934,Ubisoft Annecy,ubisoft-annecy,https://www.igdb.com/companies/ubisoft-annecy
+41,1300060800,Riot Games,riot-games,https://www.igdb.com/companies/riot-games
+42,1300101366,Tencent Holdings,tencent-holdings,https://www.igdb.com/companies/tencent-holdings
+44,1300060800,Team Ico,team-ico,https://www.igdb.com/companies/team-ico
+45,1300106339,"Sony Computer Entertainment, Inc. (SCEI)",sony-computer-entertainment-inc-scei,https://www.igdb.com/companies/sony-computer-entertainment-inc-scei
+47,1300060800,Obsidian Entertainment,obsidian-entertainment,https://www.igdb.com/companies/obsidian-entertainment
+48,1300060800,NetherRealm Studios,netherrealm-studios,https://www.igdb.com/companies/netherrealm-studios
+50,1300107048,WB Games,wb-games,https://www.igdb.com/companies/wb-games
+51,1300107718,Blizzard Entertainment,blizzard-entertainment,https://www.igdb.com/companies/blizzard-entertainment
 52,1300060800,LTI Gray Matter,lti-gray-matter,https://www.igdb.com/companies/lti-gray-matter
-53,840,1300060800,Microsoft Game Studios,microsoft-game-studios,https://www.igdb.com/companies/microsoft-game-studios
+53,1300060800,Microsoft Game Studios,microsoft-game-studios,https://www.igdb.com/companies/microsoft-game-studios
 54,1300060800,TransGaming Technologies,transgaming-technologies,https://www.igdb.com/companies/transgaming-technologies
-55,840,1300060800,Turtle Rock Studios,turtle-rock-studios,https://www.igdb.com/companies/turtle-rock-studios
-56,840,1300109760,Valve,valve,https://www.igdb.com/companies/valve
-57,124,1300060800,Certain Affinity,certain-affinity,https://www.igdb.com/companies/certain-affinity
-58,752,1300060800,Mojang Studios,mojang-studios,https://www.igdb.com/companies/mojang-studios
-59,840,1300060800,Blizzard North,blizzard-north,https://www.igdb.com/companies/blizzard-north
+55,1300060800,Turtle Rock Studios,turtle-rock-studios,https://www.igdb.com/companies/turtle-rock-studios
+56,1300109760,Valve,valve,https://www.igdb.com/companies/valve
+57,1300060800,Certain Affinity,certain-affinity,https://www.igdb.com/companies/certain-affinity
+58,1300060800,Mojang Studios,mojang-studios,https://www.igdb.com/companies/mojang-studios
+59,1300060800,Blizzard North,blizzard-north,https://www.igdb.com/companies/blizzard-north
 60,1300060800,Climax Group,climax-group,https://www.igdb.com/companies/climax-group
-61,250,1300112911,Gameloft,gameloft,https://www.igdb.com/companies/gameloft
-62,840,1300060800,Griptonite Games,griptonite-games,https://www.igdb.com/companies/griptonite-games
-63,840,1300184242,Pandemic Studios,pandemic-studios,https://www.igdb.com/companies/pandemic-studios
-64,840,1300147200,Savage Entertainment,savage-entertainment,https://www.igdb.com/companies/savage-entertainment
-65,840,1300147200,Luxoflux,luxoflux,https://www.igdb.com/companies/luxoflux
-66,840,1300185443,Activision,activision,https://www.igdb.com/companies/activision
-67,840,1300147200,Petroglyph Games,petroglyph-games,https://www.igdb.com/companies/petroglyph-games
-68,840,1300185938,Ensemble Studios,ensemble-studios,https://www.igdb.com/companies/ensemble-studios
+61,1300112911,Gameloft,gameloft,https://www.igdb.com/companies/gameloft
+62,1300060800,Griptonite Games,griptonite-games,https://www.igdb.com/companies/griptonite-games
+63,1300184242,Pandemic Studios,pandemic-studios,https://www.igdb.com/companies/pandemic-studios
+64,1300147200,Savage Entertainment,savage-entertainment,https://www.igdb.com/companies/savage-entertainment
+65,1300147200,Luxoflux,luxoflux,https://www.igdb.com/companies/luxoflux
+66,1300185443,Activision,activision,https://www.igdb.com/companies/activision
+67,1300147200,Petroglyph Games,petroglyph-games,https://www.igdb.com/companies/petroglyph-games
+68,1300185938,Ensemble Studios,ensemble-studios,https://www.igdb.com/companies/ensemble-studios
 69,1300147200,Big Ape Productions,big-ape-productions,https://www.igdb.com/companies/big-ape-productions
-70,392,1300188090,Nintendo,nintendo,https://www.igdb.com/companies/nintendo
-71,840,1300147200,Raven Software,raven-software,https://www.igdb.com/companies/raven-software
-72,840,1300194653,Vicarious Visions,vicarious-visions,https://www.igdb.com/companies/vicarious-visions
-73,840,1300194833,Aspyr Media,aspyr-media,https://www.igdb.com/companies/aspyr-media
-74,392,1300147200,CyberFront,cyberfront,https://www.igdb.com/companies/cyberfront
-75,276,1300147200,Factor 5,factor-5,https://www.igdb.com/companies/factor-5
+70,1300188090,Nintendo,nintendo,https://www.igdb.com/companies/nintendo
+71,1300147200,Raven Software,raven-software,https://www.igdb.com/companies/raven-software
+72,1300194653,Vicarious Visions,vicarious-visions,https://www.igdb.com/companies/vicarious-visions
+73,1300194833,Aspyr Media,aspyr-media,https://www.igdb.com/companies/aspyr-media
+74,1300147200,CyberFront,cyberfront,https://www.igdb.com/companies/cyberfront
+75,1300147200,Factor 5,factor-5,https://www.igdb.com/companies/factor-5
 76,1300147200,Ronin Entertainment,ronin-entertainment,https://www.igdb.com/companies/ronin-entertainment
-77,840,1300147200,Totally Games,totally-games,https://www.igdb.com/companies/totally-games
+77,1300147200,Totally Games,totally-games,https://www.igdb.com/companies/totally-games
 78,1300147200,Snowblind Studios,snowblind-studios,https://www.igdb.com/companies/snowblind-studios
-79,250,1300147200,Magic Pockets,magic-pockets,https://www.igdb.com/companies/magic-pockets
-80,840,1300147200,Vivendi Games,vivendi-games,https://www.igdb.com/companies/vivendi-games
+79,1300147200,Magic Pockets,magic-pockets,https://www.igdb.com/companies/magic-pockets
+80,1300147200,Vivendi Games,vivendi-games,https://www.igdb.com/companies/vivendi-games
 81,1300147200,Destination Software,destination-software,https://www.igdb.com/companies/destination-software
 82,1300147200,Atari,atari,https://www.igdb.com/companies/atari
 84,1300147200,CTO SpA,cto-spa,https://www.igdb.com/companies/cto-spa
-85,840,1300266210,Double Fine Productions,double-fine-productions,https://www.igdb.com/companies/double-fine-productions
-87,840,1300286949,Mythic Entertainment,mythic-entertainment,https://www.igdb.com/companies/mythic-entertainment
-88,840,1300233600,Shiny Entertainment,shiny-entertainment,https://www.igdb.com/companies/shiny-entertainment
+85,1300266210,Double Fine Productions,double-fine-productions,https://www.igdb.com/companies/double-fine-productions
+87,1300286949,Mythic Entertainment,mythic-entertainment,https://www.igdb.com/companies/mythic-entertainment
+88,1300233600,Shiny Entertainment,shiny-entertainment,https://www.igdb.com/companies/shiny-entertainment
 89,1300233600,Shokwave,shokwave,https://www.igdb.com/companies/shokwave
-90,840,1300233600,Neversoft Entertainment,neversoft-entertainment,https://www.igdb.com/companies/neversoft-entertainment
+90,1300233600,Neversoft Entertainment,neversoft-entertainment,https://www.igdb.com/companies/neversoft-entertainment
 91,1300233600,Playmates Interactive Entertainment,playmates-interactive-entertainment,https://www.igdb.com/companies/playmates-interactive-entertainment
-92,840,1300359886,NovaLogic,novalogic,https://www.igdb.com/companies/novalogic
+92,1300359886,NovaLogic,novalogic,https://www.igdb.com/companies/novalogic
 93,1300320000,Square Enix 1st Production Department,square-enix-1st-production-department,https://www.igdb.com/companies/square-enix-1st-production-department
-94,752,1300320000,EA Digital Illusions CE,ea-digital-illusions-ce,https://www.igdb.com/companies/ea-digital-illusions-ce
-95,840,1300320000,Disney Interactive,disney-interactive,https://www.igdb.com/companies/disney-interactive
-97,840,1300406400,New World Computing,new-world-computing,https://www.igdb.com/companies/new-world-computing
-99,840,1300406400,The 3DO Company,the-3do-company,https://www.igdb.com/companies/the-3do-company
+94,1300320000,EA Digital Illusions CE,ea-digital-illusions-ce,https://www.igdb.com/companies/ea-digital-illusions-ce
+95,1300320000,Disney Interactive,disney-interactive,https://www.igdb.com/companies/disney-interactive
+97,1300406400,New World Computing,new-world-computing,https://www.igdb.com/companies/new-world-computing
+99,1300406400,The 3DO Company,the-3do-company,https://www.igdb.com/companies/the-3do-company
 100,1300406400,Nival Interactive,nival-interactive,https://www.igdb.com/companies/nival-interactive
 101,1300406400,Freeverse Software,freeverse-software,https://www.igdb.com/companies/freeverse-software
-103,348,1300406400,Black Hole Entertainment,black-hole-entertainment,https://www.igdb.com/companies/black-hole-entertainment
+103,1300406400,Black Hole Entertainment,black-hole-entertainment,https://www.igdb.com/companies/black-hole-entertainment
 104,1654695687,Ubisoft Entertainment,ubisoft-entertainment,https://www.igdb.com/companies/ubisoft-entertainment
-106,840,1300406400,Loki Software,loki-software,https://www.igdb.com/companies/loki-software
+106,1300406400,Loki Software,loki-software,https://www.igdb.com/companies/loki-software
 107,1300406400,Lego Media,lego-media,https://www.igdb.com/companies/lego-media
-108,616,1300492800,Techland,techland,https://www.igdb.com/companies/techland
-110,250,1300495635,Focus Entertainment,focus-entertainment,https://www.igdb.com/companies/focus-entertainment
-111,826,1300724395,The Creative Assembly,the-creative-assembly,https://www.igdb.com/companies/the-creative-assembly
-112,392,1300665600,Sega,sega,https://www.igdb.com/companies/sega
-113,840,1300665600,Westwood Studios,westwood-studios,https://www.igdb.com/companies/westwood-studios
-114,276,1300838400,reLINE Software,reline-software,https://www.igdb.com/companies/reline-software
-115,826,1300887973,Codemasters,codemasters,https://www.igdb.com/companies/codemasters
-116,203,1300838400,Bohemia Interactive Studio,bohemia-interactive-studio,https://www.igdb.com/companies/bohemia-interactive-studio
-117,840,1300924800,Troika Games,troika-games,https://www.igdb.com/companies/troika-games
+108,1300492800,Techland,techland,https://www.igdb.com/companies/techland
+110,1300495635,Focus Entertainment,focus-entertainment,https://www.igdb.com/companies/focus-entertainment
+111,1300724395,The Creative Assembly,the-creative-assembly,https://www.igdb.com/companies/the-creative-assembly
+112,1300665600,Sega,sega,https://www.igdb.com/companies/sega
+113,1300665600,Westwood Studios,westwood-studios,https://www.igdb.com/companies/westwood-studios
+114,1300838400,reLINE Software,reline-software,https://www.igdb.com/companies/reline-software
+115,1300887973,Codemasters,codemasters,https://www.igdb.com/companies/codemasters
+116,1300838400,Bohemia Interactive Studio,bohemia-interactive-studio,https://www.igdb.com/companies/bohemia-interactive-studio
+117,1300924800,Troika Games,troika-games,https://www.igdb.com/companies/troika-games
 118,1300924800,Paradox Development,paradox-development,https://www.igdb.com/companies/paradox-development
 119,1300924800,Mass Media Interactive Entertainment,mass-media-interactive-entertainment,https://www.igdb.com/companies/mass-media-interactive-entertainment
 120,1300924800,MacPlay,macplay,https://www.igdb.com/companies/macplay
 121,1300924800,Blizzard Classic Arcade,blizzard-classic-arcade,https://www.igdb.com/companies/blizzard-classic-arcade
-122,276,1300924800,Crytek Frankfurt,crytek-frankfurt,https://www.igdb.com/companies/crytek-frankfurt
+122,1300924800,Crytek Frankfurt,crytek-frankfurt,https://www.igdb.com/companies/crytek-frankfurt
 125,1300924800,Crytek Budapest,crytek-budapest,https://www.igdb.com/companies/crytek-budapest
-126,840,1301167079,Bethesda Game Studios,bethesda-game-studios,https://www.igdb.com/companies/bethesda-game-studios
+126,1301167079,Bethesda Game Studios,bethesda-game-studios,https://www.igdb.com/companies/bethesda-game-studios
 127,1301270400,Funcom Productions,funcom-productions,https://www.igdb.com/companies/funcom-productions
-128,840,1301300228,Microsoft,microsoft,https://www.igdb.com/companies/microsoft
-129,392,1301300228,Konami,konami,https://www.igdb.com/companies/konami
-130,840,1301270400,MacSoft Games,macsoft-games,https://www.igdb.com/companies/macsoft-games
-131,840,1301270400,Robot Entertainment,robot-entertainment,https://www.igdb.com/companies/robot-entertainment
-132,840,1301270400,Destineer,destineer,https://www.igdb.com/companies/destineer
-133,840,1301270400,Rogue Entertainment,rogue-entertainment,https://www.igdb.com/companies/rogue-entertainment
-134,40,1301270400,Max Design,max-design,https://www.igdb.com/companies/max-design
+128,1301300228,Microsoft,microsoft,https://www.igdb.com/companies/microsoft
+129,1301300228,Konami,konami,https://www.igdb.com/companies/konami
+130,1301270400,MacSoft Games,macsoft-games,https://www.igdb.com/companies/macsoft-games
+131,1301270400,Robot Entertainment,robot-entertainment,https://www.igdb.com/companies/robot-entertainment
+132,1301270400,Destineer,destineer,https://www.igdb.com/companies/destineer
+133,1301270400,Rogue Entertainment,rogue-entertainment,https://www.igdb.com/companies/rogue-entertainment
+134,1301270400,Max Design,max-design,https://www.igdb.com/companies/max-design
 135,1301270400,Sunflowers,sunflowers,https://www.igdb.com/companies/sunflowers
-136,840,1301270400,Planet Moon Studios,planet-moon-studios,https://www.igdb.com/companies/planet-moon-studios
-137,752,1301270400,Digital Illusions CE,digital-illusions-ce,https://www.igdb.com/companies/digital-illusions-ce
+136,1301270400,Planet Moon Studios,planet-moon-studios,https://www.igdb.com/companies/planet-moon-studios
+137,1301270400,Digital Illusions CE,digital-illusions-ce,https://www.igdb.com/companies/digital-illusions-ce
 138,1301270400,Refraction Games,refraction-games,https://www.igdb.com/companies/refraction-games
-139,840,1301307975,Take-Two Interactive,take-two-interactive,https://www.igdb.com/companies/take-two-interactive
-140,840,1301270400,EA Los Angeles,ea-los-angeles,https://www.igdb.com/companies/ea-los-angeles
-141,826,1301270400,Virgin Interactive Entertainment (Europe) Ltd.,virgin-interactive-entertainment-europe-ltd,https://www.igdb.com/companies/virgin-interactive-entertainment-europe-ltd
-142,840,1301270400,Westwood Pacific,westwood-pacific,https://www.igdb.com/companies/westwood-pacific
+139,1301307975,Take-Two Interactive,take-two-interactive,https://www.igdb.com/companies/take-two-interactive
+140,1301270400,EA Los Angeles,ea-los-angeles,https://www.igdb.com/companies/ea-los-angeles
+141,1301270400,Virgin Interactive Entertainment (Europe) Ltd.,virgin-interactive-entertainment-europe-ltd,https://www.igdb.com/companies/virgin-interactive-entertainment-europe-ltd
+142,1301270400,Westwood Pacific,westwood-pacific,https://www.igdb.com/companies/westwood-pacific
 143,1301270400,(Archive) EA Games - duplicate,archive-ea-games-duplicate,https://www.igdb.com/companies/archive-ea-games-duplicate
-144,804,1301309234,GSC Game World,gsc-game-world,https://www.igdb.com/companies/gsc-game-world
-145,276,1301270400,cdv Software Entertainment,cdv-software-entertainment,https://www.igdb.com/companies/cdv-software-entertainment
-146,124,1301270400,Strategy First,strategy-first,https://www.igdb.com/companies/strategy-first
+144,1301309234,GSC Game World,gsc-game-world,https://www.igdb.com/companies/gsc-game-world
+145,1301270400,cdv Software Entertainment,cdv-software-entertainment,https://www.igdb.com/companies/cdv-software-entertainment
+146,1301270400,Strategy First,strategy-first,https://www.igdb.com/companies/strategy-first
 147,1301270400,Vivendi Universal,vivendi-universal,https://www.igdb.com/companies/vivendi-universal
-148,840,1301310098,Gearbox Software,gearbox-software,https://www.igdb.com/companies/gearbox-software
+148,1301310098,Gearbox Software,gearbox-software,https://www.igdb.com/companies/gearbox-software
 149,1301270400,Ritual Entertainment,ritual-entertainment,https://www.igdb.com/companies/ritual-entertainment
-150,840,1301270400,Hidden Path Entertainment,hidden-path-entertainment,https://www.igdb.com/companies/hidden-path-entertainment
-151,840,1301270400,Simtex,simtex,https://www.igdb.com/companies/simtex
-152,840,1301317130,MicroProse,microprose,https://www.igdb.com/companies/microprose
+150,1301270400,Hidden Path Entertainment,hidden-path-entertainment,https://www.igdb.com/companies/hidden-path-entertainment
+151,1301270400,Simtex,simtex,https://www.igdb.com/companies/simtex
+152,1301317130,MicroProse,microprose,https://www.igdb.com/companies/microprose
 153,1301356800,Digital Illusions CE: Canada,digital-illusions-ce-canada,https://www.igdb.com/companies/digital-illusions-ce-canada
 154,1301356800,Neowiz Games,neowiz-games,https://www.igdb.com/companies/neowiz-games
-155,752,1301356800,Easy Studios,easy-studios,https://www.igdb.com/companies/easy-studios
-158,826,1301356800,Crytek UK,crytek-uk,https://www.igdb.com/companies/crytek-uk
-159,392,1301471795,Konami Computer Entertainment Tokyo,konami-computer-entertainment-tokyo,https://www.igdb.com/companies/konami-computer-entertainment-tokyo
-160,840,1301472282,Double Helix Games,double-helix-games,https://www.igdb.com/companies/double-helix-games
-161,392,1301472282,Konami Digital Entertainment,konami-digital-entertainment,https://www.igdb.com/companies/konami-digital-entertainment
-162,203,1301472383,Vatra Games,vatra-games,https://www.igdb.com/companies/vatra-games
-163,826,1301472594,Climax Studios,climax-studios,https://www.igdb.com/companies/climax-studios
-164,826,1301443200,Rocksteady Studios,rocksteady-studios,https://www.igdb.com/companies/rocksteady-studios
+155,1301356800,Easy Studios,easy-studios,https://www.igdb.com/companies/easy-studios
+158,1301356800,Crytek UK,crytek-uk,https://www.igdb.com/companies/crytek-uk
+159,1301471795,Konami Computer Entertainment Tokyo,konami-computer-entertainment-tokyo,https://www.igdb.com/companies/konami-computer-entertainment-tokyo
+160,1301472282,Double Helix Games,double-helix-games,https://www.igdb.com/companies/double-helix-games
+161,1301472282,Konami Digital Entertainment,konami-digital-entertainment,https://www.igdb.com/companies/konami-digital-entertainment
+162,1301472383,Vatra Games,vatra-games,https://www.igdb.com/companies/vatra-games
+163,1301472594,Climax Studios,climax-studios,https://www.igdb.com/companies/climax-studios
+164,1301443200,Rocksteady Studios,rocksteady-studios,https://www.igdb.com/companies/rocksteady-studios
 165,1301443200,DC Entertainment,dc-entertainment,https://www.igdb.com/companies/dc-entertainment
 166,1301616000,Shadows in Darkness,shadows-in-darkness,https://www.igdb.com/companies/shadows-in-darkness
-167,616,1301656755,People Can Fly,people-can-fly,https://www.igdb.com/companies/people-can-fly
+167,1301656755,People Can Fly,people-can-fly,https://www.igdb.com/companies/people-can-fly
 168,1301616000,"(Archive) Epic Games, Inc.",archive-epic-games-inc,https://www.igdb.com/companies/archive-epic-games-inc
-169,724,1301702400,MercurySteam,mercurysteam,https://www.igdb.com/companies/mercurysteam
-170,392,1301702400,Kojima Productions,kojima-productions,https://www.igdb.com/companies/kojima-productions
+169,1301702400,MercurySteam,mercurysteam,https://www.igdb.com/companies/mercurysteam
+170,1301702400,Kojima Productions,kojima-productions,https://www.igdb.com/companies/kojima-productions
 173,1301875200,The Omni Group,the-omni-group,https://www.igdb.com/companies/the-omni-group
 174,1301875200,Digital Mayhem,digital-mayhem,https://www.igdb.com/companies/digital-mayhem
-175,100,1301875200,Haemimont Games,haemimont-games,https://www.igdb.com/companies/haemimont-games
+175,1301875200,Haemimont Games,haemimont-games,https://www.igdb.com/companies/haemimont-games
 176,1301875200,FX Interactive,fx-interactive,https://www.igdb.com/companies/fx-interactive
 177,1301875200,(Archive) duplicate company name,archive-duplicate-company-name,https://www.igdb.com/companies/archive-duplicate-company-name
 178,1301875200,Intelligent Games,intelligent-games,https://www.igdb.com/companies/intelligent-games
-179,840,1301931506,Activision Blizzard,activision-blizzard,https://www.igdb.com/companies/activision-blizzard
-180,826,1301875200,Mythos Games,mythos-games,https://www.igdb.com/companies/mythos-games
+179,1301931506,Activision Blizzard,activision-blizzard,https://www.igdb.com/companies/activision-blizzard
+180,1301875200,Mythos Games,mythos-games,https://www.igdb.com/companies/mythos-games
 181,1301875200,Blue Fang Games,blue-fang-games,https://www.igdb.com/companies/blue-fang-games
-182,840,1301875200,Nihilistic Software,nihilistic-software,https://www.igdb.com/companies/nihilistic-software
-183,840,1301947109,Hasbro Interactive,hasbro-interactive,https://www.igdb.com/companies/hasbro-interactive
-184,840,1301988746,id Software,id-software,https://www.igdb.com/companies/id-software
+182,1301875200,Nihilistic Software,nihilistic-software,https://www.igdb.com/companies/nihilistic-software
+183,1301947109,Hasbro Interactive,hasbro-interactive,https://www.igdb.com/companies/hasbro-interactive
+184,1301988746,id Software,id-software,https://www.igdb.com/companies/id-software
 185,1301961600,Ninjaforce,ninjaforce,https://www.igdb.com/companies/ninjaforce
 186,1301961600,Stalker Entertainment,stalker-entertainment,https://www.igdb.com/companies/stalker-entertainment
-187,840,1301961600,"Nerve Software, LLC",nerve-software-llc,https://www.igdb.com/companies/nerve-software-llc
-188,840,1301961600,Apogee Software,apogee-software,https://www.igdb.com/companies/apogee-software
-189,840,1301961600,BAM! Entertainment,bam-entertainment,https://www.igdb.com/companies/bam-entertainment
-190,840,1301961600,Atari Corporation,atari-corporation,https://www.igdb.com/companies/atari-corporation
-191,392,1301961600,Imagineer,imagineer,https://www.igdb.com/companies/imagineer
+187,1301961600,"Nerve Software, LLC",nerve-software-llc,https://www.igdb.com/companies/nerve-software-llc
+188,1301961600,Apogee Software,apogee-software,https://www.igdb.com/companies/apogee-software
+189,1301961600,BAM! Entertainment,bam-entertainment,https://www.igdb.com/companies/bam-entertainment
+190,1301961600,Atari Corporation,atari-corporation,https://www.igdb.com/companies/atari-corporation
+191,1301961600,Imagineer,imagineer,https://www.igdb.com/companies/imagineer
 192,1301961600,Zodttd,zodttd,https://www.igdb.com/companies/zodttd
 193,1301961600,Jellyvision,jellyvision,https://www.igdb.com/companies/jellyvision
 194,1301961600,Hothouse Creations,hothouse-creations,https://www.igdb.com/companies/hothouse-creations
-195,840,1301996377,Brøderbund Software,broderbund-software,https://www.igdb.com/companies/broderbund-software
-196,124,1301996729,Relic Entertainment,relic-entertainment,https://www.igdb.com/companies/relic-entertainment
-197,840,1301961600,THQ,thq,https://www.igdb.com/companies/thq
-198,840,1301961600,Iron Lore Entertainment,iron-lore-entertainment,https://www.igdb.com/companies/iron-lore-entertainment
+195,1301996377,Brøderbund Software,broderbund-software,https://www.igdb.com/companies/broderbund-software
+196,1301996729,Relic Entertainment,relic-entertainment,https://www.igdb.com/companies/relic-entertainment
+197,1301961600,THQ,thq,https://www.igdb.com/companies/thq
+198,1301961600,Iron Lore Entertainment,iron-lore-entertainment,https://www.igdb.com/companies/iron-lore-entertainment
 199,1301961600,Sonokong,sonokong,https://www.igdb.com/companies/sonokong
-200,392,1302003962,Electronic Arts Victor,electronic-arts-victor,https://www.igdb.com/companies/electronic-arts-victor
-201,840,1301961600,Cyberlore Studios,cyberlore-studios,https://www.igdb.com/companies/cyberlore-studios
+200,1302003962,Electronic Arts Victor,electronic-arts-victor,https://www.igdb.com/companies/electronic-arts-victor
+201,1301961600,Cyberlore Studios,cyberlore-studios,https://www.igdb.com/companies/cyberlore-studios
 202,1301961600,Pterodon,pterodon,https://www.igdb.com/companies/pterodon
-203,203,1301961600,Illusion Softworks,illusion-softworks,https://www.igdb.com/companies/illusion-softworks
-204,840,1302004828,Gathering of Developers,gathering-of-developers,https://www.igdb.com/companies/gathering-of-developers
-205,840,1302006203,GT Interactive,gt-interactive,https://www.igdb.com/companies/gt-interactive
+203,1301961600,Illusion Softworks,illusion-softworks,https://www.igdb.com/companies/illusion-softworks
+204,1302004828,Gathering of Developers,gathering-of-developers,https://www.igdb.com/companies/gathering-of-developers
+205,1302006203,GT Interactive,gt-interactive,https://www.igdb.com/companies/gt-interactive
 206,1301961600,Epic MegaGames,epic-megagames,https://www.igdb.com/companies/epic-megagames
 207,1301961600,PopTop Software,poptop-software,https://www.igdb.com/companies/poptop-software
-208,826,1302006939,Frontier Developments,frontier-developments,https://www.igdb.com/companies/frontier-developments
+208,1302006939,Frontier Developments,frontier-developments,https://www.igdb.com/companies/frontier-developments
 209,1301961600,Wideload Games,wideload-games,https://www.igdb.com/companies/wideload-games
 210,1301961600,Southlogic Studios,southlogic-studios,https://www.igdb.com/companies/southlogic-studios
-211,124,1302134400,Blue Castle Games,blue-castle-games,https://www.igdb.com/companies/blue-castle-games
-212,840,1302134400,Sunstorm Interactive,sunstorm-interactive,https://www.igdb.com/companies/sunstorm-interactive
-213,250,1302178280,Infogrames,infogrames,https://www.igdb.com/companies/infogrames
+211,1302134400,Blue Castle Games,blue-castle-games,https://www.igdb.com/companies/blue-castle-games
+212,1302134400,Sunstorm Interactive,sunstorm-interactive,https://www.igdb.com/companies/sunstorm-interactive
+213,1302178280,Infogrames,infogrames,https://www.igdb.com/companies/infogrames
 214,1302134400,Sylum Entertainment,sylum-entertainment,https://www.igdb.com/companies/sylum-entertainment
-215,840,1302134400,WizardWorks Software,wizardworks-software,https://www.igdb.com/companies/wizardworks-software
+215,1302134400,WizardWorks Software,wizardworks-software,https://www.igdb.com/companies/wizardworks-software
 216,1302134400,Glu Mobile,glu-mobile,https://www.igdb.com/companies/glu-mobile
 217,1302134400,Morning Star Multimedia,morning-star-multimedia,https://www.igdb.com/companies/morning-star-multimedia
 218,1302134400,Vatical Entertainment,vatical-entertainment,https://www.igdb.com/companies/vatical-entertainment
 219,1302220800,Team Little Devils,team-little-devils,https://www.igdb.com/companies/team-little-devils
-221,826,1302220800,Splash Damage,splash-damage,https://www.igdb.com/companies/splash-damage
-222,124,1302268060,BioWare Edmonton,bioware-edmonton,https://www.igdb.com/companies/bioware-edmonton
-223,840,1302220800,Edge of Reality,edge-of-reality,https://www.igdb.com/companies/edge-of-reality
-224,840,1302268519,3D Realms,3d-realms,https://www.igdb.com/companies/3d-realms
-225,840,1302220800,Lobotomy Software,lobotomy-software,https://www.igdb.com/companies/lobotomy-software
+221,1302220800,Splash Damage,splash-damage,https://www.igdb.com/companies/splash-damage
+222,1302268060,BioWare Edmonton,bioware-edmonton,https://www.igdb.com/companies/bioware-edmonton
+223,1302220800,Edge of Reality,edge-of-reality,https://www.igdb.com/companies/edge-of-reality
+224,1302268519,3D Realms,3d-realms,https://www.igdb.com/companies/3d-realms
+225,1302220800,Lobotomy Software,lobotomy-software,https://www.igdb.com/companies/lobotomy-software
 226,1302220800,Aardvark Software,aardvark-software,https://www.igdb.com/companies/aardvark-software
-227,826,1302220800,U.S. Gold,u-s-gold,https://www.igdb.com/companies/u-s-gold
+227,1302220800,U.S. Gold,u-s-gold,https://www.igdb.com/companies/u-s-gold
 228,1302220800,FormGen,formgen,https://www.igdb.com/companies/formgen
-229,840,1302220800,SEGA of America,sega-of-america,https://www.igdb.com/companies/sega-of-america
-230,840,1302220800,MachineWorks Northwest,machineworks-northwest,https://www.igdb.com/companies/machineworks-northwest
+229,1302220800,SEGA of America,sega-of-america,https://www.igdb.com/companies/sega-of-america
+230,1302220800,MachineWorks Northwest,machineworks-northwest,https://www.igdb.com/companies/machineworks-northwest
 231,1302220800,Tec Toy Indústria de Brinquedos,tec-toy-industria-de-brinquedos,https://www.igdb.com/companies/tec-toy-industria-de-brinquedos
 232,1302220800,Triptych Games,triptych-games,https://www.igdb.com/companies/triptych-games
-233,124,1302220800,Piranha Games,piranha-games,https://www.igdb.com/companies/piranha-games
-234,250,1302220800,Cryo Interactive,cryo-interactive,https://www.igdb.com/companies/cryo-interactive
+233,1302220800,Piranha Games,piranha-games,https://www.igdb.com/companies/piranha-games
+234,1302220800,Cryo Interactive,cryo-interactive,https://www.igdb.com/companies/cryo-interactive
 235,1302220800,Heuristic Park,heuristic-park,https://www.igdb.com/companies/heuristic-park
-236,124,1302220800,DreamCatcher Interactive,dreamcatcher-interactive,https://www.igdb.com/companies/dreamcatcher-interactive
-237,276,1302220800,Crimson Cow,crimson-cow,https://www.igdb.com/companies/crimson-cow
+236,1302220800,DreamCatcher Interactive,dreamcatcher-interactive,https://www.igdb.com/companies/dreamcatcher-interactive
+237,1302220800,Crimson Cow,crimson-cow,https://www.igdb.com/companies/crimson-cow
 238,1302220800,Typhoon Games,typhoon-games,https://www.igdb.com/companies/typhoon-games
 239,1302220800,Gas Powered Games,gas-powered-games,https://www.igdb.com/companies/gas-powered-games
-240,840,1302220800,Stainless Steel Studios,stainless-steel-studios,https://www.igdb.com/companies/stainless-steel-studios
-241,840,1302220800,989 Studios,989-studios,https://www.igdb.com/companies/989-studios
+240,1302220800,Stainless Steel Studios,stainless-steel-studios,https://www.igdb.com/companies/stainless-steel-studios
+241,1302220800,989 Studios,989-studios,https://www.igdb.com/companies/989-studios
 242,1302220800,Verant Interactive,verant-interactive,https://www.igdb.com/companies/verant-interactive
-243,840,1302273372,Sony Online Entertainment,sony-online-entertainment,https://www.igdb.com/companies/sony-online-entertainment
+243,1302273372,Sony Online Entertainment,sony-online-entertainment,https://www.igdb.com/companies/sony-online-entertainment
 244,1302220800,Edusoft,edusoft,https://www.igdb.com/companies/edusoft
-245,840,1302273939,ZeniMax Media,zenimax-media,https://www.igdb.com/companies/zenimax-media
+245,1302273939,ZeniMax Media,zenimax-media,https://www.igdb.com/companies/zenimax-media
 246,1302220800,Micro Forté,micro-forte,https://www.igdb.com/companies/micro-forte
-247,840,1302220800,14 Degrees East,14-degrees-east,https://www.igdb.com/companies/14-degrees-east
-248,392,1302274254,Bandai Namco Entertainment,bandai-namco-entertainment,https://www.igdb.com/companies/bandai-namco-entertainment
-249,276,1302220800,Crytek,crytek,https://www.igdb.com/companies/crytek
-250,392,1302307200,Square,square,https://www.igdb.com/companies/square
-251,392,1302342069,Sunsoft,sunsoft,https://www.igdb.com/companies/sunsoft
+247,1302220800,14 Degrees East,14-degrees-east,https://www.igdb.com/companies/14-degrees-east
+248,1302274254,Bandai Namco Entertainment,bandai-namco-entertainment,https://www.igdb.com/companies/bandai-namco-entertainment
+249,1302220800,Crytek,crytek,https://www.igdb.com/companies/crytek
+250,1302307200,Square,square,https://www.igdb.com/companies/square
+251,1302342069,Sunsoft,sunsoft,https://www.igdb.com/companies/sunsoft
 252,1302307200,Square Electronic Arts,square-electronic-arts,https://www.igdb.com/companies/square-electronic-arts
-253,826,1302307200,Square Europe,square-europe,https://www.igdb.com/companies/square-europe
+253,1302307200,Square Europe,square-europe,https://www.igdb.com/companies/square-europe
 254,1302393600,Widescreen Games,widescreen-games,https://www.igdb.com/companies/widescreen-games
-255,840,1302480000,ArenaNet,arenanet,https://www.igdb.com/companies/arenanet
-256,410,1302514113,NCsoft,ncsoft,https://www.igdb.com/companies/ncsoft
+255,1302480000,ArenaNet,arenanet,https://www.igdb.com/companies/arenanet
+256,1302514113,NCsoft,ncsoft,https://www.igdb.com/companies/ncsoft
 257,1302480000,Sierra Studios,sierra-studios,https://www.igdb.com/companies/sierra-studios
 258,1302480000,KnowWonder,knowwonder,https://www.igdb.com/companies/knowwonder
 259,1302480000,Warthog Games,warthog-games,https://www.igdb.com/companies/warthog-games
 260,1302480000,Argonaut Games,argonaut-games,https://www.igdb.com/companies/argonaut-games
-261,250,1302514840,Quantic Dream,quantic-dream,https://www.igdb.com/companies/quantic-dream
+261,1302514840,Quantic Dream,quantic-dream,https://www.igdb.com/companies/quantic-dream
 262,1302480000,Flagship Studios,flagship-studios,https://www.igdb.com/companies/flagship-studios
-263,392,1302480000,Namco,namco,https://www.igdb.com/companies/namco
+263,1302480000,Namco,namco,https://www.igdb.com/companies/namco
 264,1302480000,HanbitSoft,hanbitsoft,https://www.igdb.com/companies/hanbitsoft
 265,1302480000,Contraband Entertainment,contraband-entertainment,https://www.igdb.com/companies/contraband-entertainment
 266,1302480000,Tarantula Studios,tarantula-studios,https://www.igdb.com/companies/tarantula-studios
-267,840,1302529102,TalonSoft,talonsoft,https://www.igdb.com/companies/talonsoft
-268,124,1302480000,Global Star Software,global-star-software,https://www.igdb.com/companies/global-star-software
-269,826,1302480000,Enlight Software Limited,enlight-software-limited,https://www.igdb.com/companies/enlight-software-limited
-270,40,1302480000,JoWooD Productions Software,jowood-productions-software,https://www.igdb.com/companies/jowood-productions-software
-271,840,1302480000,The Collective,the-collective,https://www.igdb.com/companies/the-collective
+267,1302529102,TalonSoft,talonsoft,https://www.igdb.com/companies/talonsoft
+268,1302480000,Global Star Software,global-star-software,https://www.igdb.com/companies/global-star-software
+269,1302480000,Enlight Software Limited,enlight-software-limited,https://www.igdb.com/companies/enlight-software-limited
+270,1302480000,JoWooD Productions Software,jowood-productions-software,https://www.igdb.com/companies/jowood-productions-software
+271,1302480000,The Collective,the-collective,https://www.igdb.com/companies/the-collective
 272,1302480000,Madlab Software,madlab-software,https://www.igdb.com/companies/madlab-software
-273,840,1302480000,Sir-tech Software,sir-tech-software,https://www.igdb.com/companies/sir-tech-software
-274,124,1302480000,Sir-Tech Canada,sir-tech-canada,https://www.igdb.com/companies/sir-tech-canada
+273,1302480000,Sir-tech Software,sir-tech-software,https://www.igdb.com/companies/sir-tech-software
+274,1302480000,Sir-Tech Canada,sir-tech-canada,https://www.igdb.com/companies/sir-tech-canada
 275,1302480000,Titan Computer,titan-computer,https://www.igdb.com/companies/titan-computer
 276,1302480000,EA UK,ea-uk,https://www.igdb.com/companies/ea-uk
-277,124,1302534759,EA Canada,ea-canada,https://www.igdb.com/companies/ea-canada
-278,840,1302480000,Silicon & Synapse,silicon-synapse,https://www.igdb.com/companies/silicon-synapse
-279,826,1302480000,4J Studios,4j-studios,https://www.igdb.com/companies/4j-studios
-280,752,1302480000,Starbreeze Studios,starbreeze-studios,https://www.igdb.com/companies/starbreeze-studios
+277,1302534759,EA Canada,ea-canada,https://www.igdb.com/companies/ea-canada
+278,1302480000,Silicon & Synapse,silicon-synapse,https://www.igdb.com/companies/silicon-synapse
+279,1302480000,4J Studios,4j-studios,https://www.igdb.com/companies/4j-studios
+280,1302480000,Starbreeze Studios,starbreeze-studios,https://www.igdb.com/companies/starbreeze-studios
 281,1302480000,Tigon Studios,tigon-studios,https://www.igdb.com/companies/tigon-studios
-282,840,1302480000,Trilobyte,trilobyte,https://www.igdb.com/companies/trilobyte
-283,840,1302608836,The Sims Studio,the-sims-studio,https://www.igdb.com/companies/the-sims-studio
-284,840,1302609152,Maxis,maxis,https://www.igdb.com/companies/maxis
-285,826,1302566400,Tiertex Design Studios,tiertex-design-studios,https://www.igdb.com/companies/tiertex-design-studios
-287,840,1302566400,Acclaim Entertainment,acclaim-entertainment,https://www.igdb.com/companies/acclaim-entertainment
-290,208,1302626105,IO Interactive,io-interactive,https://www.igdb.com/companies/io-interactive
-291,528,1302626105,Nixxes Software,nixxes-software,https://www.igdb.com/companies/nixxes-software
-292,826,1302566400,Traveller's Tales,traveller-s-tales,https://www.igdb.com/companies/traveller-s-tales
-293,826,1302627341,TT Games,tt-games,https://www.igdb.com/companies/tt-games
-294,840,1302566400,Telltale Games,telltale-games,https://www.igdb.com/companies/telltale-games
-295,840,1302566400,Origin Systems,origin-systems,https://www.igdb.com/companies/origin-systems
-296,840,1302566400,3G Studios,3g-studios,https://www.igdb.com/companies/3g-studios
-298,840,1302566400,Sierra Northwest,sierra-northwest,https://www.igdb.com/companies/sierra-northwest
-299,124,1302566400,Hellbent Games,hellbent-games,https://www.igdb.com/companies/hellbent-games
+282,1302480000,Trilobyte,trilobyte,https://www.igdb.com/companies/trilobyte
+283,1302608836,The Sims Studio,the-sims-studio,https://www.igdb.com/companies/the-sims-studio
+284,1302609152,Maxis,maxis,https://www.igdb.com/companies/maxis
+285,1302566400,Tiertex Design Studios,tiertex-design-studios,https://www.igdb.com/companies/tiertex-design-studios
+287,1302566400,Acclaim Entertainment,acclaim-entertainment,https://www.igdb.com/companies/acclaim-entertainment
+290,1302626105,IO Interactive,io-interactive,https://www.igdb.com/companies/io-interactive
+291,1302626105,Nixxes Software,nixxes-software,https://www.igdb.com/companies/nixxes-software
+292,1302566400,Traveller's Tales,traveller-s-tales,https://www.igdb.com/companies/traveller-s-tales
+293,1302627341,TT Games,tt-games,https://www.igdb.com/companies/tt-games
+294,1302566400,Telltale Games,telltale-games,https://www.igdb.com/companies/telltale-games
+295,1302566400,Origin Systems,origin-systems,https://www.igdb.com/companies/origin-systems
+296,1302566400,3G Studios,3g-studios,https://www.igdb.com/companies/3g-studios
+298,1302566400,Sierra Northwest,sierra-northwest,https://www.igdb.com/companies/sierra-northwest
+299,1302566400,Hellbent Games,hellbent-games,https://www.igdb.com/companies/hellbent-games
 300,1302566400,Nintendo Creative Department,nintendo-creative-department,https://www.igdb.com/companies/nintendo-creative-department
-301,203,1302686457,2K Czech,2k-czech,https://www.igdb.com/companies/2k-czech
+301,1302686457,2K Czech,2k-czech,https://www.igdb.com/companies/2k-czech
 302,1302652800,Massive Bear Studios,massive-bear-studios,https://www.igdb.com/companies/massive-bear-studios
-303,392,1302686650,Jaleco,jaleco,https://www.igdb.com/companies/jaleco
-304,840,1302652800,Quicksilver Software,quicksilver-software,https://www.igdb.com/companies/quicksilver-software
-305,246,1302652800,Remedy Entertainment,remedy-entertainment,https://www.igdb.com/companies/remedy-entertainment
-306,124,1302652800,Rockstar Toronto,rockstar-toronto,https://www.igdb.com/companies/rockstar-toronto
-307,40,1302652800,Rockstar Vienna,rockstar-vienna,https://www.igdb.com/companies/rockstar-vienna
-308,826,1302652800,Rockstar Leeds,rockstar-leeds,https://www.igdb.com/companies/rockstar-leeds
-309,840,1302652800,2015,2015,https://www.igdb.com/companies/2015
+303,1302686650,Jaleco,jaleco,https://www.igdb.com/companies/jaleco
+304,1302652800,Quicksilver Software,quicksilver-software,https://www.igdb.com/companies/quicksilver-software
+305,1302652800,Remedy Entertainment,remedy-entertainment,https://www.igdb.com/companies/remedy-entertainment
+306,1302652800,Rockstar Toronto,rockstar-toronto,https://www.igdb.com/companies/rockstar-toronto
+307,1302652800,Rockstar Vienna,rockstar-vienna,https://www.igdb.com/companies/rockstar-vienna
+308,1302652800,Rockstar Leeds,rockstar-leeds,https://www.igdb.com/companies/rockstar-leeds
+309,1302652800,2015,2015,https://www.igdb.com/companies/2015
 310,1302652800,Ultra Games,ultra-games,https://www.igdb.com/companies/ultra-games
-311,840,1302652800,Digital Dialect,digital-dialect,https://www.igdb.com/companies/digital-dialect
-312,392,1302694137,Konami Computer Entertainment Japan,konami-computer-entertainment-japan,https://www.igdb.com/companies/konami-computer-entertainment-japan
-313,392,1302652800,Success Corporation,success-corporation,https://www.igdb.com/companies/success-corporation
-314,804,1302652800,4A Games,4a-games,https://www.igdb.com/companies/4a-games
-315,840,1302652800,Trion Worlds,trion-worlds,https://www.igdb.com/companies/trion-worlds
+311,1302652800,Digital Dialect,digital-dialect,https://www.igdb.com/companies/digital-dialect
+312,1302694137,Konami Computer Entertainment Japan,konami-computer-entertainment-japan,https://www.igdb.com/companies/konami-computer-entertainment-japan
+313,1302652800,Success Corporation,success-corporation,https://www.igdb.com/companies/success-corporation
+314,1302652800,4A Games,4a-games,https://www.igdb.com/companies/4a-games
+315,1302652800,Trion Worlds,trion-worlds,https://www.igdb.com/companies/trion-worlds
 316,1302652800,Sierra,sierra,https://www.igdb.com/companies/sierra
-317,840,1302652800,Dynamix,dynamix,https://www.igdb.com/companies/dynamix
-318,826,1302696592,Rebellion Developments,rebellion-developments,https://www.igdb.com/companies/rebellion-developments
-319,840,1302652800,n-Space,n-space--1,https://www.igdb.com/companies/n-space--1
+317,1302652800,Dynamix,dynamix,https://www.igdb.com/companies/dynamix
+318,1302696592,Rebellion Developments,rebellion-developments,https://www.igdb.com/companies/rebellion-developments
+319,1302652800,n-Space,n-space--1,https://www.igdb.com/companies/n-space--1
 320,1302652800,Kan Navi,kan-navi,https://www.igdb.com/companies/kan-navi
-321,392,1302701732,Tose,tose,https://www.igdb.com/companies/tose
-322,392,1302652800,Matrix Software,matrix-software,https://www.igdb.com/companies/matrix-software
-323,392,1302722097,Nextech,nextech,https://www.igdb.com/companies/nextech
-324,392,1302739200,Square Soft,square-soft,https://www.igdb.com/companies/square-soft
-325,840,1302739200,Saffire,saffire,https://www.igdb.com/companies/saffire
-326,840,1302789440,Cyan Worlds,cyan-worlds,https://www.igdb.com/companies/cyan-worlds
-327,840,1302739200,Midway Games,midway-games,https://www.igdb.com/companies/midway-games
+321,1302701732,Tose,tose,https://www.igdb.com/companies/tose
+322,1302652800,Matrix Software,matrix-software,https://www.igdb.com/companies/matrix-software
+323,1302722097,Nextech,nextech,https://www.igdb.com/companies/nextech
+324,1302739200,Square Soft,square-soft,https://www.igdb.com/companies/square-soft
+325,1302739200,Saffire,saffire,https://www.igdb.com/companies/saffire
+326,1302789440,Cyan Worlds,cyan-worlds,https://www.igdb.com/companies/cyan-worlds
+327,1302739200,Midway Games,midway-games,https://www.igdb.com/companies/midway-games
 328,1302739200,Mean Hamster Software,mean-hamster-software,https://www.igdb.com/companies/mean-hamster-software
-329,392,1302805524,Cavia,cavia,https://www.igdb.com/companies/cavia
+329,1302805524,Cavia,cavia,https://www.igdb.com/companies/cavia
 330,1302739200,THQ Asia Pacific,thq-asia-pacific,https://www.igdb.com/companies/thq-asia-pacific
-331,528,1302825600,Triumph Studios,triumph-studios,https://www.igdb.com/companies/triumph-studios
-332,124,1302825600,EA Black Box,ea-black-box,https://www.igdb.com/companies/ea-black-box
-333,702,1303084800,EA Singapore,ea-singapore,https://www.igdb.com/companies/ea-singapore
+331,1302825600,Triumph Studios,triumph-studios,https://www.igdb.com/companies/triumph-studios
+332,1302825600,EA Black Box,ea-black-box,https://www.igdb.com/companies/ea-black-box
+333,1303084800,EA Singapore,ea-singapore,https://www.igdb.com/companies/ea-singapore
 334,1303171200,Sony Computer Entertainment Europe,sony-computer-entertainment-europe,https://www.igdb.com/companies/sony-computer-entertainment-europe
 335,1303171200,(Archive) Square Product Development Division 3,archive-square-product-development-division-3,https://www.igdb.com/companies/archive-square-product-development-division-3
 336,1303171200,(Archive) Square Enix Product Development Division 3,archive-square-enix-product-development-division-3,https://www.igdb.com/companies/archive-square-enix-product-development-division-3
 337,1303171200,(Archive) Square Enix Product Development Division 4,archive-square-enix-product-development-division-4,https://www.igdb.com/companies/archive-square-enix-product-development-division-4
-338,840,1303171200,Encore,encore,https://www.igdb.com/companies/encore
+338,1303171200,Encore,encore,https://www.igdb.com/companies/encore
 339,1303171200,The Assembly Line,the-assembly-line,https://www.igdb.com/companies/the-assembly-line
-340,826,1303171200,Empire Interactive,empire-interactive,https://www.igdb.com/companies/empire-interactive
-341,392,1303241063,Bullet-Proof Software,bullet-proof-software,https://www.igdb.com/companies/bullet-proof-software
-342,840,1303171200,Yosemite Entertainment,yosemite-entertainment,https://www.igdb.com/companies/yosemite-entertainment
-343,840,1303171200,Kronos Digital Entertainment,kronos-digital-entertainment,https://www.igdb.com/companies/kronos-digital-entertainment
-344,840,1303242853,Macmillan Digital Publishing,macmillan-digital-publishing,https://www.igdb.com/companies/macmillan-digital-publishing
+340,1303171200,Empire Interactive,empire-interactive,https://www.igdb.com/companies/empire-interactive
+341,1303241063,Bullet-Proof Software,bullet-proof-software,https://www.igdb.com/companies/bullet-proof-software
+342,1303171200,Yosemite Entertainment,yosemite-entertainment,https://www.igdb.com/companies/yosemite-entertainment
+343,1303171200,Kronos Digital Entertainment,kronos-digital-entertainment,https://www.igdb.com/companies/kronos-digital-entertainment
+344,1303242853,Macmillan Digital Publishing,macmillan-digital-publishing,https://www.igdb.com/companies/macmillan-digital-publishing
 345,1303344000,Think & Feel,think-feel,https://www.igdb.com/companies/think-feel
 346,1303344000,The Game Designers Studio,the-game-designers-studio,https://www.igdb.com/companies/the-game-designers-studio
-347,826,1303407590,Criterion Games,criterion-games,https://www.igdb.com/companies/criterion-games
-348,826,1303344000,Exient Entertainment,exient-entertainment,https://www.igdb.com/companies/exient-entertainment
-349,124,1303344000,Black Box Games,black-box-games,https://www.igdb.com/companies/black-box-games
+347,1303407590,Criterion Games,criterion-games,https://www.igdb.com/companies/criterion-games
+348,1303344000,Exient Entertainment,exient-entertainment,https://www.igdb.com/companies/exient-entertainment
+349,1303344000,Black Box Games,black-box-games,https://www.igdb.com/companies/black-box-games
 350,1303344000,EA Seattle,ea-seattle,https://www.igdb.com/companies/ea-seattle
-351,124,1303344000,EA Montreal,ea-montreal,https://www.igdb.com/companies/ea-montreal
+351,1303344000,EA Montreal,ea-montreal,https://www.igdb.com/companies/ea-montreal
 352,1303344000,Eden Studios,eden-studios,https://www.igdb.com/companies/eden-studios
-353,826,1303410438,Pocketeers,pocketeers,https://www.igdb.com/companies/pocketeers
+353,1303410438,Pocketeers,pocketeers,https://www.igdb.com/companies/pocketeers
 354,1303344000,DSI Games,dsi-games,https://www.igdb.com/companies/dsi-games
-355,826,1303344000,Zoo Digital,zoo-digital,https://www.igdb.com/companies/zoo-digital
-356,826,1303344000,Slightly Mad Studios,slightly-mad-studios,https://www.igdb.com/companies/slightly-mad-studios
-357,826,1303344000,Firebrand Games,firebrand-games,https://www.igdb.com/companies/firebrand-games
+355,1303344000,Zoo Digital,zoo-digital,https://www.igdb.com/companies/zoo-digital
+356,1303344000,Slightly Mad Studios,slightly-mad-studios,https://www.igdb.com/companies/slightly-mad-studios
+357,1303344000,Firebrand Games,firebrand-games,https://www.igdb.com/companies/firebrand-games
 358,1303430400,Raster Productions,raster-productions,https://www.igdb.com/companies/raster-productions
 359,1303430400,Hammerhead,hammerhead,https://www.igdb.com/companies/hammerhead
-360,840,1303430400,Logicware,logicware,https://www.igdb.com/companies/logicware
-361,56,1303430400,Hyperion Entertainment,hyperion-entertainment,https://www.igdb.com/companies/hyperion-entertainment
+360,1303430400,Logicware,logicware,https://www.igdb.com/companies/logicware
+361,1303430400,Hyperion Entertainment,hyperion-entertainment,https://www.igdb.com/companies/hyperion-entertainment
 362,1303430400,Pi Studios,pi-studios,https://www.igdb.com/companies/pi-studios
 363,1303430400,GRAVITY,gravity,https://www.igdb.com/companies/gravity
-364,840,1303430400,Rockstar San Diego,rockstar-san-diego,https://www.igdb.com/companies/rockstar-san-diego
-365,826,1303430400,Rockstar North,rockstar-north,https://www.igdb.com/companies/rockstar-north
-366,840,1303430400,Epyx,epyx,https://www.igdb.com/companies/epyx
-367,840,1303430400,Gray Matter Interactive,gray-matter-interactive,https://www.igdb.com/companies/gray-matter-interactive
+364,1303430400,Rockstar San Diego,rockstar-san-diego,https://www.igdb.com/companies/rockstar-san-diego
+365,1303430400,Rockstar North,rockstar-north,https://www.igdb.com/companies/rockstar-north
+366,1303430400,Epyx,epyx,https://www.igdb.com/companies/epyx
+367,1303430400,Gray Matter Interactive,gray-matter-interactive,https://www.igdb.com/companies/gray-matter-interactive
 368,1303430400,Infocom,infocom,https://www.igdb.com/companies/infocom
 369,1303516800,Chris Sawyer,chris-sawyer,https://www.igdb.com/companies/chris-sawyer
-370,724,1303516800,Péndulo Studios,pendulo-studios,https://www.igdb.com/companies/pendulo-studios
-371,724,1303600732,Dinamic Multimedia,dinamic-multimedia,https://www.igdb.com/companies/dinamic-multimedia
-372,804,1303516800,GSC World Publishing,gsc-world-publishing,https://www.igdb.com/companies/gsc-world-publishing
-373,276,1303516800,Ascaron Entertainment,ascaron-entertainment,https://www.igdb.com/companies/ascaron-entertainment
-374,276,1303601239,Koch Media,koch-media,https://www.igdb.com/companies/koch-media
+370,1303516800,Péndulo Studios,pendulo-studios,https://www.igdb.com/companies/pendulo-studios
+371,1303600732,Dinamic Multimedia,dinamic-multimedia,https://www.igdb.com/companies/dinamic-multimedia
+372,1303516800,GSC World Publishing,gsc-world-publishing,https://www.igdb.com/companies/gsc-world-publishing
+373,1303516800,Ascaron Entertainment,ascaron-entertainment,https://www.igdb.com/companies/ascaron-entertainment
+374,1303601239,Koch Media,koch-media,https://www.igdb.com/companies/koch-media
 375,1303516800,Red Ant Enterprises,red-ant-enterprises,https://www.igdb.com/companies/red-ant-enterprises
 376,1303516800,Linux Game Publishing,linux-game-publishing,https://www.igdb.com/companies/linux-game-publishing
-377,840,1303849284,Firaxis Games,firaxis-games,https://www.igdb.com/companies/firaxis-games
+377,1303849284,Firaxis Games,firaxis-games,https://www.igdb.com/companies/firaxis-games
 378,1303776000,Westlake Interactive,westlake-interactive,https://www.igdb.com/companies/westlake-interactive
-379,826,1303776000,Full Fat,full-fat,https://www.igdb.com/companies/full-fat
-380,826,1303862400,Adventure Soft,adventure-soft,https://www.igdb.com/companies/adventure-soft
-381,826,1303862400,Headfirst Productions,headfirst-productions,https://www.igdb.com/companies/headfirst-productions
-382,276,1303862400,Silver Style Entertainment,silver-style-entertainment,https://www.igdb.com/companies/silver-style-entertainment
-383,276,1303862400,RTL Enterprises,rtl-enterprises,https://www.igdb.com/companies/rtl-enterprises
+379,1303776000,Full Fat,full-fat,https://www.igdb.com/companies/full-fat
+380,1303862400,Adventure Soft,adventure-soft,https://www.igdb.com/companies/adventure-soft
+381,1303862400,Headfirst Productions,headfirst-productions,https://www.igdb.com/companies/headfirst-productions
+382,1303862400,Silver Style Entertainment,silver-style-entertainment,https://www.igdb.com/companies/silver-style-entertainment
+383,1303862400,RTL Enterprises,rtl-enterprises,https://www.igdb.com/companies/rtl-enterprises
 384,1303862400,Playlogic Entertainment,playlogic-entertainment,https://www.igdb.com/companies/playlogic-entertainment
-385,36,1303862400,Krome Studios,krome-studios,https://www.igdb.com/companies/krome-studios
-386,702,1303862400,Lucasfilm Animation Singapore,lucasfilm-animation-singapore,https://www.igdb.com/companies/lucasfilm-animation-singapore
-387,840,1303862400,Sculptured Software,sculptured-software,https://www.igdb.com/companies/sculptured-software
+385,1303862400,Krome Studios,krome-studios,https://www.igdb.com/companies/krome-studios
+386,1303862400,Lucasfilm Animation Singapore,lucasfilm-animation-singapore,https://www.igdb.com/companies/lucasfilm-animation-singapore
+387,1303862400,Sculptured Software,sculptured-software,https://www.igdb.com/companies/sculptured-software
 388,1303862400,JVC,jvc,https://www.igdb.com/companies/jvc
-389,246,1303862400,Universomo,universomo,https://www.igdb.com/companies/universomo
-390,840,1303862400,THQ Wireless,thq-wireless,https://www.igdb.com/companies/thq-wireless
+389,1303862400,Universomo,universomo,https://www.igdb.com/companies/universomo
+390,1303862400,THQ Wireless,thq-wireless,https://www.igdb.com/companies/thq-wireless
 391,1303862400,Red Fly Studio,red-fly-studio,https://www.igdb.com/companies/red-fly-studio
-392,840,1304610886,High Voltage Software,high-voltage-software,https://www.igdb.com/companies/high-voltage-software
-393,840,1306713600,inXile Entertainment,inxile-entertainment,https://www.igdb.com/companies/inxile-entertainment
-394,250,1306713600,Nadeo,nadeo,https://www.igdb.com/companies/nadeo
-395,392,1306713600,Sonic Team,sonic-team,https://www.igdb.com/companies/sonic-team
-396,392,1306758570,Dimps,dimps,https://www.igdb.com/companies/dimps
-397,250,1306713600,Darkworks,darkworks,https://www.igdb.com/companies/darkworks
-398,156,1306759132,Ubisoft Shanghai,ubisoft-shanghai,https://www.igdb.com/companies/ubisoft-shanghai
+392,1304610886,High Voltage Software,high-voltage-software,https://www.igdb.com/companies/high-voltage-software
+393,1306713600,inXile Entertainment,inxile-entertainment,https://www.igdb.com/companies/inxile-entertainment
+394,1306713600,Nadeo,nadeo,https://www.igdb.com/companies/nadeo
+395,1306713600,Sonic Team,sonic-team,https://www.igdb.com/companies/sonic-team
+396,1306758570,Dimps,dimps,https://www.igdb.com/companies/dimps
+397,1306713600,Darkworks,darkworks,https://www.igdb.com/companies/darkworks
+398,1306759132,Ubisoft Shanghai,ubisoft-shanghai,https://www.igdb.com/companies/ubisoft-shanghai
 399,1306886400,Longtail Studios,longtail-studios,https://www.igdb.com/companies/longtail-studios
-400,392,1306923089,SCE Japan Studio,sce-japan-studio,https://www.igdb.com/companies/sce-japan-studio
-401,840,1306923543,Naughty Dog,naughty-dog,https://www.igdb.com/companies/naughty-dog
+400,1306923089,SCE Japan Studio,sce-japan-studio,https://www.igdb.com/companies/sce-japan-studio
+401,1306923543,Naughty Dog,naughty-dog,https://www.igdb.com/companies/naughty-dog
 402,1306886400,Day 1 Studios,day-1-studios,https://www.igdb.com/companies/day-1-studios
-403,840,1306886400,Sucker Punch Productions,sucker-punch-productions,https://www.igdb.com/companies/sucker-punch-productions
-404,250,1306924835,Cyanide Studio,cyanide-studio,https://www.igdb.com/companies/cyanide-studio
-405,250,1306886400,Spiders,spiders,https://www.igdb.com/companies/spiders
-406,752,1311033600,Ubisoft Massive,ubisoft-massive,https://www.igdb.com/companies/ubisoft-massive
-407,840,1317600000,Monolith Productions,monolith-productions,https://www.igdb.com/companies/monolith-productions
-408,840,1317600000,TimeGate Studios,timegate-studios,https://www.igdb.com/companies/timegate-studios
+403,1306886400,Sucker Punch Productions,sucker-punch-productions,https://www.igdb.com/companies/sucker-punch-productions
+404,1306924835,Cyanide Studio,cyanide-studio,https://www.igdb.com/companies/cyanide-studio
+405,1306886400,Spiders,spiders,https://www.igdb.com/companies/spiders
+406,1311033600,Ubisoft Massive,ubisoft-massive,https://www.igdb.com/companies/ubisoft-massive
+407,1317600000,Monolith Productions,monolith-productions,https://www.igdb.com/companies/monolith-productions
+408,1317600000,TimeGate Studios,timegate-studios,https://www.igdb.com/companies/timegate-studios
 409,1317600000,(Archive) WB Games - duplicate,archive-wb-games-duplicate,https://www.igdb.com/companies/archive-wb-games-duplicate
-410,826,1317600000,Big Blue Box,big-blue-box,https://www.igdb.com/companies/big-blue-box
+410,1317600000,Big Blue Box,big-blue-box,https://www.igdb.com/companies/big-blue-box
 411,1317600000,Robosoft Technologies,robosoft-technologies,https://www.igdb.com/companies/robosoft-technologies
-412,826,1317600000,Codemasters Southam,codemasters-southam,https://www.igdb.com/companies/codemasters-southam
-413,840,1317629966,Human Head Studios,human-head-studios,https://www.igdb.com/companies/human-head-studios
-414,191,1317600000,Croteam,croteam,https://www.igdb.com/companies/croteam
+412,1317600000,Codemasters Southam,codemasters-southam,https://www.igdb.com/companies/codemasters-southam
+413,1317629966,Human Head Studios,human-head-studios,https://www.igdb.com/companies/human-head-studios
+414,1317600000,Croteam,croteam,https://www.igdb.com/companies/croteam
 416,1317600000,Syfy Games,syfy-games,https://www.igdb.com/companies/syfy-games
 418,1317600000,EA Play,ea-play,https://www.igdb.com/companies/ea-play
-419,392,1317637279,Project Aces,project-aces,https://www.igdb.com/companies/project-aces
-420,616,1317638640,Flying Wild Hog,flying-wild-hog,https://www.igdb.com/companies/flying-wild-hog
-421,392,1317639457,Nintendo EAD,nintendo-ead,https://www.igdb.com/companies/nintendo-ead
-422,840,1317600000,Carbine Studios,carbine-studios,https://www.igdb.com/companies/carbine-studios
-423,276,1317642036,Deep Silver,deep-silver,https://www.igdb.com/companies/deep-silver
-425,826,1317646706,Eurocom Entertainment Software,eurocom-entertainment-software,https://www.igdb.com/companies/eurocom-entertainment-software
-426,840,1317600000,Disney Interactive Studios,disney-interactive-studios,https://www.igdb.com/companies/disney-interactive-studios
-427,246,1317647252,Bugbear Entertainment,bugbear-entertainment,https://www.igdb.com/companies/bugbear-entertainment
-428,840,1317600000,Treyarch,treyarch,https://www.igdb.com/companies/treyarch
-429,826,1317600000,Venom Games,venom-games,https://www.igdb.com/companies/venom-games
+419,1317637279,Project Aces,project-aces,https://www.igdb.com/companies/project-aces
+420,1317638640,Flying Wild Hog,flying-wild-hog,https://www.igdb.com/companies/flying-wild-hog
+421,1317639457,Nintendo EAD,nintendo-ead,https://www.igdb.com/companies/nintendo-ead
+422,1317600000,Carbine Studios,carbine-studios,https://www.igdb.com/companies/carbine-studios
+423,1317642036,Deep Silver,deep-silver,https://www.igdb.com/companies/deep-silver
+425,1317646706,Eurocom Entertainment Software,eurocom-entertainment-software,https://www.igdb.com/companies/eurocom-entertainment-software
+426,1317600000,Disney Interactive Studios,disney-interactive-studios,https://www.igdb.com/companies/disney-interactive-studios
+427,1317647252,Bugbear Entertainment,bugbear-entertainment,https://www.igdb.com/companies/bugbear-entertainment
+428,1317600000,Treyarch,treyarch,https://www.igdb.com/companies/treyarch
+429,1317600000,Venom Games,venom-games,https://www.igdb.com/companies/venom-games
 430,1317686400,(Archive) duplicate company name 1,archive-duplicate-company-name-1,https://www.igdb.com/companies/archive-duplicate-company-name-1
-431,840,1317686400,Ready at Dawn,ready-at-dawn,https://www.igdb.com/companies/ready-at-dawn
-432,124,1317712371,Beenox,beenox,https://www.igdb.com/companies/beenox
-433,826,1317712749,Ubisoft Reflections,ubisoft-reflections,https://www.igdb.com/companies/ubisoft-reflections
-434,840,1317686400,High Moon Studios,high-moon-studios,https://www.igdb.com/companies/high-moon-studios
-435,840,1317686400,Danger Close,danger-close,https://www.igdb.com/companies/danger-close
-436,705,1317686400,ZootFly,zootfly,https://www.igdb.com/companies/zootfly
-437,752,1317715984,Avalanche Studios,avalanche-studios,https://www.igdb.com/companies/avalanche-studios
-438,840,1317686400,Infinity Ward,infinity-ward,https://www.igdb.com/companies/infinity-ward
-439,826,1317717800,Sumo Digital,sumo-digital,https://www.igdb.com/companies/sumo-digital
+431,1317686400,Ready at Dawn,ready-at-dawn,https://www.igdb.com/companies/ready-at-dawn
+432,1317712371,Beenox,beenox,https://www.igdb.com/companies/beenox
+433,1317712749,Ubisoft Reflections,ubisoft-reflections,https://www.igdb.com/companies/ubisoft-reflections
+434,1317686400,High Moon Studios,high-moon-studios,https://www.igdb.com/companies/high-moon-studios
+435,1317686400,Danger Close,danger-close,https://www.igdb.com/companies/danger-close
+436,1317686400,ZootFly,zootfly,https://www.igdb.com/companies/zootfly
+437,1317715984,Avalanche Studios,avalanche-studios,https://www.igdb.com/companies/avalanche-studios
+438,1317686400,Infinity Ward,infinity-ward,https://www.igdb.com/companies/infinity-ward
+439,1317717800,Sumo Digital,sumo-digital,https://www.igdb.com/companies/sumo-digital
 440,1317686400,(Archive) SCEE - duplicate,archive-scee-duplicate,https://www.igdb.com/companies/archive-scee-duplicate
-442,250,1317686400,Asobo Studio,asobo-studio,https://www.igdb.com/companies/asobo-studio
+442,1317686400,Asobo Studio,asobo-studio,https://www.igdb.com/companies/asobo-studio
 443,1317686400,Endrant Studios,endrant-studios,https://www.igdb.com/companies/endrant-studios
-444,124,1317686400,Radical Entertainment,radical-entertainment,https://www.igdb.com/companies/radical-entertainment
-445,840,1317686400,505 Games,505-games,https://www.igdb.com/companies/505-games
-446,840,1317686400,Got Game Entertainment,got-game-entertainment,https://www.igdb.com/companies/got-game-entertainment
+444,1317686400,Radical Entertainment,radical-entertainment,https://www.igdb.com/companies/radical-entertainment
+445,1317686400,505 Games,505-games,https://www.igdb.com/companies/505-games
+446,1317686400,Got Game Entertainment,got-game-entertainment,https://www.igdb.com/companies/got-game-entertainment
 448,1317686400,Vicious Cycle Software,vicious-cycle-software,https://www.igdb.com/companies/vicious-cycle-software
 449,1317686400,D3 Publisher,d3-publisher,https://www.igdb.com/companies/d3-publisher
 450,1317686400,Aion Team Development Dept,aion-team-development-dept,https://www.igdb.com/companies/aion-team-development-dept
-451,840,1317686400,Terminal Reality,terminal-reality,https://www.igdb.com/companies/terminal-reality
+451,1317686400,Terminal Reality,terminal-reality,https://www.igdb.com/companies/terminal-reality
 452,1317686400,Threewave Software,threewave-software,https://www.igdb.com/companies/threewave-software
-453,348,1317738405,Zen Studios,zen-studios,https://www.igdb.com/companies/zen-studios
-454,124,1317745711,EA Sports,ea-sports,https://www.igdb.com/companies/ea-sports
+453,1317738405,Zen Studios,zen-studios,https://www.igdb.com/companies/zen-studios
+454,1317745711,EA Sports,ea-sports,https://www.igdb.com/companies/ea-sports
 455,1317686400,Sonalysts,sonalysts,https://www.igdb.com/companies/sonalysts
 456,1317686400,Crack dot Com,crack-dot-com,https://www.igdb.com/companies/crack-dot-com
-457,250,1317686400,Eugen Systems,eugen-systems,https://www.igdb.com/companies/eugen-systems
-458,578,1317686400,Funcom,funcom,https://www.igdb.com/companies/funcom
+457,1317686400,Eugen Systems,eugen-systems,https://www.igdb.com/companies/eugen-systems
+458,1317686400,Funcom,funcom,https://www.igdb.com/companies/funcom
 461,1317686400,Fox Interactive,fox-interactive,https://www.igdb.com/companies/fox-interactive
 463,1317686400,(Archive) MS Game Studios - duplicate,archive-ms-game-studios-duplicate,https://www.igdb.com/companies/archive-ms-game-studios-duplicate
 465,1317686400,U.S. Army,u-s-army,https://www.igdb.com/companies/u-s-army
 466,1317686400,Interactive Magic,interactive-magic,https://www.igdb.com/companies/interactive-magic
 467,1317686400,Digital Integration,digital-integration,https://www.igdb.com/companies/digital-integration
-468,124,1317745756,Meridian4,meridian4,https://www.igdb.com/companies/meridian4
-469,40,1317686400,JoWooD Entertainment AG,jowood-entertainment-ag,https://www.igdb.com/companies/jowood-entertainment-ag
-470,840,1317745764,Turbine,turbine,https://www.igdb.com/companies/turbine
+468,1317745756,Meridian4,meridian4,https://www.igdb.com/companies/meridian4
+469,1317686400,JoWooD Entertainment AG,jowood-entertainment-ag,https://www.igdb.com/companies/jowood-entertainment-ag
+470,1317745764,Turbine,turbine,https://www.igdb.com/companies/turbine
 471,1317686400,Pulse Entertainment,pulse-entertainment,https://www.igdb.com/companies/pulse-entertainment
 472,1317686400,Infinite Monkey,infinite-monkey,https://www.igdb.com/companies/infinite-monkey
-474,840,1317745771,Liquid Entertainment,liquid-entertainment,https://www.igdb.com/companies/liquid-entertainment
-476,840,1317686400,Matrix Games,matrix-games,https://www.igdb.com/companies/matrix-games
+474,1317745771,Liquid Entertainment,liquid-entertainment,https://www.igdb.com/companies/liquid-entertainment
+476,1317686400,Matrix Games,matrix-games,https://www.igdb.com/companies/matrix-games
 478,1317686400,Aries Online Games,aries-online-games,https://www.igdb.com/companies/aries-online-games
 479,1317686400,(Archive) PopCap,archive-popcap,https://www.igdb.com/companies/archive-popcap
-481,840,1317686400,Reflexive Entertainment,reflexive-entertainment,https://www.igdb.com/companies/reflexive-entertainment
-482,826,1317686400,Revolution Software,revolution-software,https://www.igdb.com/companies/revolution-software
+481,1317686400,Reflexive Entertainment,reflexive-entertainment,https://www.igdb.com/companies/reflexive-entertainment
+482,1317686400,Revolution Software,revolution-software,https://www.igdb.com/companies/revolution-software
 483,1317686400,Gray Matter,gray-matter,https://www.igdb.com/companies/gray-matter
 485,1317686400,SCi Games,sci-games,https://www.igdb.com/companies/sci-games
-486,826,1317686400,Sports Interactive,sports-interactive,https://www.igdb.com/companies/sports-interactive
+486,1317686400,Sports Interactive,sports-interactive,https://www.igdb.com/companies/sports-interactive
 487,1317686400,3DO,3do,https://www.igdb.com/companies/3do
 488,1317686400,Stick Man Games,stick-man-games,https://www.igdb.com/companies/stick-man-games
-489,528,1317748683,Mindscape,mindscape,https://www.igdb.com/companies/mindscape
+489,1317748683,Mindscape,mindscape,https://www.igdb.com/companies/mindscape
 491,1317686400,Dreamworks Games,dreamworks-games,https://www.igdb.com/companies/dreamworks-games
-492,840,1317686400,Atomic Games,atomic-games,https://www.igdb.com/companies/atomic-games
+492,1317686400,Atomic Games,atomic-games,https://www.igdb.com/companies/atomic-games
 493,1317686400,Stormregion,stormregion,https://www.igdb.com/companies/stormregion
-494,840,1317748716,Battlefront.com,battlefront-com,https://www.igdb.com/companies/battlefront-com
+494,1317748716,Battlefront.com,battlefront-com,https://www.igdb.com/companies/battlefront-com
 495,1317686400,Big Time Software,big-time-software,https://www.igdb.com/companies/big-time-software
-496,840,1317686400,EA Pacific,ea-pacific,https://www.igdb.com/companies/ea-pacific
-498,724,1317686400,Pyro Studios,pyro-studios,https://www.igdb.com/companies/pyro-studios
+496,1317686400,EA Pacific,ea-pacific,https://www.igdb.com/companies/ea-pacific
+498,1317686400,Pyro Studios,pyro-studios,https://www.igdb.com/companies/pyro-studios
 499,1317686400,Relic,relic,https://www.igdb.com/companies/relic
 500,1317686400,Auran,auran,https://www.igdb.com/companies/auran
-501,250,1317748753,Delphine Software,delphine-software,https://www.igdb.com/companies/delphine-software
+501,1317748753,Delphine Software,delphine-software,https://www.igdb.com/companies/delphine-software
 502,1317686400,(Archive) Valve Software - duplicate,archive-valve-software-duplicate,https://www.igdb.com/companies/archive-valve-software-duplicate
 503,1317686400,Mitsumi,mitsumi,https://www.igdb.com/companies/mitsumi
-505,840,1317686400,Outrage Games,outrage-games,https://www.igdb.com/companies/outrage-games
+505,1317686400,Outrage Games,outrage-games,https://www.igdb.com/companies/outrage-games
 506,1317748775,Parallax Software,parallax-software,https://www.igdb.com/companies/parallax-software
-507,840,1317686400,Volition Inc,volition-inc,https://www.igdb.com/companies/volition-inc
-508,840,1317686400,PlayFirst,playfirst,https://www.igdb.com/companies/playfirst
-510,56,1317686400,Larian Studios,larian-studios,https://www.igdb.com/companies/larian-studios
+507,1317686400,Volition Inc,volition-inc,https://www.igdb.com/companies/volition-inc
+508,1317686400,PlayFirst,playfirst,https://www.igdb.com/companies/playfirst
+510,1317686400,Larian Studios,larian-studios,https://www.igdb.com/companies/larian-studios
 512,1317686400,Ocean,ocean,https://www.igdb.com/companies/ocean
-513,826,1317748808,Digital Image Design,digital-image-design,https://www.igdb.com/companies/digital-image-design
+513,1317748808,Digital Image Design,digital-image-design,https://www.igdb.com/companies/digital-image-design
 515,1317686400,Razorworks Studios,razorworks-studios,https://www.igdb.com/companies/razorworks-studios
 516,1317686400,4HEAD Studios,4head-studios,https://www.igdb.com/companies/4head-studios
-517,752,1317748823,Paradox Interactive,paradox-interactive,https://www.igdb.com/companies/paradox-interactive
+517,1317748823,Paradox Interactive,paradox-interactive,https://www.igdb.com/companies/paradox-interactive
 518,1317686400,Third Wire,third-wire,https://www.igdb.com/companies/third-wire
 519,1317686400,Graphic Simulations,graphic-simulations,https://www.igdb.com/companies/graphic-simulations
 522,1317686400,Origin,origin,https://www.igdb.com/companies/origin
 523,1317686400,Graphsim Entertainment,graphsim-entertainment,https://www.igdb.com/companies/graphsim-entertainment
 524,1317686400,Lead Pursuit,lead-pursuit,https://www.igdb.com/companies/lead-pursuit
 525,1317686400,GMX Media,gmx-media,https://www.igdb.com/companies/gmx-media
-528,840,1317686400,"SSI (Strategic Simulations, Inc.)",ssi-strategic-simulations-inc-dot,https://www.igdb.com/companies/ssi-strategic-simulations-inc-dot
+528,1317686400,"SSI (Strategic Simulations, Inc.)",ssi-strategic-simulations-inc-dot,https://www.igdb.com/companies/ssi-strategic-simulations-inc-dot
 529,1317686400,Flying Legends,flying-legends,https://www.igdb.com/companies/flying-legends
-530,643,1317686400,Eagle Dynamics,eagle-dynamics,https://www.igdb.com/companies/eagle-dynamics
-532,826,1317686400,Probe Entertainment,probe-entertainment,https://www.igdb.com/companies/probe-entertainment
-533,840,1317686400,Stardock,stardock,https://www.igdb.com/companies/stardock
+530,1317686400,Eagle Dynamics,eagle-dynamics,https://www.igdb.com/companies/eagle-dynamics
+532,1317686400,Probe Entertainment,probe-entertainment,https://www.igdb.com/companies/probe-entertainment
+533,1317686400,Stardock,stardock,https://www.igdb.com/companies/stardock
 534,1317686400,Sick Puppies,sick-puppies,https://www.igdb.com/companies/sick-puppies
 535,1317686400,Papyrus,papyrus,https://www.igdb.com/companies/papyrus
-536,826,1317686400,DMA Design,dma-design,https://www.igdb.com/companies/dma-design
-537,752,1317748973,Massive Entertainment,massive-entertainment,https://www.igdb.com/companies/massive-entertainment
-538,840,1317686400,Viva Media,viva-media,https://www.igdb.com/companies/viva-media
-539,752,1317686400,SimBin,simbin,https://www.igdb.com/companies/simbin
-540,276,1317686400,10tacle Studios,10tacle-studios,https://www.igdb.com/companies/10tacle-studios
+536,1317686400,DMA Design,dma-design,https://www.igdb.com/companies/dma-design
+537,1317748973,Massive Entertainment,massive-entertainment,https://www.igdb.com/companies/massive-entertainment
+538,1317686400,Viva Media,viva-media,https://www.igdb.com/companies/viva-media
+539,1317686400,SimBin,simbin,https://www.igdb.com/companies/simbin
+540,1317686400,10tacle Studios,10tacle-studios,https://www.igdb.com/companies/10tacle-studios
 541,1317686400,Team .366,team-366,https://www.igdb.com/companies/team-366
-542,124,1317686400,Barking Dog,barking-dog,https://www.igdb.com/companies/barking-dog
-543,826,1317686400,Rage Software,rage-software,https://www.igdb.com/companies/rage-software
+542,1317686400,Barking Dog,barking-dog,https://www.igdb.com/companies/barking-dog
+543,1317686400,Rage Software,rage-software,https://www.igdb.com/companies/rage-software
 545,1317686400,Particle Systems,particle-systems,https://www.igdb.com/companies/particle-systems
-547,840,1317686400,Accolade,accolade,https://www.igdb.com/companies/accolade
+547,1317686400,Accolade,accolade,https://www.igdb.com/companies/accolade
 548,1317686400,Eclipse Software,eclipse-software,https://www.igdb.com/companies/eclipse-software
 549,1317686400,Hypnos,hypnos,https://www.igdb.com/companies/hypnos
 550,1317686400,Gamestorm,gamestorm,https://www.igdb.com/companies/gamestorm
 551,1317686400,NetDevil,netdevil,https://www.igdb.com/companies/netdevil
-552,840,1317749054,Crystal Dynamics,crystal-dynamics,https://www.igdb.com/companies/crystal-dynamics
-553,840,1317686400,Access Software,access-software,https://www.igdb.com/companies/access-software
-555,840,1317686400,EA Tiburon,ea-tiburon,https://www.igdb.com/companies/ea-tiburon
+552,1317749054,Crystal Dynamics,crystal-dynamics,https://www.igdb.com/companies/crystal-dynamics
+553,1317686400,Access Software,access-software,https://www.igdb.com/companies/access-software
+555,1317686400,EA Tiburon,ea-tiburon,https://www.igdb.com/companies/ea-tiburon
 558,1317686400,FASA Studio,fasa-studio,https://www.igdb.com/companies/fasa-studio
