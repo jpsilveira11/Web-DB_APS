@@ -1,225 +1,116 @@
-ID,Country,Creation,Description,Name,Slug,Link
-1,840,1297810753,"Electronic Arts is a leading global interactive entertainment software company. EA delivers games, content and online services for Internet-connected consoles, personal computers, mobile phones and tablets.",Electronic Arts,electronic-arts,https://www.igdb.com/companies/electronic-arts
-2,124,1297810806,"BioWare is a Canadian video game developer founded by newly graduated medical doctors Ray Muzyka, Greg Zeschuk and Augustine Yip, alongside Trent Oster, Brent Oster, and Marcel Zeschuk. The studio specializes in role-playing video games and achieved recognition for developing highly praised and successful licensed franchises.",BioWare,bioware,https://www.igdb.com/companies/bioware
+ID,Country,Creation,Name,Slug,Link
+1,840,1297810753,Electronic Arts,electronic-arts,https://www.igdb.com/companies/electronic-arts
+2,124,1297810806,BioWare,bioware,https://www.igdb.com/companies/bioware
 3,840,1297814400,Looking Glass Studios,looking-glass-studios,https://www.igdb.com/companies/looking-glass-studios
-4,826,1297817598,"Now called Square Enix Europe. The company was founded as Domark in 1984 by Mark Strachan and Dominic Wheatley. In 1995, the company was acquired by Eidos and was merged with two other studios and renamed Eidos Interactive the following year. Eidos was in turn acquired by SCi in 2005, and Eidos Interactive was sold to Square Enix in 2009. On 9 November 2009, Square Enix completed the merger of its existing European branch with Eidos Interactive, renaming the resulting company Square Enix Europe. With the consolidation of Square Enix's Western divisions around 2015, Square Enix Ltd. and Square Enix Inc. are collectively referred to as Square Enix West.",Eidos Interactive,eidos-interactive,https://www.igdb.com/companies/eidos-interactive
-5,840,1297814400,"Founded in 1983, Interplay Entertainment is a developer, publisher and licensor of video game software headquartered in Southern California.
-
-Interplay originally published successful titles in the Role-Playing Game (RPG) genre, including hits like Fallout® 1 &amp; 2, Planescape: Torment and the Baldur's Gate series.
-
-We have produced and licensed titles for many of the most popular interactive entertainment software platforms in the action/arcade, adventure/RPG and strategy/puzzle categories.
-
-Our portfolio of well recognized Intellectual Properties includes Battlechess, Clayfighter, Dark Alliance, Descent, Earthworm Jim, Freespace, Giants, Messiah, MDK, Run Like Hell and Sacrifice amongst others.
-
-We seek to publish or license out interactive entertainment software titles that are, or have the potential to become, franchise software titles that can be leveraged across several releases and/or platforms, and have published or licensed many such successful franchise titles to date.",Interplay Entertainment,interplay-entertainment,https://www.igdb.com/companies/interplay-entertainment
-6,826,1297817708,"Lionhead Studios was born in 1996 in the quaint, English town of Guildford with the bold aspiration to make ground-breaking, genre-defining games.
-
-What began with a mere handful of designers has grown to a team of over a hundred, and now Lionhead is home to some of the most creative and talented industry professionals around. With such talent, we're always aiming to deliver the best adventures and stories for you to experience.
-
-Our team is made up of passionate people who simply love games. Many of our veterans have kept this passion burning since the days of Black & White and the first Fable game, and with each project we've enjoyed an influx of new exciting talent to our ranks.
-
-As part of Microsoft Studios since 2006, Lionhead stands more ready and dedicated than ever to fulfil its mission. Having built an impressive portfolio of games over the years, we're now working to bring the latest chapter of the Fable story to Xbox One, with Fable Legends.",Lionhead Studios,lionhead-studios,https://www.igdb.com/companies/lionhead-studios
-7,840,1297814400,"Formerly known as EA Redwood Shores. 
- 
-After the success of Dead Space, the studio was able to move from an internal development studio of EA Games to a separate subsidiary with a focus on third-person action games. 
- 
-Along with the studio's name change two branch studios were created by EA, Visceral Montreal alongside EA Montreal and Visceral Melbourne. 
- 
-Visceral Melbourne closed in September 2011. 
-Visceral Montreal closed in February 2013. 
-Visceral Games closed in October 2017.",Visceral Games,visceral-games,https://www.igdb.com/companies/visceral-games
-8,840,1298843864,"2K Games is a video game publisher managing some of the most creative, respected and premium brands in games today. The studio develops and publishes games for PC, console and mobile platforms.",2K Games,2k-games,https://www.igdb.com/companies/2k-games
-9,840,1298937600,"Lucasfilm Games was founded in May 1982 by George Lucas as Lucasfilm Games, the video game development group of his film company, Lucasfilm. Lucas initially served as the company's chairman. 
- 
-During a 1990 reorganization of Lucas companies, the Lucasfilm Games division was renamed LucasArts.",Lucasfilm Games,lucasfilm-games,https://www.igdb.com/companies/lucasfilm-games
-10,840,1298937600,"With titles on consoles, PCs, and mobile devices, LucasArts endeavors to deliver experiences — whether it’s piloting a snowspeeder in the Battle of Hoth or slinging Jedi Birds at Sith Pigs — that are not possible in any other medium, and dazzle fans with stunning graphics, engaging storytelling, and fun gameplay. 
- 
-Continually pushing the art form forward, LucasArts leverages the global skills, technology, and resources of its family of companies, in addition to strategic partnerships, to further the boundaries of gaming.",LucasArts,lucasarts,https://www.igdb.com/companies/lucasarts
-11,840,1298937600,"EA’s corporate headquarters is based in Redwood Shores, California. It is home to two major EA development studios; Maxis, the developers of The Sims franchise and Visceral Games, the developers of the sci-fi horror franchise Dead Space. EA’s corporate headquarters is also the center of global publishing, marketing, HR and facilities initiatives.",EA Redwood Shores,ea-redwood-shores,https://www.igdb.com/companies/ea-redwood-shores
+4,826,1297817598,Eidos Interactive,eidos-interactive,https://www.igdb.com/companies/eidos-interactive
+5,840,1297814400,Interplay Entertainment,interplay-entertainment,https://www.igdb.com/companies/interplay-entertainment
+6,826,1297817708,Lionhead Studios,lionhead-studios,https://www.igdb.com/companies/lionhead-studios
+7,840,1297814400,Visceral Games,visceral-games,https://www.igdb.com/companies/visceral-games
+8,840,1298843864,2K Games,2k-games,https://www.igdb.com/companies/2k-games
+9,840,1298937600,Lucasfilm Games,lucasfilm-games,https://www.igdb.com/companies/lucasfilm-games
+10,840,1298937600,LucasArts,lucasarts,https://www.igdb.com/companies/lucasarts
+11,840,1298937600,EA Redwood Shores,ea-redwood-shores,https://www.igdb.com/companies/ea-redwood-shores
 12,1298987117,Black Isle Studios,black-isle-studios,https://www.igdb.com/companies/black-isle-studios
-13,840,1298937600,"Demiurge Studios makes mobile, console, and PC games featuring deep systems and memorable characters. Try our hit mobile game, Marvel Puzzle Quest!
-
-Creating games is our passion. Founded in 2002, we joined SEGA Networks’ family of studios in early 2015. We bring years of development expertise to our original projects, Shoot Many Robots, Marvel Puzzle Quest, and Puzzle &amp; Glory. 
-
-Based in Cambridge, MA, our developers have worked with partners around the globe on titles such as Bioshock, Borderlands, and Mass Effect.",Demiurge Studios,demiurge-studios,https://www.igdb.com/companies/demiurge-studios
-14,826,1298937600,"Bullfrog Productions was a British developer. It was founded in 1987 by Les Edgar and Peter Molyneux. They were best known for their strategy god games such as Populous.
-
-In January 1995, to strengthen its global positioning, Bullfrog Productions merged with long time publishing partner Electronic Arts. In August 1997, Bullfrog co-founder, Peter Molyneux, left to establish a new development team, Lionhead Productions (who, incidentally, has also signed a distribution deal with Electronic Arts). In September 1999, Les Edgar changed his role to consultant for Bullfrog Productions Limited, enabling him to pay more equitable attention to his other business interests. Edgar handed the reins to Bruce McMillan from Electronic Arts' Canadian studio.
-
-Following its purchase by EA, Bullfrog continued to work in its original offices in Guildford as an EA studio, and continued to display its own Bullfrog logo on the boxes of its games. In 2000, Electronic Arts merged its EA-UK offices, which had been in Langley near Slough, with the Bullfrog offices, into a new facility in Chertsey. Around August of that year the company decided to drop all further production of Bullfrog-branded products, and the former Bullfrog employees were put onto new projects such as the Harry Potter series. The last Bullfrog-branded game was Sim Theme Park (also known as Theme Park World and Theme Park 2), released in 1999.
-
-A few compilations of older games that Bullfrog worked on have been published since, but to all intents and purposes the brand has been dead since the move to Chertsey in 2000.
-
-Many Bullfrog developers left to found their own studios and these became Intrepid Computer Entertainment Ltd., Big Blue Box Studios Ltd. and Lionhead Studios. The latter eventually absorbed the first two and became the only studio to carry on the Bullfrog legacy.",Bullfrog Productions,bullfrog-productions,https://www.igdb.com/companies/bullfrog-productions
+13,840,1298937600,Demiurge Studios,demiurge-studios,https://www.igdb.com/companies/demiurge-studios
+14,826,1298937600,Bullfrog Productions,bullfrog-productions,https://www.igdb.com/companies/bullfrog-productions
 15,840,1299196800,2K Marin,2k-marin,https://www.igdb.com/companies/2k-marin
-17,124,1299196800,"Founded in 1993 by James Schmalz, Digital Extremes Ltd. proudly ranks as one of the world's top development studios in the interactive entertainment industry.
-Headquartered in London Ontario, Canada’s 10th largest city, Digital Extremes got its foothold early on in the game industry during the shareware craze of the early 90s. Epic Pinball was a ten month project written entirely in assembly language by Schmalz that went on to become one of the most successful shareware games ever made, trailing only behind such industry greats as Duke3D, Doom and Wolfenstein 3D. Sequels such as Silverball and Extreme Pinball were released shortly thereafter and together they helped fund the creation of what would become one of the industry’s blockbuster franchises, Epic Games’ Unreal®.
-
-Beginning in 1994, Digital Extremes partnered with Epic Games (at that time, its shareware publisher) and co-created Unreal and its counterpart Unreal Tournament. Both games set new standards for first-person action games and broke new ground in online multiplayer gaming. Tremendously rich graphics, fine-tuned gameplay, frenetic action and high quality production value are descriptions that have become synonymous with any Unreal branded game. To date, the award-winning Unreal franchise, including Unreal, Unreal Tournament and Unreal Championship has sold more than 12 million units worldwide across the PC, PlayStation®2, Xbox™ and Dreamcast™ platforms.
-
-Digital Extremes completed development on its original IP for the current generation of consoles, Dark Sector®, which shipped to stores in 2008, using its proprietary next-gen technology, the Evolution Engine™. Following its success, the studio expanded to two teams to allow for simultaneous development on separate projects.
-
-Digital Extremes completed work on the Multiplayer component of 2K Games’ blockbuster, Bioshock® 2 as well as the PC version of THQ hit, Homefront™.  The company also recently ventured into the mobile world with the release of Retro Pinball for Apple’s iOS platform, a throwback to the company’s roots.  More recently, Digital Extremes earned critical acclaim for the development of first-person action game, The Darkness® II, based on the comic book series of the same name.  In addition, the company assisted Microsoft with additional multiplayer content to Halo®4.  The studio is currently developing and publishing the Free-to-Play action game, Warframe",Digital Extremes,digital-extremes,https://www.igdb.com/companies/digital-extremes
-18,156,1299196800,"Originally known as 2K Shanghai, later doing business as 2K China, it was created in 2006 to help with localization of 2K games and development of their own IP. 
-The studio had 2 subsidiary studios located in Hangzhou, created in 2007, and Chengdu, created in 2011. 
- 
-It was shut down along with the cancellation of Borderlands Online, the China exclusive MMO they had been developing. 
- 
-2K Hangzhou studio was closed along with 2K China. 
-2K Chengdu was retained and continues as a QA company for 2K games.",2K China,2k-china,https://www.igdb.com/companies/2k-china
-19,250,1299265070,"Founded in 1999, Arkane Studios has grown to become one of the most renowned and critically acclaimed development teams in the video game industry. With teams located in Lyon, France, and Austin, Texas, Arkane has earned a reputation for creating games with unique style, immersive action, and a hand-crafted approach. The studio’s titles, which include Dishonored, Dishonored 2, and Prey, have won hundreds of prestigious accolades around the globe, including several ""Game of the Year"" awards.",Arkane Studios,arkane-studios,https://www.igdb.com/companies/arkane-studios
+17,124,1299196800,Digital Extremes,digital-extremes,https://www.igdb.com/companies/digital-extremes
+18,156,1299196800,2K China,2k-china,https://www.igdb.com/companies/2k-china
+19,250,1299265070,Arkane Studios,arkane-studios,https://www.igdb.com/companies/arkane-studios
 20,1299196800,Darkside Game Studios,darkside-game-studios,https://www.igdb.com/companies/darkside-game-studios
-21,840,1299323621,Irrational Games is the renamed version of the studio 2K Boston to respect the studio's legacy.,Irrational Games,irrational-games,https://www.igdb.com/companies/irrational-games
-23,826,1299283200,"We are a publishing company set up in 1996 with a mission to bring great games to the Mac. Since then, we have not only established ourselves as a world-leading publisher of Mac games but of Linux games as well. 
- 
-We enjoy close relationships with developers and publishers such as 2K, SEGA, Square Enix, TT Games, Codemasters, Creative Assembly, Warner Bros. Interactive Entertainment and Io-Interactive. 
- 
-We’re based in London, England, but we deliver our titles to gamers all over the world thanks to the marvel that is digital download. 
- 
-One of our key aims is to have fun; we work with people we like, publish games that we enjoy and try not to be too corporate with our website. We hope you like our taste, but if there’s a game you’d like to see on the Mac or on Linux we’d love to hear from you.",Feral Interactive,feral-interactive,https://www.igdb.com/companies/feral-interactive
-24,840,1299352329,"Sierra Entertainment, Inc. (formerly On-Line Systems and Sierra On-Line, Inc.) was an American video game developer and publisher. The company was founded in 1979 by Ken and Roberta Williams, and known for pioneering the graphic adventure game genre including the first such game, Roberta's Mystery House. The company is known for its graphical adventure game series King's Quest, Space Quest, Police Quest, Gabriel Knight, Leisure Suit Larry, and Quest for Glory.",Sierra Entertainment,sierra-entertainment,https://www.igdb.com/companies/sierra-entertainment
+21,840,1299323621,Irrational Games,irrational-games,https://www.igdb.com/companies/irrational-games
+23,826,1299283200,Feral Interactive,feral-interactive,https://www.igdb.com/companies/feral-interactive
+24,840,1299352329,Sierra Entertainment,sierra-entertainment,https://www.igdb.com/companies/sierra-entertainment
 25,840,1299456000,Ion Storm,ion-storm,https://www.igdb.com/companies/ion-storm
-26,392,1299456000,"Square Enix develops, publishes, distributes and licenses Square Enix, Eidos and Taito branded entertainment content in Europe and other PAL territories as part of the Square Enix group of companies. Square Enix also has a global network of leading development studios such as Crystal Dynamics and Eidos Montréal. 
- 
-The Square Enix group of companies boasts a valuable portfolio of intellectual property including: Final Fantasy, which has sold over 130 million units worldwide; Dragon Quest, which has sold over 71 million units worldwide; Tomb Raider, which has sold over 58 million units worldwide; and the legendary Space Invaders.",Square Enix,square-enix,https://www.igdb.com/companies/square-enix
-27,124,1299498520,"Here at Eidos-Montréal, member of the Embracer Group, we’ve been creating immersive experiences for over 15 years. Throughout our history, we have worked on a variety of iconic IPs, including Deus Ex, Thief, Tomb Raider, Marvel’s Guardians of the Galaxy and more. We always aspire to leave our unique touch on our games, whether they are part of renowned series or all-new projects.",Eidos Montréal,eidos-montreal,https://www.igdb.com/companies/eidos-montreal
-28,1299974400,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) Bethesda Softworks LLC,archive-bethesda-softworks-llc,https://www.igdb.com/companies/archive-bethesda-softworks-llc
+26,392,1299456000,Square Enix,square-enix,https://www.igdb.com/companies/square-enix
+27,124,1299498520,Eidos Montréal,eidos-montreal,https://www.igdb.com/companies/eidos-montreal
+28,1299974400,(Archive) Bethesda Softworks LLC,archive-bethesda-softworks-llc,https://www.igdb.com/companies/archive-bethesda-softworks-llc
 29,840,1300047980,Rockstar Games,rockstar-games,https://www.igdb.com/companies/rockstar-games
 30,36,1300048019,Team Bondi,team-bondi,https://www.igdb.com/companies/team-bondi
 32,840,1299974400,Sierra On-Line,sierra-on-line,https://www.igdb.com/companies/sierra-on-line
-36,752,1300060800,"Frictional Games AB is an independent Swedish video game developer based in Helsingborg, founded on 1 January 2007 by Thomas Grip and Jens Nilsson. The company specializes in the development of survival horror video games, and is best known for its titles like Amnesia: The Dark Descent, Penumbra and Soma. Developers of Frictional Games keep updated their personal blog, called ""In The Games Of Madness"", where they talk about life in Frictional, developers bio and how a videogame is build up, analyzing the particularly gameplay settings of the most famous game.",Frictional Games,frictional-games,https://www.igdb.com/companies/frictional-games
-37,392,1300096897,"Capcom Co., Ltd. is a Japanese video game developer and publisher known for creating numerous multi-million selling game franchises, including Street Fighter, Mega Man, Resident Evil, Devil May Cry, Ace Attorney, Monster Hunter, Dead Rising, Breath of Fire, as well as games based on the Disney animated properties.",Capcom,capcom,https://www.igdb.com/companies/capcom
-38,124,1300098889,"Ubisoft Montréal is Ubisoft's largest in-house development studio, as well as the largest development studio worldwide with more than 4,000 employees. Founded in Montréal, Québec, the studio started with only 50 employees. 25 of these came from Ubisoft's headquarters in France, while the rest were new recruits. While the company originally focused their work on licensed family-friendly titles, the team achieved breakthrough success through the release of two titles: Prince of Persia: The Sands of Time and Tom Clancy's Splinter Cell.",Ubisoft Montreal,ubisoft-montreal,https://www.igdb.com/companies/ubisoft-montreal
-39,250,1300098934,"Ubisoft Annecy was established in 1996 in Annecy, France, and their first game was Rayman Revolution for PlayStation 2. Annecy developed the multiplayer portion of many Ubisoft games, including the Tom Clancy's Splinter Cell series and the Assassin's Creed series. Their first title as a lead developer was Steep, an open world winter sports game released in late 2016. The studio was previously known as Ubisoft Simulations. The studio also collaborated with Massive Entertainment and worked on Tom Clancy's The Division 2.",Ubisoft Annecy,ubisoft-annecy,https://www.igdb.com/companies/ubisoft-annecy
+36,752,1300060800,Frictional Games,frictional-games,https://www.igdb.com/companies/frictional-games
+37,392,1300096897,Capcom,capcom,https://www.igdb.com/companies/capcom
+38,124,1300098889,Ubisoft Montreal,ubisoft-montreal,https://www.igdb.com/companies/ubisoft-montreal
+39,250,1300098934,Ubisoft Annecy,ubisoft-annecy,https://www.igdb.com/companies/ubisoft-annecy
 41,840,1300060800,Riot Games,riot-games,https://www.igdb.com/companies/riot-games
-42,156,1300101366,"Tencent is a world-leading internet and technology company that develops innovative products and services to improve the quality of life of people around the world.
-
-Founded in 1998 with its headquarters in Shenzhen, China, Tencent's guiding principle is to use technology for good. Our communication and social services connect more than one billion people around the world, helping them to keep in touch with friends and family, access transportation, pay for daily necessities, and even be entertained.
-
-Tencent also publishes some of the world's most popular video games and other high-quality digital content, enriching interactive entertainment experiences for people around the globe.",Tencent Holdings,tencent-holdings,https://www.igdb.com/companies/tencent-holdings
-44,392,1300060800,"Team ICO is a Japanese video game development team led by game designer Fumito Ueda. It is part of SCE Japan Studio's Product Development Department #1, and has developed the games Ico and Shadow of the Colossus, both for the PlayStation 2, and are currently developing the game The Last Guardian for the Playstation 4, slated to release in 2016. Their games are characterized by a very small but endearing and memorable cast, minimalist storytelling, atmospheric use of bloom and HDR lighting, careful attention to the soundtrack and the utilisation of sound in general, fictional spoken languages, a distinct art style, and strong animation. Their games are frequently cited as examples of art in video games.",Team Ico,team-ico,https://www.igdb.com/companies/team-ico
-45,392,1300106339,Sony Computer Entertainment is a video game company that was created to handle Sony's venture into video game development for the PlayStation systems.,"Sony Computer Entertainment, Inc. (SCEI)",sony-computer-entertainment-inc-scei,https://www.igdb.com/companies/sony-computer-entertainment-inc-scei
-47,840,1300060800,"Obsidian Entertainment is an American role-playing video game developer founded in 2003 after the disestablishment of Interplay Productions' Black Isle Studios. Although it has created original intellectual property, Obsidian has mostly developed sequels to existing games, and many of their games are based on licensed properties.",Obsidian Entertainment,obsidian-entertainment,https://www.igdb.com/companies/obsidian-entertainment
-48,840,1300060800,"NetherRealm Studios company was founded in 2010 replacing WB Games Chicago and Midway Games, which purchased assets in 2009 that were formerly owned by Midway Games Chicago after Midway filed for bankruptcy. 
- 
-They are based in Chicago, Illinois.",NetherRealm Studios,netherrealm-studios,https://www.igdb.com/companies/netherrealm-studios
-50,840,1300107048,"WB Games, also known as Warner Bros. Interactive Entertainment, is a division of Warner Bros. most notably known for their Batman, Injustice, Middle-earth, Mortal Kombat, and LEGO games.",WB Games,wb-games,https://www.igdb.com/companies/wb-games
-51,840,1300107718,"By focusing on creating well-designed, highly enjoyable entertainment experiences, Blizzard Entertainment has maintained an unparalleled reputation for quality since its inception.",Blizzard Entertainment,blizzard-entertainment,https://www.igdb.com/companies/blizzard-entertainment
+42,156,1300101366,Tencent Holdings,tencent-holdings,https://www.igdb.com/companies/tencent-holdings
+44,392,1300060800,Team Ico,team-ico,https://www.igdb.com/companies/team-ico
+45,392,1300106339,"Sony Computer Entertainment, Inc. (SCEI)",sony-computer-entertainment-inc-scei,https://www.igdb.com/companies/sony-computer-entertainment-inc-scei
+47,840,1300060800,Obsidian Entertainment,obsidian-entertainment,https://www.igdb.com/companies/obsidian-entertainment
+48,840,1300060800,NetherRealm Studios,netherrealm-studios,https://www.igdb.com/companies/netherrealm-studios
+50,840,1300107048,WB Games,wb-games,https://www.igdb.com/companies/wb-games
+51,840,1300107718,Blizzard Entertainment,blizzard-entertainment,https://www.igdb.com/companies/blizzard-entertainment
 52,1300060800,LTI Gray Matter,lti-gray-matter,https://www.igdb.com/companies/lti-gray-matter
 53,840,1300060800,Microsoft Game Studios,microsoft-game-studios,https://www.igdb.com/companies/microsoft-game-studios
 54,1300060800,TransGaming Technologies,transgaming-technologies,https://www.igdb.com/companies/transgaming-technologies
 55,840,1300060800,Turtle Rock Studios,turtle-rock-studios,https://www.igdb.com/companies/turtle-rock-studios
-56,840,1300109760,"Valve is an American video game developer, publisher and digital distribution company. It is the developer of the software distribution platform Steam and the franchises Half-Life, Counter-Strike, Portal, Day of Defeat, Team Fortress, Left 4 Dead and Dota. The company was founded by former Microsoft employees Gabe Newell and Mike Harrington.",Valve,valve,https://www.igdb.com/companies/valve
+56,840,1300109760,Valve,valve,https://www.igdb.com/companies/valve
 57,124,1300060800,Certain Affinity,certain-affinity,https://www.igdb.com/companies/certain-affinity
-58,752,1300060800,"Mojang Studios is a Swedish video game developer and a studio of Xbox Game Studios based in Stockholm. The studio was founded by Markus Persson in 2009 as Mojang Specifications, inheriting the name from a venture of the same name he left two years prior.",Mojang Studios,mojang-studios,https://www.igdb.com/companies/mojang-studios
-59,840,1300060800,"Blizzard North was the Bay Area division of Blizzard Entertainment, known for its Diablo series. The studio was originally based in Redwood City, California, before moving a short distance away to San Mateo, with Blizzard proper being based in Irvine, southern California.",Blizzard North,blizzard-north,https://www.igdb.com/companies/blizzard-north
+58,752,1300060800,Mojang Studios,mojang-studios,https://www.igdb.com/companies/mojang-studios
+59,840,1300060800,Blizzard North,blizzard-north,https://www.igdb.com/companies/blizzard-north
 60,1300060800,Climax Group,climax-group,https://www.igdb.com/companies/climax-group
 61,250,1300112911,Gameloft,gameloft,https://www.igdb.com/companies/gameloft
 62,840,1300060800,Griptonite Games,griptonite-games,https://www.igdb.com/companies/griptonite-games
 63,840,1300184242,Pandemic Studios,pandemic-studios,https://www.igdb.com/companies/pandemic-studios
 64,840,1300147200,Savage Entertainment,savage-entertainment,https://www.igdb.com/companies/savage-entertainment
 65,840,1300147200,Luxoflux,luxoflux,https://www.igdb.com/companies/luxoflux
-66,840,1300185443,"For more than 30 years, Activision has been changing the way people play. In the process, we have built one of the largest portfolios of recognized brands and today we are one of the most valuable interactive entertainment companies in the world.
-
-Founded in 1979 as the first independent video game software developer and distributor, the company launched a series of multi-million unit selling titles in the early 1980s for the Atari 2600 including Pitfall, Kaboom! and River Raid. And since then, Activision has created some of the most iconic and memorable game experiences of all time.",Activision,activision,https://www.igdb.com/companies/activision
+66,840,1300185443,Activision,activision,https://www.igdb.com/companies/activision
 67,840,1300147200,Petroglyph Games,petroglyph-games,https://www.igdb.com/companies/petroglyph-games
-68,840,1300185938,"Ensemble Studios was an American video game developer. It was founded by Tony Goodman in 1994 and incorporated the following year. It borrowed the name of Ensemble Corporation, a consulting firm founded by Goodman in 1990. It was acquired by Microsoft in 2001 and operated as an internal studio until 2009, when its development capabilities were officially disbanded. Ensemble developed many real-time strategy games, including the Age of Empires game series, Age of Mythology, and Halo Wars. In addition to game development, Ensemble Studios also made the Genie Game Engine used in Age of Empires, Age of Empires II: The Age of Kings, and Star Wars: Galactic Battlegrounds. The studio sold 20 million games and was worth an estimated $500 million.",Ensemble Studios,ensemble-studios,https://www.igdb.com/companies/ensemble-studios
+68,840,1300185938,Ensemble Studios,ensemble-studios,https://www.igdb.com/companies/ensemble-studios
 69,1300147200,Big Ape Productions,big-ape-productions,https://www.igdb.com/companies/big-ape-productions
-70,392,1300188090,"Nintendo is a multinational corporation located in Kyoto, Japan. Founded by Fusajiro Yamauchi, it first produced handmade hanafuda cards and also tried several small niche businesses such as a cab company and a love hotel. Nintendo developed into a video game company, becoming one of the most influential in the industry and Japan's third most valuable listed company. The name Nintendo translated from Japanese to English means ""Leave luck to Heaven"".",Nintendo,nintendo,https://www.igdb.com/companies/nintendo
-71,840,1300147200,"Raven Software is a market-leading and award-winning video game developer based in Middleton, Wisconsin. Since its inception in 1990, Raven's core has always been centered on visual excellence and exciting gameplay. With this focus, Raven has established a stability that few in the ever-changing video game industry have been able to achieve. As new technologies and trends continue to develop, Raven remains dedicated to surpassing new levels of quality in electronic gaming.",Raven Software,raven-software,https://www.igdb.com/companies/raven-software
-72,840,1300194653,"Vicarious Visions is located in historical Albany, New York. Here you have easy access to beautiful parks, scenic views, a thriving culinary scene, lakes in the summer, and skiing & snowboarding in the winter, all with a low cost of living, great public schools, and a prospering economy that includes a growing game development community. For over 30 years, Vicarious Visions has made hundreds of exciting games, in every genre, on every conceivable game platform in the known universe and we are proud to be able to do so for the passionate fans of Blizzard Entertainment. We thrive on a culture of teamwork, respect and fun. We’ve built a welcoming and relaxed workplace that invites creativity and encourages individual voices. We not only give our developers a safe and warm place to incubate and grow their ideas but the tools and support necessary to turn those ideas into impactful and memorable experiences.",Vicarious Visions,vicarious-visions,https://www.igdb.com/companies/vicarious-visions
-73,840,1300194833,Aspyr Media specializes in porting video games from Microsoft Windows to OS X and Linux.,Aspyr Media,aspyr-media,https://www.igdb.com/companies/aspyr-media
-74,392,1300147200,CyberFront Corporation (株式会社サイバーフロント kabushiki gaisha saibaafuronto) was a console and computer game developer.,CyberFront,cyberfront,https://www.igdb.com/companies/cyberfront
-75,276,1300147200,"Factor 5 was founded in Cologne, Germany in 1987 by five gaming enthusiasts. They have earned a reputation in the video game and technology industry as one of the front-runners in developing exciting games and cutting edge technology for a variety of platforms. Factor 5 goes to the very limit of each platform they have ever worked on and produces games which stand out for their technical excellence and playability.",Factor 5,factor-5,https://www.igdb.com/companies/factor-5
+70,392,1300188090,Nintendo,nintendo,https://www.igdb.com/companies/nintendo
+71,840,1300147200,Raven Software,raven-software,https://www.igdb.com/companies/raven-software
+72,840,1300194653,Vicarious Visions,vicarious-visions,https://www.igdb.com/companies/vicarious-visions
+73,840,1300194833,Aspyr Media,aspyr-media,https://www.igdb.com/companies/aspyr-media
+74,392,1300147200,CyberFront,cyberfront,https://www.igdb.com/companies/cyberfront
+75,276,1300147200,Factor 5,factor-5,https://www.igdb.com/companies/factor-5
 76,1300147200,Ronin Entertainment,ronin-entertainment,https://www.igdb.com/companies/ronin-entertainment
 77,840,1300147200,Totally Games,totally-games,https://www.igdb.com/companies/totally-games
 78,1300147200,Snowblind Studios,snowblind-studios,https://www.igdb.com/companies/snowblind-studios
-79,250,1300147200,"Based in Torcy, France. It is one of the largest handheld video game developers in France. The company has developed more than 35 games on Nintendo's handheld systems.&#13;
-&#13;
-The studio managed to enter the Develop100 in 2010, being one of the world's most successful game studios according to Develop.",Magic Pockets,magic-pockets,https://www.igdb.com/companies/magic-pockets
-80,840,1300147200,"Game publishing subsidiary of Vivendi. Renamed from Vivendi Universal Games in 2006, after Vivendi dropped the universal from it's name, and stopped publishing under it's own name. Had divisions like Blizzard entertainment and Sierra entertainment. Vivendi merged with Activision in 2008 to form Activision Blizzard, which took over publishing.",Vivendi Games,vivendi-games,https://www.igdb.com/companies/vivendi-games
+79,250,1300147200,Magic Pockets,magic-pockets,https://www.igdb.com/companies/magic-pockets
+80,840,1300147200,Vivendi Games,vivendi-games,https://www.igdb.com/companies/vivendi-games
 81,1300147200,Destination Software,destination-software,https://www.igdb.com/companies/destination-software
 82,1300147200,Atari,atari,https://www.igdb.com/companies/atari
 84,1300147200,CTO SpA,cto-spa,https://www.igdb.com/companies/cto-spa
-85,840,1300266210,"Double Fine Productions is an award-winning game development studio founded in 2000 by games industry veteran Tim Schafer. Located in San Francisco’s South of Market district, Double Fine is committed to making high-quality games with an emphasis on originality, story, characters, and fun.",Double Fine Productions,double-fine-productions,https://www.igdb.com/companies/double-fine-productions
-87,840,1300286949,Mythic Entertainment was a video game developer widely recognized for developing the massively multiplayer online role-playing game Dark Age of Camelot. The studio was a prolific creator of multiplayer online games following its establishment.,Mythic Entertainment,mythic-entertainment,https://www.igdb.com/companies/mythic-entertainment
+85,840,1300266210,Double Fine Productions,double-fine-productions,https://www.igdb.com/companies/double-fine-productions
+87,840,1300286949,Mythic Entertainment,mythic-entertainment,https://www.igdb.com/companies/mythic-entertainment
 88,840,1300233600,Shiny Entertainment,shiny-entertainment,https://www.igdb.com/companies/shiny-entertainment
 89,1300233600,Shokwave,shokwave,https://www.igdb.com/companies/shokwave
 90,840,1300233600,Neversoft Entertainment,neversoft-entertainment,https://www.igdb.com/companies/neversoft-entertainment
 91,1300233600,Playmates Interactive Entertainment,playmates-interactive-entertainment,https://www.igdb.com/companies/playmates-interactive-entertainment
-92,840,1300359886,"NovaLogic, Inc. was a software developer and publisher established in 1985 and based in Calabasas, California. The company was founded by CEO John A. Garcia. Garcia's background in computer software started in Southern California in the early 1980s, when he worked at Datasoft. The company was known for their Voxel Space engine, which was utilized in franchises such as the Comanche and Delta Force series. In October 2016, NovaLogic's assets were bought out by THQ Nordic and is currently an inactive label for the company.",NovaLogic,novalogic,https://www.igdb.com/companies/novalogic
+92,840,1300359886,NovaLogic,novalogic,https://www.igdb.com/companies/novalogic
 93,1300320000,Square Enix 1st Production Department,square-enix-1st-production-department,https://www.igdb.com/companies/square-enix-1st-production-department
-94,752,1300320000,"Founded in 1992 by four friends from the Amiga demo scene, DICE (then Digital Illusions) created the cult hit Pinball Dreams for the Amiga. Ten years later, the pivotal Battlefield 1942 would change the future of online gaming and DICE forever. Today, the studio develops Battlefield, Mirror’s Edge and Star Wars Battlefront games. And we are just getting warmed up.",EA Digital Illusions CE,ea-digital-illusions-ce,https://www.igdb.com/companies/ea-digital-illusions-ce
-95,840,1300320000,"The Disney Games & Interactive Experiences business is comprised of internally developed, licensed and co-developed mobile products, as well as licensed console video games. 
- 
-These leading, world-class experiences draw upon the most beloved stories and characters from Disney, Pixar, Marvel and Star Wars to create high-quality interactive game experiences, across mobile and console platforms, for fans of all ages.",Disney Interactive,disney-interactive,https://www.igdb.com/companies/disney-interactive
+94,752,1300320000,EA Digital Illusions CE,ea-digital-illusions-ce,https://www.igdb.com/companies/ea-digital-illusions-ce
+95,840,1300320000,Disney Interactive,disney-interactive,https://www.igdb.com/companies/disney-interactive
 97,840,1300406400,New World Computing,new-world-computing,https://www.igdb.com/companies/new-world-computing
 99,840,1300406400,The 3DO Company,the-3do-company,https://www.igdb.com/companies/the-3do-company
 100,1300406400,Nival Interactive,nival-interactive,https://www.igdb.com/companies/nival-interactive
 101,1300406400,Freeverse Software,freeverse-software,https://www.igdb.com/companies/freeverse-software
-103,348,1300406400,"Black Hole Entertainment was a Budapest-based video game developer, founded in 2001 by seven young game enthusiasts.
-
-Black Hole developed the sixth installment of the Heroes of Might and Magic series, Might &amp; Magic Heroes VI, in collaboration with Ubisoft. The title was released in October 2011, postponed from its original launch date of March. The studio was reported in various media to have gone bankrupt as a result of the nature of this development, and members of the company blamed Ubisoft for the mistake. As of July 2012, the company is no longer operating.",Black Hole Entertainment,black-hole-entertainment,https://www.igdb.com/companies/black-hole-entertainment
-104,1654695687,"At Ubisoft, we create worlds for everyone. We are dedicated to enriching the lives of our players by developing high-quality games that resonate with all kinds of personalities, bring people together, and allow everyone to learn and grow while having fun.",Ubisoft Entertainment,ubisoft-entertainment,https://www.igdb.com/companies/ubisoft-entertainment
-106,840,1300406400,"Loki Entertainment Software, Inc. was a video game developer based in Tustin, California, United States, that ported several video games from Microsoft Windows to Linux. It took its name from the Norse deity Loki.
-
-Although successful in its goal of bringing games to the Linux platform, the company eventually closed due to financial troubles, with it declaring Chapter 11 Bankruptcy Protection in August 2001 and finally being disbanded in January 2002.
-
-Excerpt from their archived website:
-""Loki Entertainment Software contracts with successful computer entertainment software companies to port their best selling titles to Linux. A freeware Unix-like operating system, Linux has been dubbed the only true competitor to Windows and has established a solid following in the United States and abroad. Gaming software is an untapped segment of the Linux market with significant potential.
-
-Unlike commercial operating systems developed solely for profit, Linux truly represents the ""power of the people."" Created in 1991 by Linus Torvalds, a Finnish developer, and made available for free over the Internet, Linux is continually being enhanced by thousands of volunteer developers and programmers around the globe. New capabilities are routinely shared and contributed as software developers have molded the versatile operating system to fit their company's specific needs. While most commercial operating systems go through five to seven revisions per year, Linux might see multiple revisions in a day. There is a virtually unlimited and growing pool of talent supporting the product.
-
-Loki Entertainment Software was founded in August, 1998 with the goal of bringing a broad range of games to Linux. Loki generates revenues for game publishers by bringing proven hits to this significant, new market. Just as Hollywood studios are able to supplement profits by re-releasing movies to video, pay-per-view and international markets, the ports developed by Loki enable publishers to generate additional revenues from existing products without incurring additional costs.
-
-For Linux users, Loki brings best selling games, fully supported and sold through traditional retail channels -- something the Linux community has been lacking until now. We are very proud of our commitment to Linux, and are excited about bringing a rich gaming experience to our platform of choice.""",Loki Software,loki-software,https://www.igdb.com/companies/loki-software
+103,348,1300406400,Black Hole Entertainment,black-hole-entertainment,https://www.igdb.com/companies/black-hole-entertainment
+104,1654695687,Ubisoft Entertainment,ubisoft-entertainment,https://www.igdb.com/companies/ubisoft-entertainment
+106,840,1300406400,Loki Software,loki-software,https://www.igdb.com/companies/loki-software
 107,1300406400,Lego Media,lego-media,https://www.igdb.com/companies/lego-media
-108,616,1300492800,"Since the company's foundation in 1991, Techland has been consistently reinforcing its position in the industry and in 2000 began to conquer international markets. 
- 
-Initially, our activities were focused on the distribution of software in Poland. Later, towards the end of the nineties, we decided to commence the in-house production of computer software with the emphasis on video games. Currently, we create advanced high-budget games for all major platforms – the PC, Xbox 360, Xbox One, PlayStation 3 and PlayStation 4. The primary technology we use is our proprietary Chrome Engine®, currently at version 6, middleware, and toolset continuously developed for over 10 years now. Using this top-notch technology, we have released over 20 games, including Dead Island and Call of Juarez series. We also develop mobile games for iOS devices. 
- 
-Techland is a team of over two hundred dynamic people driven by ambition and creative passion. Our staff consists of highly experienced industry specialists and talented young apprentices from all fields. Every one of us perceives the electronic entertainment not only as their job but, more importantly, also as our lifetime passion and hobby. We achieve professional excellence by bringing ambitious projects to life and constant learning. Every day we push ourselves to realize our vision – deliver cutting-edge and attractive electronic entertainment. 
- 
-See more at: http://company.techland.pl/about, ©Techland",Techland,techland,https://www.igdb.com/companies/techland
-110,250,1300495635,"Focus offers fresh and unique experiences to players around the world. Our editorial policy stands out thanks to innovative concepts, inventive gameplay and original worlds that transcend the boundaries of video games. With over 20 years’ experience and success, we put our passion and creativity at the service of gaming by creating unforgettable stories. For everyone's entertainment.",Focus Entertainment,focus-entertainment,https://www.igdb.com/companies/focus-entertainment
-111,826,1300724395,"The Creative Assembly is a British video game developer founded by Tim Ansell. In its early years, the company worked on porting games to MS-DOS from Amiga and ZX Spectrum platforms, later working with Electronic Arts to produce a variety of games under the EA Sports brand. In 1999, the company had sufficient resources to attempt a new and original project, proceeding to develop the strategy computer game Shogun: Total War which was a critical and commercial hit, and is regarded as a benchmark strategy game. Under Sega, further Total War titles were developed, and The Creative Assembly entered the console market with action-adventure games such as Spartan: Total Warrior, Viking: Battle for Asgard and Alien: Isolation.",The Creative Assembly,the-creative-assembly,https://www.igdb.com/companies/the-creative-assembly
-112,392,1300665600,"As one of the leading interactive entertainment companies, SEGA cultivates creative talent worldwide with offices in America, Japan and our European HQ in London. Our acclaimed UK based studios include Sports Interactive and The Creative Assembly who are responsible for award-winning titles and iconic franchises such as Football Manager™, Aliens™, and the Total War™ series. Hardlight, the newest UK studio in the SEGA family, are the talented team behind Sonic the Hedgehog™'s latest adventures on mobile platforms Sonic Jump™ and Sonic Dash™. SEGA's much loved blue hedgehog mascot is a true global brand crossing over from video games into toys, stationary, apparel and much more.
-
-SEGA is growing and has recently completed an acquisition of Canada based Relic Entertainment Studio, famed for high quality strategy games including “Warhammer 40k Dawn of War” and the “Company of Heroes” series. We are determined to set new standards in interactive entertainment and are excited by the opportunity of welcoming such a talented development studio into the SEGA family.",Sega,sega,https://www.igdb.com/companies/sega
+108,616,1300492800,Techland,techland,https://www.igdb.com/companies/techland
+110,250,1300495635,Focus Entertainment,focus-entertainment,https://www.igdb.com/companies/focus-entertainment
+111,826,1300724395,The Creative Assembly,the-creative-assembly,https://www.igdb.com/companies/the-creative-assembly
+112,392,1300665600,Sega,sega,https://www.igdb.com/companies/sega
 113,840,1300665600,Westwood Studios,westwood-studios,https://www.igdb.com/companies/westwood-studios
 114,276,1300838400,reLINE Software,reline-software,https://www.igdb.com/companies/reline-software
-115,826,1300887973,"Codemasters is a British video game developer and publisher founded by David Darling and his brother Richard in 1986. Headquartered in Southam, Warwickshire, Codemasters is one of the oldest British game studios, and in 2005 was named the top independent games developer by Develop magazine.",Codemasters,codemasters,https://www.igdb.com/companies/codemasters
+115,826,1300887973,Codemasters,codemasters,https://www.igdb.com/companies/codemasters
 116,203,1300838400,Bohemia Interactive Studio,bohemia-interactive-studio,https://www.igdb.com/companies/bohemia-interactive-studio
-117,840,1300924800,"Troika Games was a video game developer created by the key people behind the first part of the critically acclaimed Fallout series of games. The company was focused on role-playing video games between 1998 and 2005, best known for Arcanum: Of Steamworks and Magick Obscura and Vampire: The Masquerade – Bloodlines.",Troika Games,troika-games,https://www.igdb.com/companies/troika-games
+117,840,1300924800,Troika Games,troika-games,https://www.igdb.com/companies/troika-games
 118,1300924800,Paradox Development,paradox-development,https://www.igdb.com/companies/paradox-development
 119,1300924800,Mass Media Interactive Entertainment,mass-media-interactive-entertainment,https://www.igdb.com/companies/mass-media-interactive-entertainment
 120,1300924800,MacPlay,macplay,https://www.igdb.com/companies/macplay
 121,1300924800,Blizzard Classic Arcade,blizzard-classic-arcade,https://www.igdb.com/companies/blizzard-classic-arcade
-122,276,1300924800,"Envision. Enable. Achieve.
-
-Crytek is an independent company at the forefront of the interactive entertainment industry, and is dedicated to pushing the boundaries of gaming by creating standout experiences with their cutting-edge 3D game technology, CRYENGINE.
-
-Founded by brothers Avni, Cevat, and Faruk Yerli in 1999, Crytek has its headquarters in Frankfurt, Germany, with additional studios in Kiev (Ukraine), Budapest (Hungary), Sofia (Bulgaria), Seoul (South Korea), Nottingham (United Kingdom), Shanghai (China), Istanbul (Turkey), and Austin (USA).
-
-Since its establishment, Crytek has consistently been recognized for excellence in its field – earning accolades such as the 2011 Develop Award for Best Independent Studio and a 2010 Red Dot Design Award. Its award-winning games include Far Cry®, Crysis® (Best PC Game of E3 2007), Crysis® Warhead (Best Graphics Technology at IGN Best of 2008 Awards), Crysis® 2 (Best Shooter of E3 2010 and Gamescom 2010), Fibble – Flick ‘n’ Roll, Crysis® 3 (Electronic Playground Best of E3 2012 and Most Valuable Game from PC Gamer E3 2012), and Warface® (Best Social/Casual/Online Game of Gamescom 2012).
-
- 
-
-Crytek is committed to creating high-quality products powered by its CRYENGINE technology.
-
-In 2010, Crytek announced Warface, their first free-to-play game service and a major milestone in the studio’s history. The announcement was followed by the 2012 release of Fibble – Flick ‘n’ Roll, their debut game for mobile devices. Since then the company have gone on to create Xbox One-exclusive launch title Ryse: Son of Rome, and their second mobile title, The Collectables.
-
-To further support the company’s future within the free-to-play gaming model, Crytek launched GFACE in 2012: a social gaming hub which serves as a platform for upcoming Crytek games.",Crytek Frankfurt,crytek-frankfurt,https://www.igdb.com/companies/crytek-frankfurt
+122,276,1300924800,Crytek Frankfurt,crytek-frankfurt,https://www.igdb.com/companies/crytek-frankfurt
 125,1300924800,Crytek Budapest,crytek-budapest,https://www.igdb.com/companies/crytek-budapest
-126,840,1301167079,"Bethesda Game Studios is an American video game developer, acting as in-house development team for parent company Bethesda Softworks, established in 2001. Previously synonymous with parent publisher Bethesda Softworks, the studio's name and logo were established with the release of The Elder Scrolls III: Morrowind in 2002. The studio is currently led by executive producer Todd Howard. A second studio, Bethesda Game Studios Montreal, was opened in Montreal, Quebec, Canada.",Bethesda Game Studios,bethesda-game-studios,https://www.igdb.com/companies/bethesda-game-studios
+126,840,1301167079,Bethesda Game Studios,bethesda-game-studios,https://www.igdb.com/companies/bethesda-game-studios
 127,1301270400,Funcom Productions,funcom-productions,https://www.igdb.com/companies/funcom-productions
-128,840,1301300228,"Microsoft is an American multinational technology corporation which produces computer software, consumer electronics, personal computers, and related services.",Microsoft,microsoft,https://www.igdb.com/companies/microsoft
-129,392,1301300228,"Konami is a Japanese entertainment and gaming conglomerate. It operates as a product distributor, video game developer and publisher company. During a span of many years, the company produced a large amount of popular games and game franchises in different genres, including Metal Gear, Contra, Frogger, Castlevania, Silent Hill, Suikoden, and more. Many of Konami's products have received prestigious awards in the industry for innovation, quality and sales.",Konami,konami,https://www.igdb.com/companies/konami
+128,840,1301300228,Microsoft,microsoft,https://www.igdb.com/companies/microsoft
+129,392,1301300228,Konami,konami,https://www.igdb.com/companies/konami
 130,840,1301270400,MacSoft Games,macsoft-games,https://www.igdb.com/companies/macsoft-games
-131,840,1301270400,"Robot Entertainment is a video game development and publishing company created by the founders of the defunct Ensemble Studios, after being shut down by Microsoft. Other members of the company founded Bonfire Studios. Robot Entertainment was responsible for maintaining and updating Halo Wars until February 28, 2010, when Microsoft Studios assumed control of the game servers and updates. Also, in January 2011, Microsoft Studios took over updates and servers for Age of Empires III. Robot Entertainment have since released games including 'Orcs Must Die!', 'Orcs Must Die! 2', 'Hero Academy' and 'Echo Prime'.
-
-Their headquarters are located in Piano, Texas, United States.",Robot Entertainment,robot-entertainment,https://www.igdb.com/companies/robot-entertainment
+131,840,1301270400,Robot Entertainment,robot-entertainment,https://www.igdb.com/companies/robot-entertainment
 132,840,1301270400,Destineer,destineer,https://www.igdb.com/companies/destineer
 133,840,1301270400,Rogue Entertainment,rogue-entertainment,https://www.igdb.com/companies/rogue-entertainment
 134,40,1301270400,Max Design,max-design,https://www.igdb.com/companies/max-design
@@ -227,59 +118,48 @@ Their headquarters are located in Piano, Texas, United States.",Robot Entertainm
 136,840,1301270400,Planet Moon Studios,planet-moon-studios,https://www.igdb.com/companies/planet-moon-studios
 137,752,1301270400,Digital Illusions CE,digital-illusions-ce,https://www.igdb.com/companies/digital-illusions-ce
 138,1301270400,Refraction Games,refraction-games,https://www.igdb.com/companies/refraction-games
-139,840,1301307975,"Headquartered in New York City, Take-Two Interactive Software, Inc. is a leading developer, marketer and publisher of interactive entertainment for consumers around the globe. The Company develops and publishes products through its two wholly-owned labels Rockstar Games and 2K. Our products are designed for console systems, handheld gaming systems and personal computers, including smartphones and tablets, and are delivered through physical retail, digital download, online platforms and cloud streaming services. The Company’s common stock is publicly traded on NASDAQ under the symbol TTWO.",Take-Two Interactive,take-two-interactive,https://www.igdb.com/companies/take-two-interactive
+139,840,1301307975,Take-Two Interactive,take-two-interactive,https://www.igdb.com/companies/take-two-interactive
 140,840,1301270400,EA Los Angeles,ea-los-angeles,https://www.igdb.com/companies/ea-los-angeles
 141,826,1301270400,Virgin Interactive Entertainment (Europe) Ltd.,virgin-interactive-entertainment-europe-ltd,https://www.igdb.com/companies/virgin-interactive-entertainment-europe-ltd
-142,840,1301270400,"EA Pacific (formerly known as Burst Studios and Westwood Pacific) was a developer formally owned by Virgin Interactive's North American operations, and was based in Irvine, California.",Westwood Pacific,westwood-pacific,https://www.igdb.com/companies/westwood-pacific
-143,1301270400,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) EA Games - duplicate,archive-ea-games-duplicate,https://www.igdb.com/companies/archive-ea-games-duplicate
+142,840,1301270400,Westwood Pacific,westwood-pacific,https://www.igdb.com/companies/westwood-pacific
+143,1301270400,(Archive) EA Games - duplicate,archive-ea-games-duplicate,https://www.igdb.com/companies/archive-ea-games-duplicate
 144,804,1301309234,GSC Game World,gsc-game-world,https://www.igdb.com/companies/gsc-game-world
-145,276,1301270400,"cdv Software Entertainment AG, previously known as cdv Software from 1989 – 2000.",cdv Software Entertainment,cdv-software-entertainment,https://www.igdb.com/companies/cdv-software-entertainment
-146,124,1301270400,"Established in 1989, Strategy First is a PC video game and social gaming publisher.",Strategy First,strategy-first,https://www.igdb.com/companies/strategy-first
+145,276,1301270400,cdv Software Entertainment,cdv-software-entertainment,https://www.igdb.com/companies/cdv-software-entertainment
+146,124,1301270400,Strategy First,strategy-first,https://www.igdb.com/companies/strategy-first
 147,1301270400,Vivendi Universal,vivendi-universal,https://www.igdb.com/companies/vivendi-universal
-148,840,1301310098,"The diverse and passionate members of the Gearbox Software team share a common identity – we feel we were made to set our time and talent towards bringing joy, fun and happiness to our customers through our craft.
-
-Since its inception and our first release, Half-Life: Opposing Force, the talented developers at Gearbox Software have had the pleasure of creating video games for some of the most exciting and revered brands on the planet. The Gearbox Software team has also created original, owned and managed brands including the award winning, best-selling Brothers in Arms series and the record-setting, genre breaking Borderlands franchise. In addition, Gearbox Software has acquired other major video game properties including the Duke Nukem and Homeworld brands. With all of its owned franchises, the people of Gearbox Software enjoy driving and managing a deep portfolio of licensed and internally produced ancillary products including video games, comic books, action figures, apparel, art prints, fictional novels, non-fiction reference books, and linear media content for film and television.
-
-Ultimately, Gearbox Software is a family of talented, inventive and passionate individuals who want to collaborate with smart, committed, capable people with a quality of character that seek to inspire and be inspired – that care about creativity, happiness and the desire to make wonderful, engaging and exciting things that our customers feel is very valuable so that we may learn the lessons of experience together and share together in the rewards from a job well done.",Gearbox Software,gearbox-software,https://www.igdb.com/companies/gearbox-software
+148,840,1301310098,Gearbox Software,gearbox-software,https://www.igdb.com/companies/gearbox-software
 149,1301270400,Ritual Entertainment,ritual-entertainment,https://www.igdb.com/companies/ritual-entertainment
 150,840,1301270400,Hidden Path Entertainment,hidden-path-entertainment,https://www.igdb.com/companies/hidden-path-entertainment
 151,840,1301270400,Simtex,simtex,https://www.igdb.com/companies/simtex
-152,840,1301317130,"This page is for the publishing company founded in 2019, when the MicroProse brand was revived when David Lagettie purchasing various intellectual properties, including the branding itself from then-owners Cybergun. It has since launched military simulation games the brand was known for whose initial titles include Second Front, Sea Power, and Task Force Admiral.",MicroProse,microprose,https://www.igdb.com/companies/microprose
+152,840,1301317130,MicroProse,microprose,https://www.igdb.com/companies/microprose
 153,1301356800,Digital Illusions CE: Canada,digital-illusions-ce-canada,https://www.igdb.com/companies/digital-illusions-ce-canada
 154,1301356800,Neowiz Games,neowiz-games,https://www.igdb.com/companies/neowiz-games
 155,752,1301356800,Easy Studios,easy-studios,https://www.igdb.com/companies/easy-studios
 158,826,1301356800,Crytek UK,crytek-uk,https://www.igdb.com/companies/crytek-uk
-159,392,1301471795,"Konami Computer Entertainment Tokyo was a development studio responsible for a significant number of major franchises for its parent company, including Tokimeki Memorial, Winning Eleven, Suikoden and Dance Dance Revolution. A group at the studio known as Team Silent were also responsible for the Silent Hill franchise.",Konami Computer Entertainment Tokyo,konami-computer-entertainment-tokyo,https://www.igdb.com/companies/konami-computer-entertainment-tokyo
-160,840,1301472282,"Double Helix Games was an American video game developer based in Irvine, California. It was the result of the mergers of The Collective and Shiny Entertainment, two studios owned by Foundation 9 Entertainment. Its first release was Silent Hill: Homecoming for PlayStation 3 and Xbox 360.",Double Helix Games,double-helix-games,https://www.igdb.com/companies/double-helix-games
-161,392,1301472282,Konami Digital Entertainment is a subsidiary of Konami that take over digital entertainment business.,Konami Digital Entertainment,konami-digital-entertainment,https://www.igdb.com/companies/konami-digital-entertainment
-162,203,1301472383,"Vatra Games was a Czech video game development company based in Brno. It was built when several developers from 2K Czech were retiring and decided to set up a new studio, which became Vatra Games.",Vatra Games,vatra-games,https://www.igdb.com/companies/vatra-games
-163,826,1301472594,Climax Studios is a British video game developer based in Portsmouth that is best known for their work on the action role-playing game Sudeki and the survival horror games Silent Hill: Origins and Silent Hill: Shattered Memories.,Climax Studios,climax-studios,https://www.igdb.com/companies/climax-studios
-164,826,1301443200,"Rocksteady Studios is a multi-award winning video-game developer based in London, England. Located in a spacious, purpose built converted factory, with full motion capture and audio studio capabilities, consisting of an energetic company formed by a core team of senior industry professionals.",Rocksteady Studios,rocksteady-studios,https://www.igdb.com/companies/rocksteady-studios
+159,392,1301471795,Konami Computer Entertainment Tokyo,konami-computer-entertainment-tokyo,https://www.igdb.com/companies/konami-computer-entertainment-tokyo
+160,840,1301472282,Double Helix Games,double-helix-games,https://www.igdb.com/companies/double-helix-games
+161,392,1301472282,Konami Digital Entertainment,konami-digital-entertainment,https://www.igdb.com/companies/konami-digital-entertainment
+162,203,1301472383,Vatra Games,vatra-games,https://www.igdb.com/companies/vatra-games
+163,826,1301472594,Climax Studios,climax-studios,https://www.igdb.com/companies/climax-studios
+164,826,1301443200,Rocksteady Studios,rocksteady-studios,https://www.igdb.com/companies/rocksteady-studios
 165,1301443200,DC Entertainment,dc-entertainment,https://www.igdb.com/companies/dc-entertainment
 166,1301616000,Shadows in Darkness,shadows-in-darkness,https://www.igdb.com/companies/shadows-in-darkness
-167,616,1301656755,"Established in 2002, People Can Fly is one of the best AAA game development studios in Poland and one of the leading UNREAL ENGINE studios in Europe. 
- 
-PCF made its mark on the shooter genre and is known for titles such as Bulletstorm: Full Clip (launched on April 7, 2017) , Gears of War: Judgment (published in 2013), Bulletstorm (an original, Unreal Engine 3-powered onslaught of ‘kill with skill’ gameplay and blockbuster moments published in 2011.) and award-winning Painkiller (launched in 2004). 
- 
-People Can Fly is currently working on two projects: Outriders – very ambitious RPG shooter and recently announced new original, action-adventure AAA title led by PCF’s New York studio.",People Can Fly,people-can-fly,https://www.igdb.com/companies/people-can-fly
-168,1301616000,"This is a duplicate company and should not be used. 
-Will be archived at a later time.","(Archive) Epic Games, Inc.",archive-epic-games-inc,https://www.igdb.com/companies/archive-epic-games-inc
-169,724,1301702400,"MercurySteam Entertainment is a independent game developer based in San Sebastián de los Reyes, Spain. The company develops titles for all platforms, including PC and mobile. It is made up of several of the former members of Rebel Act Studios (the creators of Blade: The Edge of Darkness).",MercurySteam,mercurysteam,https://www.igdb.com/companies/mercurysteam
+167,616,1301656755,People Can Fly,people-can-fly,https://www.igdb.com/companies/people-can-fly
+168,1301616000,"(Archive) Epic Games, Inc.",archive-epic-games-inc,https://www.igdb.com/companies/archive-epic-games-inc
+169,724,1301702400,MercurySteam,mercurysteam,https://www.igdb.com/companies/mercurysteam
 170,392,1301702400,Kojima Productions,kojima-productions,https://www.igdb.com/companies/kojima-productions
 173,1301875200,The Omni Group,the-omni-group,https://www.igdb.com/companies/the-omni-group
 174,1301875200,Digital Mayhem,digital-mayhem,https://www.igdb.com/companies/digital-mayhem
 175,100,1301875200,Haemimont Games,haemimont-games,https://www.igdb.com/companies/haemimont-games
 176,1301875200,FX Interactive,fx-interactive,https://www.igdb.com/companies/fx-interactive
-177,1301875200,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) duplicate company name,archive-duplicate-company-name,https://www.igdb.com/companies/archive-duplicate-company-name
+177,1301875200,(Archive) duplicate company name,archive-duplicate-company-name,https://www.igdb.com/companies/archive-duplicate-company-name
 178,1301875200,Intelligent Games,intelligent-games,https://www.igdb.com/companies/intelligent-games
-179,840,1301931506,"ActivisionBlizzard, Inc.is the worlds largest and most profitable independent interactive entertainment publishing company. It develops and publishes some of the most successful and beloved entertainment franchises in any medium, including Call of Duty, World of Warcraft, Skylanders, and Diablo.",Activision Blizzard,activision-blizzard,https://www.igdb.com/companies/activision-blizzard
-180,826,1301875200,"Mythos Games was a British video game developer company founded by Julian Gollop in 1988 as Target Games and best known for its acclaimed 1994 strategy game UFO: Enemy Unknown. Following the bankruptcy of Mythos Games in 2001, Gollop founded Codo Technologies.",Mythos Games,mythos-games,https://www.igdb.com/companies/mythos-games
+179,840,1301931506,Activision Blizzard,activision-blizzard,https://www.igdb.com/companies/activision-blizzard
+180,826,1301875200,Mythos Games,mythos-games,https://www.igdb.com/companies/mythos-games
 181,1301875200,Blue Fang Games,blue-fang-games,https://www.igdb.com/companies/blue-fang-games
 182,840,1301875200,Nihilistic Software,nihilistic-software,https://www.igdb.com/companies/nihilistic-software
-183,840,1301947109,"Hasbro Interactive was an American video game production and publishing subsidiary of Hasbro, the large game and toy company. Several of its studios were closed in early 2001 and most of its properties were sold to Infogrames which completed its studio's closures at the end of 2001.",Hasbro Interactive,hasbro-interactive,https://www.igdb.com/companies/hasbro-interactive
-184,840,1301988746,"id Software, part of the ZeniMax Media Inc. family of companies, has provided technical, design and artistic leadership as a world-renowned game developer and technology innovator since its founding in 1991. id Software’s iconic brands such as Wolfenstein, DOOM, QUAKE and RAGE have become staples of popular culture for generations of gamers. At id Software, everything revolves around the people; we believe in hiring the best and brightest and giving them the tools and the environment to be successful. These principles have guided us successfully for over thirty years and will continue to guide us into the future.",id Software,id-software,https://www.igdb.com/companies/id-software
+183,840,1301947109,Hasbro Interactive,hasbro-interactive,https://www.igdb.com/companies/hasbro-interactive
+184,840,1301988746,id Software,id-software,https://www.igdb.com/companies/id-software
 185,1301961600,Ninjaforce,ninjaforce,https://www.igdb.com/companies/ninjaforce
 186,1301961600,Stalker Entertainment,stalker-entertainment,https://www.igdb.com/companies/stalker-entertainment
 187,840,1301961600,"Nerve Software, LLC",nerve-software-llc,https://www.igdb.com/companies/nerve-software-llc
@@ -290,29 +170,25 @@ Will be archived at a later time.",(Archive) duplicate company name,archive-dupl
 192,1301961600,Zodttd,zodttd,https://www.igdb.com/companies/zodttd
 193,1301961600,Jellyvision,jellyvision,https://www.igdb.com/companies/jellyvision
 194,1301961600,Hothouse Creations,hothouse-creations,https://www.igdb.com/companies/hothouse-creations
-195,840,1301996377,"Brøderbund began in the early 1980s in Eugene, Oregon. Galactic Empires, Prince of Persia and Lode Runner had an immediate impact on the gaming industry. Successes grew and continued for years, Myst ranked as the highest grossing home computer game. The company was dissolved shortly after acquisition by The Learning Company (formerly SoftKey) though its name persists as one of the company's several brands.",Brøderbund Software,broderbund-software,https://www.igdb.com/companies/broderbund-software
-196,124,1301996729,"We are an award-winning developer of genre-defining games like Homeworld, Dawn of War, Company of Heroes, and Age of Empires. We have delivered rich, thoughtful strategy games throughout our history and our vision is to continue making games that people love to play.",Relic Entertainment,relic-entertainment,https://www.igdb.com/companies/relic-entertainment
-197,840,1301961600,"THQ Inc. is a leading worldwide developer and publisher of interactive entertainment software. The company develops its products for all popular game systems, personal computers and wireless devices. Headquartered in Los Angeles County, California, THQ sells product through its global network of offices located in North America, Europe and Asia Pacific.",THQ,thq,https://www.igdb.com/companies/thq
+195,840,1301996377,Brøderbund Software,broderbund-software,https://www.igdb.com/companies/broderbund-software
+196,124,1301996729,Relic Entertainment,relic-entertainment,https://www.igdb.com/companies/relic-entertainment
+197,840,1301961600,THQ,thq,https://www.igdb.com/companies/thq
 198,840,1301961600,Iron Lore Entertainment,iron-lore-entertainment,https://www.igdb.com/companies/iron-lore-entertainment
 199,1301961600,Sonokong,sonokong,https://www.igdb.com/companies/sonokong
 200,392,1302003962,Electronic Arts Victor,electronic-arts-victor,https://www.igdb.com/companies/electronic-arts-victor
 201,840,1301961600,Cyberlore Studios,cyberlore-studios,https://www.igdb.com/companies/cyberlore-studios
 202,1301961600,Pterodon,pterodon,https://www.igdb.com/companies/pterodon
 203,203,1301961600,Illusion Softworks,illusion-softworks,https://www.igdb.com/companies/illusion-softworks
-204,840,1302004828,"Gathering of Developers, Inc. (shortened as G.O.D. or GodGames, and branded as Gathering between 2003 and 2004) was an American video game publisher based in New York City. Founded by Mike Wilson and associates in January 1998 and originally based in Dallas, the company was acquired by Take-Two Interactive in May 2000. Between May 2000 and March 2001, Gathering of Developers also operated a division, On Deck Interactive, which acted as their mass market label. In August 2001, Take-Two Interactive closed Gathering of Developers' Dallas headquarters and moved the label in-house, to New York City. The label was shut down in September 2004, with all assets consumed by Global Star Software.",Gathering of Developers,gathering-of-developers,https://www.igdb.com/companies/gathering-of-developers
-205,840,1302006203,"The old company name for Atari, Inc.
-
-The GT Interactive Software Corporation (GTI) was founded in February 1993 as a division of GoodTimes Home Video, a video-tape distributor owned by the Cayre family, with Ron Chaimowitz as co-founder and president. That same year the publisher saw the release of their first shareware title, the hugely popular Doom.[4] In its first year, revenue reached $10.3 million.[5] GT was the first publisher to allow developers to retain their Intellectual Property.",GT Interactive,gt-interactive,https://www.igdb.com/companies/gt-interactive
+204,840,1302004828,Gathering of Developers,gathering-of-developers,https://www.igdb.com/companies/gathering-of-developers
+205,840,1302006203,GT Interactive,gt-interactive,https://www.igdb.com/companies/gt-interactive
 206,1301961600,Epic MegaGames,epic-megagames,https://www.igdb.com/companies/epic-megagames
 207,1301961600,PopTop Software,poptop-software,https://www.igdb.com/companies/poptop-software
-208,826,1302006939,"Frontier’s development strengths are immersive and fun gameplay design with unparalleled artistic quality, all underpinned and enabled by cutting-edge in-house technology and a talent for getting the best out of hardware and UI.",Frontier Developments,frontier-developments,https://www.igdb.com/companies/frontier-developments
+208,826,1302006939,Frontier Developments,frontier-developments,https://www.igdb.com/companies/frontier-developments
 209,1301961600,Wideload Games,wideload-games,https://www.igdb.com/companies/wideload-games
 210,1301961600,Southlogic Studios,southlogic-studios,https://www.igdb.com/companies/southlogic-studios
-211,124,1302134400,"Blue Castle Games  is a video game developer formed on July 4, 2005 in Burnaby, British Columbia, Canada by three core founders with thirty five years of combined video game experience. The company is the creator of several successful baseball sports video games, including The Bigs, MLB Front Office Manager and The Bigs 2. They have also developed the Dead Rising series. In September 2010 Blue Castle Games was acquired by Capcom after the release of Dead Rising 2, and renamed Capcom Vancouver.",Blue Castle Games,blue-castle-games,https://www.igdb.com/companies/blue-castle-games
+211,124,1302134400,Blue Castle Games,blue-castle-games,https://www.igdb.com/companies/blue-castle-games
 212,840,1302134400,Sunstorm Interactive,sunstorm-interactive,https://www.igdb.com/companies/sunstorm-interactive
-213,250,1302178280,"Infogrames Entertainment, SA was an international French holding company headquartered in Lyon, France. Owner of Atari inc. and Atari Europe along with numerous other companies and studios. Through its subsidiaries, the company published games for every major video game platform.
-
-Infogrames Entertainment, SA renamed itself in 2009 after its subsidiary Atari inc. to Atari, SA.",Infogrames,infogrames,https://www.igdb.com/companies/infogrames
+213,250,1302178280,Infogrames,infogrames,https://www.igdb.com/companies/infogrames
 214,1302134400,Sylum Entertainment,sylum-entertainment,https://www.igdb.com/companies/sylum-entertainment
 215,840,1302134400,WizardWorks Software,wizardworks-software,https://www.igdb.com/companies/wizardworks-software
 216,1302134400,Glu Mobile,glu-mobile,https://www.igdb.com/companies/glu-mobile
@@ -320,10 +196,8 @@ Infogrames Entertainment, SA renamed itself in 2009 after its subsidiary Atari i
 218,1302134400,Vatical Entertainment,vatical-entertainment,https://www.igdb.com/companies/vatical-entertainment
 219,1302220800,Team Little Devils,team-little-devils,https://www.igdb.com/companies/team-little-devils
 221,826,1302220800,Splash Damage,splash-damage,https://www.igdb.com/companies/splash-damage
-222,124,1302268060,"BioWare Edmonton is the original BioWare studio known for having developed many games such as Baldur’s Gate, MDK2, Neverwinter Nights, Star Wars: Knights of the Old Republic and Jade Empire. In a later date they also created the original Mass Effect trilogy as well as the Dragon Age series.",BioWare Edmonton,bioware-edmonton,https://www.igdb.com/companies/bioware-edmonton
-223,840,1302220800,"Edge of Reality is an American video game developer founded in 1998 and based in Austin, Texas that has developed video games for the Nintendo 64, Nintendo GameCube, PlayStation 2 and Xbox game consoles. It also has games in development for PlayStation 3 and Xbox 360 games consoles. Edge of Reality is an independent developer and therefore can work with any publisher and for any system. The company has two development teams, one of which works on licenses and established franchises, and the other works on completely original games. The company only develops two games at a time, one with each studio, feeling that ""anything more than that would jeopardize our focus, and therefore the quality of our studio""
-
-Edge of Reality was founded in 1998 by Rob Cohen, the lead programmer of Turok: Dinosaur Hunter at Iguana Entertainment and Mike Panoff from Paradigm Entertainment. The company started by developing Nintendo 64 ports of successful games on other systems, including the Tony Hawk's Pro Skater series. Following the stability provided by the success of the ports, the company then branched out into developing its own original games on multiple platforms, including Pitfall: The Lost Expedition and Loadout.",Edge of Reality,edge-of-reality,https://www.igdb.com/companies/edge-of-reality
+222,124,1302268060,BioWare Edmonton,bioware-edmonton,https://www.igdb.com/companies/bioware-edmonton
+223,840,1302220800,Edge of Reality,edge-of-reality,https://www.igdb.com/companies/edge-of-reality
 224,840,1302268519,3D Realms,3d-realms,https://www.igdb.com/companies/3d-realms
 225,840,1302220800,Lobotomy Software,lobotomy-software,https://www.igdb.com/companies/lobotomy-software
 226,1302220800,Aardvark Software,aardvark-software,https://www.igdb.com/companies/aardvark-software
@@ -333,9 +207,7 @@ Edge of Reality was founded in 1998 by Rob Cohen, the lead programmer of Turok: 
 230,840,1302220800,MachineWorks Northwest,machineworks-northwest,https://www.igdb.com/companies/machineworks-northwest
 231,1302220800,Tec Toy Indústria de Brinquedos,tec-toy-industria-de-brinquedos,https://www.igdb.com/companies/tec-toy-industria-de-brinquedos
 232,1302220800,Triptych Games,triptych-games,https://www.igdb.com/companies/triptych-games
-233,124,1302220800,"One of the industry's oldest independent developers, Piranha Games is fast becoming a much bigger fish in the Free-to-Play game marketplace. We are alive and thriving in the pond because we're strong on talent, management, and the alliances we have made with industry leaders. Our core competencies lay in Excellence through Passion, Creativity, and Humility. 
- 
-Founded in 2000, we started out as an independent developer with extensive multi-platform and multiplayer experience, making FPS action games for big-name franchises. With AAA licensed titles such as Need for Speed: Undercover and Duke Nukem Forever, we took a shift in direction towards the growing Free-to-Play market with MechWarrior Online. We have a strong vision and dedication to the product we make. And our talented team contributed as the key component to our success. Looking ahead, we are committed as ever to be one of the best Free-to-Play Development Studios in the world.",Piranha Games,piranha-games,https://www.igdb.com/companies/piranha-games
+233,124,1302220800,Piranha Games,piranha-games,https://www.igdb.com/companies/piranha-games
 234,250,1302220800,Cryo Interactive,cryo-interactive,https://www.igdb.com/companies/cryo-interactive
 235,1302220800,Heuristic Park,heuristic-park,https://www.igdb.com/companies/heuristic-park
 236,124,1302220800,DreamCatcher Interactive,dreamcatcher-interactive,https://www.igdb.com/companies/dreamcatcher-interactive
@@ -343,424 +215,259 @@ Founded in 2000, we started out as an independent developer with extensive multi
 238,1302220800,Typhoon Games,typhoon-games,https://www.igdb.com/companies/typhoon-games
 239,1302220800,Gas Powered Games,gas-powered-games,https://www.igdb.com/companies/gas-powered-games
 240,840,1302220800,Stainless Steel Studios,stainless-steel-studios,https://www.igdb.com/companies/stainless-steel-studios
-241,840,1302220800,"989 Studios was a division of Sony Computer Entertainment America (SCEA) that developed games for the PlayStation consoles and Windows personal computers. Their games include EverQuest, Twisted Metal III, Twisted Metal 4, Syphon Filter, Syphon Filter 2, Jet Moto 3, Bust a Groove, and others. It now exists as the 989 Sports brand owned by SCEA that produces sports games.",989 Studios,989-studios,https://www.igdb.com/companies/989-studios
+241,840,1302220800,989 Studios,989-studios,https://www.igdb.com/companies/989-studios
 242,1302220800,Verant Interactive,verant-interactive,https://www.igdb.com/companies/verant-interactive
-243,840,1302273372,"Sony Online Entertainment LLC (SOE) is a recognized worldwide leader in massively multiplayer online games. Best known for its blockbuster hits and franchises, including EverQuest, EverQuest II, Champions of Norrath, PlanetSide, Free Realms, Star Wars: Clone Wars Adventures and DC Universe Online, SOE creates, develops and provides compelling online entertainment for a variety of platforms. SOE is building on its proven legacy and pioneering the future of online worlds through creative development and inspired gameplay design for audiences of all ages.",Sony Online Entertainment,sony-online-entertainment,https://www.igdb.com/companies/sony-online-entertainment
+243,840,1302273372,Sony Online Entertainment,sony-online-entertainment,https://www.igdb.com/companies/sony-online-entertainment
 244,1302220800,Edusoft,edusoft,https://www.igdb.com/companies/edusoft
-245,840,1302273939,"ZeniMax Media is a video game publisher managed by an experienced group of executives, which has assembled a strong creative team of world-class game developers, graphic artists and designers, sound engineers, producers and programmers to create and sell premium video game titles to a growing worldwide market. ZeniMax creates and publishes original interactive entertainment content for consoles, the PC, and handheld/wireless devices. Its Bethesda Softworks division, founded in 1986 in the early days of the industry, has a long history of success as a publisher of award-winning video games. In addition, the ZeniMax group includes some of the most acclaimed development studios in the world. The Company's growing library of intellectual properties includes such major franchises as The Elder Scrolls, Fallout, Dishonored, DOOM, QUAKE, Wolfenstein, Enemy Territory, and RAGE.",ZeniMax Media,zenimax-media,https://www.igdb.com/companies/zenimax-media
+245,840,1302273939,ZeniMax Media,zenimax-media,https://www.igdb.com/companies/zenimax-media
 246,1302220800,Micro Forté,micro-forte,https://www.igdb.com/companies/micro-forte
-247,840,1302220800,"14 Degrees East was a division of Interplay Entertainment, responsible for developing strategy games based on intellectual properties owned by the company, including Fallout Tactics: Brotherhood of Steel. It was founded on March 3, 1999, under Brian Christian. The eight-year veteran of Interplay worked with the division until 2002, when he quit the company and began working for SEGA of America. 
- 
-2002 also marked the last action of 14 Degree East: The release of a compilation of Fallout titles released until that date.",14 Degrees East,14-degrees-east,https://www.igdb.com/companies/14-degrees-east
-248,392,1302274254,"Bandai Namco Entertainment is a japanese multinational video game publisher headquartered in Minato-ku, Tokyo. The company was formed following a corporate merge between Namco and Bandai. Bandai Namco Entertainment owns several multi-million video game franchises, including Pac-Man, Tekken, Soulcalibur and Dark Souls. Pac-Man himself serves as the official mascot of the company.",Bandai Namco Entertainment,bandai-namco-entertainment,https://www.igdb.com/companies/bandai-namco-entertainment
+247,840,1302220800,14 Degrees East,14-degrees-east,https://www.igdb.com/companies/14-degrees-east
+248,392,1302274254,Bandai Namco Entertainment,bandai-namco-entertainment,https://www.igdb.com/companies/bandai-namco-entertainment
 249,276,1302220800,Crytek,crytek,https://www.igdb.com/companies/crytek
-250,392,1302307200,"Square Co., Ltd. (株式会社スクウェア Kabushiki-gaisha Sukuwea) was a Japanese video game company founded in September 1986 by Masafumi Miyamoto. It merged with Enix in 2003 and became Square Enix. The company also used SquareSoft as a brand name to refer to their games, and the term is occasionally used to refer to the company itself. In addition, ""Squaresoft, Inc"" was the name of the company's American arm before the merger, after which it was renamed to ""Square Enix, Inc"".",Square,square,https://www.igdb.com/companies/square
+250,392,1302307200,Square,square,https://www.igdb.com/companies/square
 251,392,1302342069,Sunsoft,sunsoft,https://www.igdb.com/companies/sunsoft
 252,1302307200,Square Electronic Arts,square-electronic-arts,https://www.igdb.com/companies/square-electronic-arts
-253,826,1302307200,"Square Europe, Limited was established in December 1998 to localize and market Square-developed games in Europe and Australia. Located in London, UK, Square Europe was granted exclusive publishing rights in Europe and other PAL territories for all interactive entertainment titles developed by Square.",Square Europe,square-europe,https://www.igdb.com/companies/square-europe
+253,826,1302307200,Square Europe,square-europe,https://www.igdb.com/companies/square-europe
 254,1302393600,Widescreen Games,widescreen-games,https://www.igdb.com/companies/widescreen-games
-255,840,1302480000,"ArenaNet was founded in spring 2000 by Mike O'Brien, Patrick Wyatt and Jeff Strain. All three founders came from Blizzard Entertainment and were previously involved in the development of multiplayer online games such as Warcraft, Diablo, Starcraft, World of Warcraft and the Battle.net gaming network. The newly-formed business was originally called ""Triforge"", but was changed to ""ArenaNet"" shortly after; it was acquired in 2002 by NCSoft. 
- 
-ArenaNet is the developer of the Guild Wars trilogy: Guild Wars: Prophecies (2005), Guild Wars: Factions (2006), and Guild Wars: Nightfall (2006), as well as the Guild Wars: Eye of the North (2007) expansion pack. After the announcement and subsequent release of Guild Wars 2, ArenaNet ceased development of expansion packs or standalone sequels for Guild Wars, but has continued to support the game. Since 2013, ArenaNet transitioned to automated maintenance and support of Guild Wars. 
- 
-ArenaNet is currently focused on the development and support of Guild Wars 2, which was announced in 2007 and released in August 2012. Since the game's release, ArenaNet has continued to develop new content and features in the form of the Living World and Feature Packs and Releases, with content released for free to owners of the game.",ArenaNet,arenanet,https://www.igdb.com/companies/arenanet
-256,410,1302514113,"NCSOFT, established in 1997 and headquartered in Seoul, South Korea, quickly became a key leader in online games with the successful launch of its flagship product, Lineage. Today, NCSOFT’s reach has expanded to include offices worldwide including locations in Korea, Taiwan, China, Japan, the United Kingdom, and the United States. The company operates many of the most successful and influential massively multiplayer online games on the market, games that have been enjoyed by tens of millions of players around the world. By leveraging its expertise, talent, and infrastructure, NCSOFT has become one of the leading online gaming publishers in the world.
-
-NCSOFT West is the organization responsible for all of NCSOFT’s initiatives across the Americas, Europe, Australia and New Zealand. Comprised of incredible talent throughout the company including our world class Development Studios, best in class support infrastructure, and industry leading Publishing Organization, NCSOFT West is committed to bringing extraordinary games to passionate gamers in markets across the world.
-
-In 2015, NCSOFT West is expanding its existing portfolio of Korean-developed games, which includes such critically-acclaimed games as Aion and Lineage II, by bringing the highly anticipated Blade & Soul to Western territories. Additionally, US-based titles such as WildStar and ArenaNet's Guild Wars 2 are being developed in the West for release world-wide. Finally, with the creation of a new studio in San Mateo, NCSOFT is expanding into the mobile arena. Combined with positive growth in company leadership driving these initiatives forward, NCSOFT West is poised to continue its growth, investment, and leadership in the West through 2015 and beyond.",NCsoft,ncsoft,https://www.igdb.com/companies/ncsoft
+255,840,1302480000,ArenaNet,arenanet,https://www.igdb.com/companies/arenanet
+256,410,1302514113,NCsoft,ncsoft,https://www.igdb.com/companies/ncsoft
 257,1302480000,Sierra Studios,sierra-studios,https://www.igdb.com/companies/sierra-studios
 258,1302480000,KnowWonder,knowwonder,https://www.igdb.com/companies/knowwonder
 259,1302480000,Warthog Games,warthog-games,https://www.igdb.com/companies/warthog-games
 260,1302480000,Argonaut Games,argonaut-games,https://www.igdb.com/companies/argonaut-games
-261,250,1302514840,"Creating experiences based on emotion is our passion. We tell stories in which the players are the heroes: that surprise them, encourage them to consider their feelings and values, and to make them face the consequences of their choices. We create experiences that meaningfully consider personal and social issues. And we find new creative and technical solutions, to challenge ourselves with every game, to explore, invent, create and innovate. This is the DNA of our studio.",Quantic Dream,quantic-dream,https://www.igdb.com/companies/quantic-dream
+261,250,1302514840,Quantic Dream,quantic-dream,https://www.igdb.com/companies/quantic-dream
 262,1302480000,Flagship Studios,flagship-studios,https://www.igdb.com/companies/flagship-studios
 263,392,1302480000,Namco,namco,https://www.igdb.com/companies/namco
 264,1302480000,HanbitSoft,hanbitsoft,https://www.igdb.com/companies/hanbitsoft
 265,1302480000,Contraband Entertainment,contraband-entertainment,https://www.igdb.com/companies/contraband-entertainment
 266,1302480000,Tarantula Studios,tarantula-studios,https://www.igdb.com/companies/tarantula-studios
-267,840,1302529102,"TalonSoft, Inc. was an American video game developer and publisher based in Baltimore.
-
-TalonSoft was founded in March 1995, by video game producers Jim Rose and John Davidson. On December 24, 1998, Take-Two Interactive announced that it had acquired TalonSoft, stating that they planned to push their capabilities in the personal computer video game market. The deal comprised 1,033,336 shares accounted as a pooling-of-interest. Bengur Bryan represented TalonSoft in the purchase. By early 1999, TalonSoft's most successful game was East Front, with sales near 90,000 units. TalonSoft ceased all operations in 2002. In October 2005, Matrix Games acquired the rights to publish all games developed by TalonSoft.",TalonSoft,talonsoft,https://www.igdb.com/companies/talonsoft
-268,124,1302480000,"History from MobyGames:
-""Founded in 1995, Global Star Software Limited was originally located in Mississauga, Ontario, Canada. The company became active in the software publishing field and branched out from its roots in value PC entertainment to offer a variety of business and utility software, as well as software for a variety of other platforms.
-
-The company became a wholly owned subsidiary of Take-Two Interactive Software Canada, Inc., which in turn was a subsidiary of Take-Two Interactive Software Inc. Although controlled by Take-Two, the company remained intact and published games using its own logo as a publishing label.
-
-In 2002 Global Star Software launched its Global ProBiz lineup of over a dozen business and utility products. Global Star also continued its efforts in the PDA software market, spearheading new initiatives such as multi-platform releases for both Palm and Pocket PC devices.
-
-By the end of 2002, Global Star was reorganized and became a division of Take-Two's Jack of All Games' Canadian operations along with Triad Distributors. Shortly thereafter, Take-Two announced that Global Star's products would henceforth be sold exclusively through their Jack of All Games' sales force to strengthen the company's position in the value-priced product category. In mid 2003 Global Star Software, Inc. was formed and all distribution operations were consolidated operationally into the new company located within the Take-Two corporate facilities in New York City.
-
-The Global Star Software label was absorbed into the 2K Play label when Take-Two announced its formation on 10th September 2007.""",Global Star Software,global-star-software,https://www.igdb.com/companies/global-star-software
+267,840,1302529102,TalonSoft,talonsoft,https://www.igdb.com/companies/talonsoft
+268,124,1302480000,Global Star Software,global-star-software,https://www.igdb.com/companies/global-star-software
 269,826,1302480000,Enlight Software Limited,enlight-software-limited,https://www.igdb.com/companies/enlight-software-limited
-270,40,1302480000,"JoWooD Productions Software AG (formerly JoWooD Productions Software GmbH, commonly referred to as JoWooD)  was an Austrian video game publisher founded in 1995. On 4 November 4, 2006, JoWooD announced the acquisition of DreamCatcher Games, in efforts to move to the North American gaming markets. In October 2009 it was announced that JoWooD has changed its name from JoWooD Productions Software AG to JoWooD Entertainment AG.",JoWooD Productions Software,jowood-productions-software,https://www.igdb.com/companies/jowood-productions-software
+270,40,1302480000,JoWooD Productions Software,jowood-productions-software,https://www.igdb.com/companies/jowood-productions-software
 271,840,1302480000,The Collective,the-collective,https://www.igdb.com/companies/the-collective
 272,1302480000,Madlab Software,madlab-software,https://www.igdb.com/companies/madlab-software
 273,840,1302480000,Sir-tech Software,sir-tech-software,https://www.igdb.com/companies/sir-tech-software
 274,124,1302480000,Sir-Tech Canada,sir-tech-canada,https://www.igdb.com/companies/sir-tech-canada
 275,1302480000,Titan Computer,titan-computer,https://www.igdb.com/companies/titan-computer
 276,1302480000,EA UK,ea-uk,https://www.igdb.com/companies/ea-uk
-277,124,1302534759,"EA Canada (also known as EA Vancouver)
-
-Located in beautiful Burnaby, EA Vancouver (EAV) is the center for development of several of EA’s largest franchises, including FIFA Soccer, NHL, UFC, Plants Vs. Zombies and Need for Speed. We are also home to development support teams, corporate teams such as Finance, HR & Facilities, and Legal, and a motion capture lab.
-
-EAV offers many amenities to allow you to balance your life and work. You’ll find a library full of DVDs and games, an arcade, a dry cleaner, an aesthetician, guitar lessons and more. Our rooftop patios make for great summer BBQs and parties, and our pooch friends love the onsite dog park. Employees also enjoy our fitness facilities, which include Personal Trainers, Massage Therapists, Physiotherapists, and a Chiropractor. There are indoor and outdoor basketball courts, a beach volleyball court and a soccer field. Away from the gym, you’ll find two theaters, a cafeteria, coffee bars, and open areas where you can work or take a break.
-
-The city of Vancouver has something for everyone at all times of the year. Whether skiing across our breathtaking mountain ranges, running along our world-famous seawall, or visiting fantastic restaurants, there’s always something new to enjoy.",EA Canada,ea-canada,https://www.igdb.com/companies/ea-canada
-278,840,1302480000,"Silicon &amp; Synapse was founded February 8, 1991 by three graduates of the University of California, Los Angeles, and later known as Blizzard Entertainment.",Silicon & Synapse,silicon-synapse,https://www.igdb.com/companies/silicon-synapse
-279,826,1302480000,4J Studios is a Scottish video game development studio based in Dundee and East Linton.,4J Studios,4j-studios,https://www.igdb.com/companies/4j-studios
-280,752,1302480000,"Starbreeze Studios is a game development company with headquarters in Stockholm, Sweden. Starbreeze AB is publicly traded on Aktietorget in Sweden. We build games from our own design and always strive to establish franchises that can be branched off into other markets. We live and die by gameplay and we are becoming a pioneer when it comes to launching large productions online.
-
-During E3 2015, Starbreeze Studios announced that they had entered the hardware business with Project StarVR, a virtual reality headset, which is currently under development by InfinitEye, a firm acquired by Starbreeze.",Starbreeze Studios,starbreeze-studios,https://www.igdb.com/companies/starbreeze-studios
+277,124,1302534759,EA Canada,ea-canada,https://www.igdb.com/companies/ea-canada
+278,840,1302480000,Silicon & Synapse,silicon-synapse,https://www.igdb.com/companies/silicon-synapse
+279,826,1302480000,4J Studios,4j-studios,https://www.igdb.com/companies/4j-studios
+280,752,1302480000,Starbreeze Studios,starbreeze-studios,https://www.igdb.com/companies/starbreeze-studios
 281,1302480000,Tigon Studios,tigon-studios,https://www.igdb.com/companies/tigon-studios
-282,840,1302480000,"Founded by Graeme Devine and Rob Landeros, Trilobyte is most famous for creating the PC game The 7th Guest, one of the first computer games for CD-ROM and which Bill Gates called ""the new standard in interactive entertainment."". The game was a puzzle-solving game similar in style to Myst. But unlike Myst which used static screens, The 7th Guest was the first game to use full rendered 3D animation and navigation. For the time, it had amazing graphics by Rob Landeros, Robert Stein III, Gene Bodio, Alan Iglesias, MIDI music by The Fat Man, a fun story by Matthew J. Costello and a powerful, innovative game engine by Graeme Devine.",Trilobyte,trilobyte,https://www.igdb.com/companies/trilobyte
-283,840,1302608836,"The Sims Studio was a subsidiary of Electronic Arts located primarily at EA's Redwood City campus. It took over development of The Sims series from Maxis (which allowed Maxis to devote its resources to developing Spore). The Sims Studio has developed all games in The Sims series since The Sims 2: Bon Voyage, including The Sims 3 and all of its expansion and stuff packs. Despite The Sims development leaving Maxis, many Maxis developers remained with The Sims Division/The Sims Studio to continue developing the series.",The Sims Studio,the-sims-studio,https://www.igdb.com/companies/the-sims-studio
-284,840,1302609152,"Maxis is an American video game developer and a division of Electronic Arts. The studio was founded in 1987 by Will Wright and Jeff Braun, and acquired by EA in 1997. Maxis is best known for its simulation games, including The Sims, Spore and SimCity.",Maxis,maxis,https://www.igdb.com/companies/maxis
+282,840,1302480000,Trilobyte,trilobyte,https://www.igdb.com/companies/trilobyte
+283,840,1302608836,The Sims Studio,the-sims-studio,https://www.igdb.com/companies/the-sims-studio
+284,840,1302609152,Maxis,maxis,https://www.igdb.com/companies/maxis
 285,826,1302566400,Tiertex Design Studios,tiertex-design-studios,https://www.igdb.com/companies/tiertex-design-studios
 287,840,1302566400,Acclaim Entertainment,acclaim-entertainment,https://www.igdb.com/companies/acclaim-entertainment
-290,208,1302626105,"IO Interactive was founded in September 1998 in Copenhagen, Denmark by the Reto-Moto development group. To date, their most popular franchise is the critically acclaimed Hitman series. IO Interactive remained a subsidiary of Square Enix until 2017, when its parent started seeking buyers for the studio. IO Interactive completed a management buyout, regaining their independent status and retaining the rights for Hitman and Freedom Fighters, in June 2017.",IO Interactive,io-interactive,https://www.igdb.com/companies/io-interactive
-291,528,1302626105,"Nixxes Software is an industry-leading Dutch company specializing in video game design, development and porting.
-
-In July 2021 Nixxes joined PlayStation Studios to focus on delivering the highest-quality gameplay experiences for PlayStation fans.",Nixxes Software,nixxes-software,https://www.igdb.com/companies/nixxes-software
-292,826,1302566400,"Traveller's Tales was founded in 1989 by Jon Burton. Initially a small company focused on its own content, it grew in profile through developing games with larger companies such as Sega and Disney Interactive Studios. 
- 
-In 2004, development on Lego Star Wars: The Video Game started with publisher Giant Interactive Entertainment, and, the following year Traveller's Tales purchased and merged with Giant Interactive Entertainment, forming TT Games. From that point, Traveller's Tales served as the company's development branch, while Giant Interactive Entertainment became TT Games Publishing, the publishing branch. In 2007, the company acquired another developer and an animation studio, which became TT Fusion and TT Animation. 
- 
-On 8 November 2007, Warner Bros. Interactive Entertainment announced that they had purchased TT Games for an undisclosed amount as part of their expansion into the video game industry",Traveller's Tales,traveller-s-tales,https://www.igdb.com/companies/traveller-s-tales
-293,826,1302627341,"TT Games was established in 2005 with the merger of games publisher Giant Interactive and the developer Traveller's Tales. The group has since grown to include the games development studio TT Fusion and TV production company TT Animation.
-
-TT Games was acquired by Warner Bros. in 2007. The company is proud to continue its mission to be the leading publisher of interactive entertainment for young gamers and their families as part of Time Warner Inc, and to develop exciting new content for children with TT Animation.",TT Games,tt-games,https://www.igdb.com/companies/tt-games
-294,840,1302566400,"Telltale Games is redefining the way the games industry works. Telltale fosters a creative, fun, and entrepreneurial environment. As an employee, you will have a loud voice. Lots of companies talk about open work environments and teamwork, but we LIVE IT. 
- 
-In the midst of releasing The Walking Dead: The Final Season, the company was forced to initiate a ""majority studio closure"" after their last investor had pulled out of funding. Telltale announced on September 21, 2018, that it had let go of all but 25 of its staff as part of this closure, with the remaining skeleton crew completing specific obligations, such as finishing the Minecraft: Story Mode project porting to Netflix. Telltale Games filed for assignment in October 2018.",Telltale Games,telltale-games,https://www.igdb.com/companies/telltale-games
-295,840,1302566400,"Brothers Richard Garriott and Robert Garriott, their father Owen, and Chuck Bueche founded Origin Systems in 1983 because of the trouble they had collecting money owed to Richard Garriott for his games released by other companies. The company's first game was Ultima III: Exodus; because of Ultima's established reputation, Origin survived the video game crash that occurred that year. It published many non-Ultima games, and Richard Garriott claimed that he received the same royalty rate as other developers. 
- 
-By 1988 Origin had 15 developers in Austin, Texas, and 35 other employees in New Hampshire. In September 1992, Electronic Arts acquired the company for $35 million in stock, despite a dispute between the two companies over EA's 1987 game Deathlord. Origin, with about $13 million in annual revenue, stated that it had considered an Initial Public Offering before agreeing to the deal. By 1996, Origin had expanded to more than 300 employees, most of whom were divided among small, largely autonomous development teams. In 1997, Origin released one of the earliest graphical MMORPGs, Ultima Online. After this title, Electronic Arts decided that Origin would become an online-only company after the completion of Ultima IX in 1999. However, within a year's time, in part due to Ultima IX's poor reception, EA canceled all of Origin's new development projects, including Ultima Online 2, Privateer Online, and Harry Potter Online. Richard Garriott left Origin shortly after and founded Destination Games in 2000. 
- 
-In later years, Origin mainly existed to support and expand Ultima Online and to develop further online games based on the Ultima franchise such as Ultima X: Odyssey, originally to be released in 2004 but later canceled. In February 2004, the studio was disbanded by Electronic Arts. The Longbow series of simulation games was developed at Origin and published under the ""Jane's Combat Simulations"" brand of Electronic Arts. A follow-on project, Jane's A-10, was under development when the project was canceled in late 1998 and the team moved to other projects.",Origin Systems,origin-systems,https://www.igdb.com/companies/origin-systems
+290,208,1302626105,IO Interactive,io-interactive,https://www.igdb.com/companies/io-interactive
+291,528,1302626105,Nixxes Software,nixxes-software,https://www.igdb.com/companies/nixxes-software
+292,826,1302566400,Traveller's Tales,traveller-s-tales,https://www.igdb.com/companies/traveller-s-tales
+293,826,1302627341,TT Games,tt-games,https://www.igdb.com/companies/tt-games
+294,840,1302566400,Telltale Games,telltale-games,https://www.igdb.com/companies/telltale-games
+295,840,1302566400,Origin Systems,origin-systems,https://www.igdb.com/companies/origin-systems
 296,840,1302566400,3G Studios,3g-studios,https://www.igdb.com/companies/3g-studios
-298,840,1302566400,"Sierra Northwest was a division of Sierra Entertainment (formerly On-Line Systems and later Sierra On-Line), that was most notable for SWAT 3.",Sierra Northwest,sierra-northwest,https://www.igdb.com/companies/sierra-northwest
+298,840,1302566400,Sierra Northwest,sierra-northwest,https://www.igdb.com/companies/sierra-northwest
 299,124,1302566400,Hellbent Games,hellbent-games,https://www.igdb.com/companies/hellbent-games
 300,1302566400,Nintendo Creative Department,nintendo-creative-department,https://www.igdb.com/companies/nintendo-creative-department
-301,203,1302686457,"2K Czech a.s. (previously known as Illusion Softworks) is a game development company located in Brno, Czech Republic. The company focuses mostly on first-person and third-person shooter games, but is widely known for their Mafia series of video games. Since the foundation in 1997, till the sale to Kush Games (a subsidiary of Take-Two Interactive) ten years later, its owners and key managers were founders Petr Vochozka and Jan Kudera.
-In September 2008, the company was renamed 2K Czech",2K Czech,2k-czech,https://www.igdb.com/companies/2k-czech
+301,203,1302686457,2K Czech,2k-czech,https://www.igdb.com/companies/2k-czech
 302,1302652800,Massive Bear Studios,massive-bear-studios,https://www.igdb.com/companies/massive-bear-studios
-303,392,1302686650,"Jaleco was a corporate brand name that was used by two previously connected video game developers and publishers based in Japan. The original Jaleco company was founded in 1974 as Japan Leisure Company, founded by Yoshiaki Kanazawa, before being renamed to simply Jaleco in the early 1980s",Jaleco,jaleco,https://www.igdb.com/companies/jaleco
+303,392,1302686650,Jaleco,jaleco,https://www.igdb.com/companies/jaleco
 304,840,1302652800,Quicksilver Software,quicksilver-software,https://www.igdb.com/companies/quicksilver-software
-305,246,1302652800,"Remedy Entertainment Ltd. is a privately held developer of state-of-the-art action games, game franchises and cutting edge technology. Remedy is based in Espoo, Finland. Highly acclaimed games include Death Rally, Max Payne, Max Payne 2: The Fall of Max Payne, Alan Wake and Alan Wake's American Nightmare.",Remedy Entertainment,remedy-entertainment,https://www.igdb.com/companies/remedy-entertainment
+305,246,1302652800,Remedy Entertainment,remedy-entertainment,https://www.igdb.com/companies/remedy-entertainment
 306,124,1302652800,Rockstar Toronto,rockstar-toronto,https://www.igdb.com/companies/rockstar-toronto
 307,40,1302652800,Rockstar Vienna,rockstar-vienna,https://www.igdb.com/companies/rockstar-vienna
-308,826,1302652800,"Rockstar Leeds has been developing games since 1997 and found its rightful place with the Rockstar family in 2004. Our studio was responsible for the bestselling games, Grand Theft Auto: Liberty City Stories and Grand Theft Auto: Vice City Stories fir the PSP and Playstation 2 computer entertainment system. Rockstar Leeds is also responsible for the PSP version of The Warriors and Manhunt 2, and the Wii version of Rockstar Games Present Table Tennis.",Rockstar Leeds,rockstar-leeds,https://www.igdb.com/companies/rockstar-leeds
+308,826,1302652800,Rockstar Leeds,rockstar-leeds,https://www.igdb.com/companies/rockstar-leeds
 309,840,1302652800,2015,2015,https://www.igdb.com/companies/2015
 310,1302652800,Ultra Games,ultra-games,https://www.igdb.com/companies/ultra-games
-311,840,1302652800,"Digital Dialect is an interactive entertainment development company located in West Hills, CA.     
-
-We provide the following services :
-    - Development of original video game titles.
-    - Conversion of existing video games to new hardware platforms.
-    - Game development tool creation and licensing.
-    - Custom 3D model building (check our Gallery for examples).
-    - Custom web design.",Digital Dialect,digital-dialect,https://www.igdb.com/companies/digital-dialect
-312,392,1302694137,"Konami Computer Entertainment Japan was one of Konami's video game development subsidiaries, best known for some of its parent company's most successful video game franchises, including Metal Gear and licensed media franchises such as Yu-Gi-Oh!.",Konami Computer Entertainment Japan,konami-computer-entertainment-japan,https://www.igdb.com/companies/konami-computer-entertainment-japan
-313,392,1302652800,"""Smartphone Applications, Web games, Online games, Console games development and publishing.
-Pachinko and Pachi-slot LCD software development.
-A development and sales of communication tools.""
-
-""The aim of our company is to gather together, and cultivate, highly-skilled professional creators; the kind that love to make things, are passionate about research and, are not idle about day to day study ― creators who would be able to satisfy any customer through the manufacture of superior games ― such as would appear naturally, from a creators' Utopia.
-
-Although we are still only partway through our journey, as long as the company continues to prosper, we intend to pursue the ideals set out above.""",Success Corporation,success-corporation,https://www.igdb.com/companies/success-corporation
-314,804,1302652800,"4A Games is a video game development studio known for its atmospheric first person shooters Metro 2033 and Metro: Last Light. The studio was established in 2005 by experienced game industry professionals with the aim of creating premium quality games for latest generation consoles and personal computers. All our experience, talent and enthusiasm go into creating games with deep story, unique gameplay elements and highly detailed believable environments. In addition to that, our in-house developed 4A Engine is constantly evolving with the latest industry trends and being highly scalable delivers a good performance on older devices while giving great looking picture on high-end machines. 
- 
-Currently at the heart of the company are around 80 talented designers, programmers, artists, sound specialists and writers, with years of experience in software development and computer games in particular. In fact, most of its employees were at the source of Ukraine’s game industry. 
- 
-Creative Director Andrey Prokhorov has this to say about the studio: 
-“The Ukrainian game development industry was formed from self-taught people, enthusiasts who learned by trial and error. Coming from various backgrounds – engineers, musicians, movie directors, painters, scientists and even the military - this diversity gives our studio a certain uniqueness in the way we create games. All new people are carefully selected to fit perfectly into the team. We never pursue quantity to the prejudice of quality, and the smaller size of our studio allows for a unique creative process in a friendly atmosphere.”",4A Games,4a-games,https://www.igdb.com/companies/4a-games
-315,840,1302652800,"Trion is a developer and publisher of innovative, AAA games – fair and fun titles that open windows into universes unknown.
-
-Since our founding in 2006, our games have been born of a fearless commitment to innovation and a constant willingness to refine and evolve. For us, that means running with “impossible” ideas, fostering open and honest communication with our players, and hosting the best stuff you’d otherwise never get to play.
-
-All Trion games – from acclaimed titles like RIFT® and Trove® to projects yet to be announced – are a reflection of the passion and enthusiasm of our whole team and community. That’s something we could not be prouder of as a company, as a collection of artists, and as gamers.
-
-People from all over the world connect with our games, from our home base in Redwood City, California to cities across Europe and Asia. Every day, our international family embarks on epic adventures and creates brand new stories together. We embrace this diversity and work every day to learn and grow alongside our global gaming community.
-
-With that goal in mind, we support a number of incredible causes that understand as well as we do that games can and should be a force for good in the world.",Trion Worlds,trion-worlds,https://www.igdb.com/companies/trion-worlds
+311,840,1302652800,Digital Dialect,digital-dialect,https://www.igdb.com/companies/digital-dialect
+312,392,1302694137,Konami Computer Entertainment Japan,konami-computer-entertainment-japan,https://www.igdb.com/companies/konami-computer-entertainment-japan
+313,392,1302652800,Success Corporation,success-corporation,https://www.igdb.com/companies/success-corporation
+314,804,1302652800,4A Games,4a-games,https://www.igdb.com/companies/4a-games
+315,840,1302652800,Trion Worlds,trion-worlds,https://www.igdb.com/companies/trion-worlds
 316,1302652800,Sierra,sierra,https://www.igdb.com/companies/sierra
-317,840,1302652800,"Dynamix, Inc. was an American developer of video games from 1984 to 2001, best known for the flight simulator Red Baron, the puzzle game The Incredible Machine, the Front Page Sports series, the acclaimed Betrayal at Krondor, and their online multiplayer game Tribes. 
- 
-The company was founded in Eugene, Oregon in 1984 by Jeff Tunnell and Damon Slye. Their first title ""Stellar 7"" was released before company founding and was later re-released with the Dynamix name on it. They made a number of games for the Commodore 64, among them Project Firestart which was one of the most atmospheric titles for the C64. 
- 
-In the following years, Dynamix created a line of action games for Electronic Arts, including one of the first games for the Commodore Amiga, Arcticfox. Later titles were developed for Activision. After self-publishing their games for a short while, in 1990 Dynamix was bought by Sierra On-Line. 
- 
-Once part of Sierra, Dynamix created some of their most famous games, including a line of adventures and flight simulations that included Red Baron and The Adventures of Willy Beamish. They also created the puzzle game The Incredible Machine, along with the spinoff Sid & Al's Incredible Toons. Another successful product line was the Front Page Sports series, designed by Pat Cook and Allen McPheeters which included Football, Baseball, and Golf. Versions of Red Baron and Front Page Sports Football were included as part of the ImagiNation Network. 
- 
-In 1994, the first game in a new series called Metaltech was released, a giant robot combat game with similarities to the BattleTech universe and games. This series resulted in two Earthsiege games and eventually Starsiege. As a side development of the Starsiege game, the successful Tribes series was created. Dynamix also created Outpost 2: Divided Destiny, the second game in Sierra's strategy/survival franchise, Outpost. 
- 
-The Dynamix studio was closed by its parent company Sierra Entertainment on August 14, 2001, as part of Sierra's restructuring under Vivendi Universal. Several veterans of the studio (including Tunnell), however, stayed in Eugene and founded a new studio / electronic publisher, GarageGames. 
- 
-After several years at GarageGames, Dynamix co-founder Jeff Tunnell and long-time Dynamix employee Rick Overman have founded PushButton Labs in Eugene, with the intent to further develop web-based video games. 
- 
-After over 10 years of retirement, Dynamix co-founder and game designer Damon Slye returned to the games industry to start Mad Otter Games in Eugene, Oregon in 2007 alongside several other key ex-Dynamix employees. Mad Otter Games released the online World War II dogfighting game Ace of Aces in 2008 on the web portal InstantAction, though after InstantAction was shut down the company revealed they would be re-releasing the game on their own website (as of August 2012 the game has not been re-released). They are currently developing an online MMORPG called A Mystical Land, which was released in 2011. On October 22, 2013, a Kickstarter campaign was started to fund a re-release of Red Baron.",Dynamix,dynamix,https://www.igdb.com/companies/dynamix
-318,826,1302696592,"Rebellion Developments Limited is a British video game developer based in Oxford, England. Founded by Jason and Chris Kingsley in December 1992, the company is best known for its Sniper Elite series and multiple games in the Alien vs. Predator series. Sister company Rebellion Publishing has published comic books since 2000, when it purchased 2000 AD, the publisher of characters such as Judge Dredd and Rogue Trooper.",Rebellion Developments,rebellion-developments,https://www.igdb.com/companies/rebellion-developments
+317,840,1302652800,Dynamix,dynamix,https://www.igdb.com/companies/dynamix
+318,826,1302696592,Rebellion Developments,rebellion-developments,https://www.igdb.com/companies/rebellion-developments
 319,840,1302652800,n-Space,n-space--1,https://www.igdb.com/companies/n-space--1
 320,1302652800,Kan Navi,kan-navi,https://www.igdb.com/companies/kan-navi
-321,392,1302701732,"Tose is a company that specializes in planning and proposal-based contracted development of game software, mobile applications, and other content.",Tose,tose,https://www.igdb.com/companies/tose
+321,392,1302701732,Tose,tose,https://www.igdb.com/companies/tose
 322,392,1302652800,Matrix Software,matrix-software,https://www.igdb.com/companies/matrix-software
-323,392,1302722097,"Nextech was a Japanese developer of video games. They primarily developed games for other companies on a contract basis. Their clients included Sega, Capcom, Namco, Takara, Taito, Atlus, and Square Enix.",Nextech,nextech,https://www.igdb.com/companies/nextech
-324,392,1302739200,"Square Co. Ltd. was a Japanese video game company founded in September 1983 by Masafumi Miyamoto. It merged with Enix in 2003 and became Square Enix. The company also used SquareSoft as a brand name to refer to their games, and the term is occasionally used to refer to the company itself. In addition, ""Squaresoft, Inc"" was the name of the company's American arm before the merger, after which it was renamed to ""Square Enix, Inc"".",Square Soft,square-soft,https://www.igdb.com/companies/square-soft
+323,392,1302722097,Nextech,nextech,https://www.igdb.com/companies/nextech
+324,392,1302739200,Square Soft,square-soft,https://www.igdb.com/companies/square-soft
 325,840,1302739200,Saffire,saffire,https://www.igdb.com/companies/saffire
 326,840,1302789440,Cyan Worlds,cyan-worlds,https://www.igdb.com/companies/cyan-worlds
-327,840,1302739200,"Midway Games was an American video game company dedicated to the developing and publishing of video games. Midway's franchises included Mortal Kombat, Rampage, Spy Hunter, NBA Jam, Cruis'n, and NFL Blitz. Midway also acquired the rights to video games that were originally developed by Williams Electronics and Atari Games, such as Defender, Joust, Robotron 2084, Gauntlet, and the Rush series.",Midway Games,midway-games,https://www.igdb.com/companies/midway-games
+327,840,1302739200,Midway Games,midway-games,https://www.igdb.com/companies/midway-games
 328,1302739200,Mean Hamster Software,mean-hamster-software,https://www.igdb.com/companies/mean-hamster-software
-329,392,1302805524,"Cavia was a Japanese video game developer best known for the Drakengard series, the first title in the Nier series and two Resident Evil rail shooters. The company name was apparently an acronym for Computer Amusement Visualizer, although the company web site also claims it refers to caviar.",Cavia,cavia,https://www.igdb.com/companies/cavia
+329,392,1302805524,Cavia,cavia,https://www.igdb.com/companies/cavia
 330,1302739200,THQ Asia Pacific,thq-asia-pacific,https://www.igdb.com/companies/thq-asia-pacific
 331,528,1302825600,Triumph Studios,triumph-studios,https://www.igdb.com/companies/triumph-studios
 332,124,1302825600,EA Black Box,ea-black-box,https://www.igdb.com/companies/ea-black-box
 333,702,1303084800,EA Singapore,ea-singapore,https://www.igdb.com/companies/ea-singapore
 334,1303171200,Sony Computer Entertainment Europe,sony-computer-entertainment-europe,https://www.igdb.com/companies/sony-computer-entertainment-europe
-335,1303171200,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) Square Product Development Division 3,archive-square-product-development-division-3,https://www.igdb.com/companies/archive-square-product-development-division-3
-336,1303171200,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) Square Enix Product Development Division 3,archive-square-enix-product-development-division-3,https://www.igdb.com/companies/archive-square-enix-product-development-division-3
-337,1303171200,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) Square Enix Product Development Division 4,archive-square-enix-product-development-division-4,https://www.igdb.com/companies/archive-square-enix-product-development-division-4
+335,1303171200,(Archive) Square Product Development Division 3,archive-square-product-development-division-3,https://www.igdb.com/companies/archive-square-product-development-division-3
+336,1303171200,(Archive) Square Enix Product Development Division 3,archive-square-enix-product-development-division-3,https://www.igdb.com/companies/archive-square-enix-product-development-division-3
+337,1303171200,(Archive) Square Enix Product Development Division 4,archive-square-enix-product-development-division-4,https://www.igdb.com/companies/archive-square-enix-product-development-division-4
 338,840,1303171200,Encore,encore,https://www.igdb.com/companies/encore
 339,1303171200,The Assembly Line,the-assembly-line,https://www.igdb.com/companies/the-assembly-line
 340,826,1303171200,Empire Interactive,empire-interactive,https://www.igdb.com/companies/empire-interactive
 341,392,1303241063,Bullet-Proof Software,bullet-proof-software,https://www.igdb.com/companies/bullet-proof-software
-342,840,1303171200,"Yosemite Entertainment was a Sierra On-Line development studio headquartered in Oakhurst, after the company had moved to Bellvue. 
- 
-It was shut down February 22, 1999, as part of corporate consolidation by Havas & Sierra's new owner.",Yosemite Entertainment,yosemite-entertainment,https://www.igdb.com/companies/yosemite-entertainment
+342,840,1303171200,Yosemite Entertainment,yosemite-entertainment,https://www.igdb.com/companies/yosemite-entertainment
 343,840,1303171200,Kronos Digital Entertainment,kronos-digital-entertainment,https://www.igdb.com/companies/kronos-digital-entertainment
-344,840,1303242853,Macmillan Digital Publishing (also known by the name Macmillan Computer Publishing) is a defunct American publishing company from the late 1990s. They were responsible for publishing Battlezone: Battle Grounds and Battlezone: The Red Odyssey. It was a division of Macmillan USA.,Macmillan Digital Publishing,macmillan-digital-publishing,https://www.igdb.com/companies/macmillan-digital-publishing
+344,840,1303242853,Macmillan Digital Publishing,macmillan-digital-publishing,https://www.igdb.com/companies/macmillan-digital-publishing
 345,1303344000,Think & Feel,think-feel,https://www.igdb.com/companies/think-feel
 346,1303344000,The Game Designers Studio,the-game-designers-studio,https://www.igdb.com/companies/the-game-designers-studio
-347,826,1303407590,"Criterion Games (officially called Criterion Software) is a British video game developer based in Guildford, Surrey that are best known for their work on the award-winning racing video game series Burnout and various Need for Speed games.",Criterion Games,criterion-games,https://www.igdb.com/companies/criterion-games
-348,826,1303344000,"Exient was formed in Jan 2001 with the purpose of developing high quality interactive entertainment experiences for hand held devices. Over the last six years the company has grown considerably, producing quality games for every major hand-held platform and more recently expanding into the console market. They now employ a team of talented Next-Gen developers, working on several in-house projects and tools. 
-
-Based in the University City, Oxford, UK, Exient is ideally positioned to take advantage of a massive resource of highly competent and creative resources. This mix of seasoned gaming professionals and highly intelligent technical resources has proven to be a winning formula. 
-
-Exient is an authorised developer for NDS, PSP, PS2, XBOX360, PS3 and Wii.
-
- Pocket PC Magazine Best Software Award 2003 Total Soccer
- IGN Best Handheld Sports Game 2003 FIFA 04 GBA
- IGN Best Handheld Sports Game 2005 FIFA Soccer 06 NDS
- TIGA Best Handheld Games Development Studio 2005
- Develop 100 - The World’s Most Successful Game Studios - 2007 Edition - (position 50)",Exient Entertainment,exient-entertainment,https://www.igdb.com/companies/exient-entertainment
+347,826,1303407590,Criterion Games,criterion-games,https://www.igdb.com/companies/criterion-games
+348,826,1303344000,Exient Entertainment,exient-entertainment,https://www.igdb.com/companies/exient-entertainment
 349,124,1303344000,Black Box Games,black-box-games,https://www.igdb.com/companies/black-box-games
 350,1303344000,EA Seattle,ea-seattle,https://www.igdb.com/companies/ea-seattle
-351,124,1303344000,"""EA’s Montreal, Quebec location includes development studios Motive, BioWare and Frostbite. Across all of these studios you’ll find creative developers who live for the games they create. From titles based on established franchises, to acclaimed original IP’s, the teams in Montreal are responsible for the production of multiple gaming hits across a wide array of genres.""",EA Montreal,ea-montreal,https://www.igdb.com/companies/ea-montreal
+351,124,1303344000,EA Montreal,ea-montreal,https://www.igdb.com/companies/ea-montreal
 352,1303344000,Eden Studios,eden-studios,https://www.igdb.com/companies/eden-studios
-353,826,1303410438,Pocketeers Limited is a game developer that creates stunning and interesting content for all mobile platforms and consoles.,Pocketeers,pocketeers,https://www.igdb.com/companies/pocketeers
+353,826,1303410438,Pocketeers,pocketeers,https://www.igdb.com/companies/pocketeers
 354,1303344000,DSI Games,dsi-games,https://www.igdb.com/companies/dsi-games
 355,826,1303344000,Zoo Digital,zoo-digital,https://www.igdb.com/companies/zoo-digital
-356,826,1303344000,"Founded in 2009, Slightly Mad Studios is a multi-award-winning studio with a heritage and pedigree in the creation of some of the world's most memorable and successful racing franchises including Project CARS, GTR, GT Legends, BMW M3 Challenge, Need For Speed, and Test Drive.",Slightly Mad Studios,slightly-mad-studios,https://www.igdb.com/companies/slightly-mad-studios
+356,826,1303344000,Slightly Mad Studios,slightly-mad-studios,https://www.igdb.com/companies/slightly-mad-studios
 357,826,1303344000,Firebrand Games,firebrand-games,https://www.igdb.com/companies/firebrand-games
 358,1303430400,Raster Productions,raster-productions,https://www.igdb.com/companies/raster-productions
 359,1303430400,Hammerhead,hammerhead,https://www.igdb.com/companies/hammerhead
 360,840,1303430400,Logicware,logicware,https://www.igdb.com/companies/logicware
 361,56,1303430400,Hyperion Entertainment,hyperion-entertainment,https://www.igdb.com/companies/hyperion-entertainment
-362,1303430400,"Pi Studios was a computer game software developer founded in 2002 by Robert Erwin, John Faulkenbury, Rob Heironimus, Dan Kramer and Peter Mack whose first commercial work can be found in Activision's Call of Duty: United Offensive. The company originated in Plano, Texas and relocated to Houston, Texas in January, 2005. 
- 
-In November, 2005, Pi Studios released Call of Duty 2: Big Red One for the PlayStation 2, the Xbox, and the GameCube. Work on that project was done jointly with Activision's internal studio, Treyarch. This led to work on Call of Duty 3 in October 2006, developed jointly with Treyarch. Pi's work on the Call of Duty franchise continued with the Call of Duty 3 Bravo Map Pack (downloadable via Xbox Live Arcade) followed by Call of Duty: World at War, in which they assisted Treyarch in creating the single player mission ""Blowtorch and Corkscrew"". 
- 
-Pi Studios helped develop the Halo 2 Vista editing toolset and exclusive multiplayer map content, which was included with the game. 
- 
-Pi Studios also developed Mercenaries 2: World in Flames on PlayStation 2 which was released in the United States on August 31, 2008 and in Europe on September 5, 2008. 
- 
-Pi Studios is responsible for the PlayStation 2 and Wii versions of Rock Band, which shipped December 18, 2007 and June 22, 2008 respectively. These were developed in conjunction with Harmonix. Pi Studios also worked with Harmonix to produce four Rock Band Track Packs for the Wii and PlayStation 2. The two companies' final collaborative effort was on The Beatles: Rock Band for the (Wii), released in 2009. Bomberman Live: Battlefest for Xbox Live Arcade, released in December 2010. 
- 
-Pi Studios was developing Bonk: Brink of Extinction for release on Xbox Live Arcade, PlayStation 3 and Wii but it was cancelled. 
- 
-In March 2011, it was announced that Pi Studios was closed as former employees have now formed a new development team called Category 6 Studios, which currently has around 15 members including co-founder and industry veteran Kenn Hoekstra.",Pi Studios,pi-studios,https://www.igdb.com/companies/pi-studios
+362,1303430400,Pi Studios,pi-studios,https://www.igdb.com/companies/pi-studios
 363,1303430400,GRAVITY,gravity,https://www.igdb.com/companies/gravity
-364,840,1303430400,Formerly Angel Studios,Rockstar San Diego,rockstar-san-diego,https://www.igdb.com/companies/rockstar-san-diego
-365,826,1303430400,"Rockstar North was founded in 1988 under the name DMA Design, they are a British video game developer based in Scotland. They are best known for creating the Grand Theft auto franchise and Lemmings franchise. Since 1999 they have been part of Rockstar Games which is owned by Take-Two Interactive. It was not before 2002 that they went trough a name shift and ended up on being called Rockstar North.",Rockstar North,rockstar-north,https://www.igdb.com/companies/rockstar-north
+364,840,1303430400,Rockstar San Diego,rockstar-san-diego,https://www.igdb.com/companies/rockstar-san-diego
+365,826,1303430400,Rockstar North,rockstar-north,https://www.igdb.com/companies/rockstar-north
 366,840,1303430400,Epyx,epyx,https://www.igdb.com/companies/epyx
 367,840,1303430400,Gray Matter Interactive,gray-matter-interactive,https://www.igdb.com/companies/gray-matter-interactive
 368,1303430400,Infocom,infocom,https://www.igdb.com/companies/infocom
 369,1303516800,Chris Sawyer,chris-sawyer,https://www.igdb.com/companies/chris-sawyer
-370,724,1303516800,"Péndulo Studios is a video game company founded in Madrid by Rafael Latiegui, Ramón Hernaez and Felipe Gomez Pinilla. The company became famous in 2001 for the adventure game Runaway: A Road Adventure.",Péndulo Studios,pendulo-studios,https://www.igdb.com/companies/pendulo-studios
-371,724,1303600732,"Dinamic Multimedia was a Spanish software house and publisher created in 1993 which was created after the bankruptcy of Dinamic Software in 1992 by some of its former members. After having released several titles, they filed for bankruptcy in September 2001.",Dinamic Multimedia,dinamic-multimedia,https://www.igdb.com/companies/dinamic-multimedia
+370,724,1303516800,Péndulo Studios,pendulo-studios,https://www.igdb.com/companies/pendulo-studios
+371,724,1303600732,Dinamic Multimedia,dinamic-multimedia,https://www.igdb.com/companies/dinamic-multimedia
 372,804,1303516800,GSC World Publishing,gsc-world-publishing,https://www.igdb.com/companies/gsc-world-publishing
 373,276,1303516800,Ascaron Entertainment,ascaron-entertainment,https://www.igdb.com/companies/ascaron-entertainment
-374,276,1303601239,"Koch Media is a leading, independent producer and marketer of digital entertainment products and accessories in Europe and North America. Its business areas include distribution of media products, including movies, videogames and software products, and games publishing under the Deep Silver label.",Koch Media,koch-media,https://www.igdb.com/companies/koch-media
+374,276,1303601239,Koch Media,koch-media,https://www.igdb.com/companies/koch-media
 375,1303516800,Red Ant Enterprises,red-ant-enterprises,https://www.igdb.com/companies/red-ant-enterprises
 376,1303516800,Linux Game Publishing,linux-game-publishing,https://www.igdb.com/companies/linux-game-publishing
-377,840,1303849284,"Founded in 1996, Firaxis Games is a world-renowned game development studio with an unwavering mission to “build games that stand the test of time”. The name Firaxis, a fusion of “fiery” and “axis,” communicates the company’s dynamic development process that results in the creation of groundbreaking titles with unparalleled gameplay delivered to gamers around the world. Under the creative direction of industry legend Sid Meier, Firaxis has released dozens of hit games on multiple platforms and is recognized as an industry leader in game development.",Firaxis Games,firaxis-games,https://www.igdb.com/companies/firaxis-games
+377,840,1303849284,Firaxis Games,firaxis-games,https://www.igdb.com/companies/firaxis-games
 378,1303776000,Westlake Interactive,westlake-interactive,https://www.igdb.com/companies/westlake-interactive
 379,826,1303776000,Full Fat,full-fat,https://www.igdb.com/companies/full-fat
-380,826,1303862400,Adventure Soft Publishing was established in 1992 as a developer and publisher of top quality adventure games for the PC platform. Our past products include the popular Simon The Sorcerer series of games.,Adventure Soft,adventure-soft,https://www.igdb.com/companies/adventure-soft
+380,826,1303862400,Adventure Soft,adventure-soft,https://www.igdb.com/companies/adventure-soft
 381,826,1303862400,Headfirst Productions,headfirst-productions,https://www.igdb.com/companies/headfirst-productions
 382,276,1303862400,Silver Style Entertainment,silver-style-entertainment,https://www.igdb.com/companies/silver-style-entertainment
 383,276,1303862400,RTL Enterprises,rtl-enterprises,https://www.igdb.com/companies/rtl-enterprises
 384,1303862400,Playlogic Entertainment,playlogic-entertainment,https://www.igdb.com/companies/playlogic-entertainment
 385,36,1303862400,Krome Studios,krome-studios,https://www.igdb.com/companies/krome-studios
-386,702,1303862400,"Founded in 2004 in Singapore as a means to tap into the talent pool, Lucasfilm Animation Singapore (LAS) opened its doors in October 2005. 
- 
-LAS works closely with Lucasfilm Animation. The LAS production schedule also includes contributions to projects from other Lucasfilm companies. While the largest of LAS’ production groups focused on Star Wars: The Clone Wars, in July 2006 LAS announced the creation of the Game Group and the Digital Artists Group (DAG).",Lucasfilm Animation Singapore,lucasfilm-animation-singapore,https://www.igdb.com/companies/lucasfilm-animation-singapore
+386,702,1303862400,Lucasfilm Animation Singapore,lucasfilm-animation-singapore,https://www.igdb.com/companies/lucasfilm-animation-singapore
 387,840,1303862400,Sculptured Software,sculptured-software,https://www.igdb.com/companies/sculptured-software
 388,1303862400,JVC,jvc,https://www.igdb.com/companies/jvc
 389,246,1303862400,Universomo,universomo,https://www.igdb.com/companies/universomo
 390,840,1303862400,THQ Wireless,thq-wireless,https://www.igdb.com/companies/thq-wireless
 391,1303862400,Red Fly Studio,red-fly-studio,https://www.igdb.com/companies/red-fly-studio
-392,840,1304610886,"High Voltage Software is a world-class, award-winning game developer with over 25 years’ experience. 
- 
-From first-person shooters to collectible card games to platformers- if you can dream it, we can make it.",High Voltage Software,high-voltage-software,https://www.igdb.com/companies/high-voltage-software
+392,840,1304610886,High Voltage Software,high-voltage-software,https://www.igdb.com/companies/high-voltage-software
 393,840,1306713600,inXile Entertainment,inxile-entertainment,https://www.igdb.com/companies/inxile-entertainment
 394,250,1306713600,Nadeo,nadeo,https://www.igdb.com/companies/nadeo
 395,392,1306713600,Sonic Team,sonic-team,https://www.igdb.com/companies/sonic-team
 396,392,1306758570,Dimps,dimps,https://www.igdb.com/companies/dimps
 397,250,1306713600,Darkworks,darkworks,https://www.igdb.com/companies/darkworks
-398,156,1306759132,"Ubisoft Shanghai was founded in 1996 in Shanghai, and has become one of China's largest development studios. The studio has worked as the support team for many of Ubisoft's projects, such as the Far Cry franchise, working on wildlife animation and artificial intelligence.",Ubisoft Shanghai,ubisoft-shanghai,https://www.igdb.com/companies/ubisoft-shanghai
+398,156,1306759132,Ubisoft Shanghai,ubisoft-shanghai,https://www.igdb.com/companies/ubisoft-shanghai
 399,1306886400,Longtail Studios,longtail-studios,https://www.igdb.com/companies/longtail-studios
-400,392,1306923089,"Sony Computer Entertainment Japan Studio is a Japanese first-party video game production and development arm of Sony Computer Entertainment, most well known for the series Ape Escape, LocoRoco, Patapon, Gravity Rush, and Knack among other titles.",SCE Japan Studio,sce-japan-studio,https://www.igdb.com/companies/sce-japan-studio
-401,840,1306923543,"Naughty Dog is one of the most successful and prolific game development studios in the world and a flagship first-party studio within PlayStation Studios. From creating the iconic Crash Bandicoot and Jak and Daxter series to modern franchises like Uncharted and The Last of Us, Naughty Dog is responsible for some of the most critically acclaimed and commercially successful games on Sony’s PlayStation platforms. Through its use of cutting-edge technology and evocative, character-driven storytelling, Naughty Dog has received hundreds of industry and media awards, while developing a passionate fan base of millions of players around the globe.",Naughty Dog,naughty-dog,https://www.igdb.com/companies/naughty-dog
+400,392,1306923089,SCE Japan Studio,sce-japan-studio,https://www.igdb.com/companies/sce-japan-studio
+401,840,1306923543,Naughty Dog,naughty-dog,https://www.igdb.com/companies/naughty-dog
 402,1306886400,Day 1 Studios,day-1-studios,https://www.igdb.com/companies/day-1-studios
-403,840,1306886400,"In 1997, Sucker Punch Productions was started to make great games, and we’ve spent the last 18 years doing just that. We produced three award-winning PS2 games starring the wily raccoon thief Sly Cooper, all of which met with critical acclaim, commercial success, and file cabinets full of fan mail. Some of it written in crayon. 
- 
-In 2009, we released the open-world superhero game inFAMOUS, which rapidly turned into the summer’s must-have PS3 game, with excellent reviews and solid footing at the top of the PS3 sales charts. After launching inFAMOUS 2 in 2011, we continued the inFAMOUS franchise on PlayStation 4 in 2013 with Second Son starring Delsin Rowe and standalone DLC First Light starring Abigail ‘Fetch’ Walker. 
- 
-Sucker Punch takes the entire 2nd floor of a skyscraper in downtown Bellevue, looking across Lake Washington to downtown Seattle. We offer a great environment, a friendly set of co-workers, a full benefits package, competitive salaries, and the opportunity to work with one of the best teams around. We’re proud of the games we’ve built, but we’re always looking to get better. We’re excited about strengthening our team with people that share our passion for building visually arresting, emotionally compelling, viscerally involving games.",Sucker Punch Productions,sucker-punch-productions,https://www.igdb.com/companies/sucker-punch-productions
-404,250,1306924835,"Cyanide is an independent and privately held video game studio. Based in Paris, it was created in 2000 and has risen to become one of the most productive game development studios in France.
-Cyanide is best known for its Pro Cycling Manager series, but the studio also boasts games drawn from a wide variety of universes. Notable releases include Game of Thrones RPG as well as an adaptation of Games Workshop's renowned board game, Blood Bowl. A sequel of the latter is currently in development.",Cyanide Studio,cyanide-studio,https://www.igdb.com/companies/cyanide-studio
-405,250,1306886400,"""Spiders is a video game development studio producing its own creations as well as offering part or full productions for third parties.
-
-The company was born when several French video game veterans worked together on the creation of the Silverfall game and its add-on, and decided to pursue the adventure together. Although the company is mainly specialized in the design and development of Action/RPG games, owing to previous experience, it also has the capacity to provide solutions in different genres, like porting.
-
-All of our productions and complete developments use our own multi-platform engine and tool-kit: the Silk Engine.""",Spiders,spiders,https://www.igdb.com/companies/spiders
-406,752,1311033600,"Massive Entertainment AB is a Swedish video game developer based in Malmö, Sweden. The company has been fully owned by Ubisoft since 2008. The studio is known for Ground Control, World in Conflict, and their latest title Tom Clancy's The Division.",Ubisoft Massive,ubisoft-massive,https://www.igdb.com/companies/ubisoft-massive
-407,840,1317600000,"Monolith is a premier developer of video games based in Kirkland, Washington. Founded in 1994, and have a rich history of creating deeply engaging gaming experiences. 
- 
-They are known for the creation of Shadow of Mordor and it's Nemesis System. As well as Condemned: Criminal Origins and Condemned 2: Bloodshot.",Monolith Productions,monolith-productions,https://www.igdb.com/companies/monolith-productions
-408,840,1317600000,"TimeGate Studios was an American video game developer based in Sugar Land, Texas. Studio was founded in 1998 by Alan and Adel Chaveleh. Their debut real-time strategy game, Kohan: Immortal Sovereigns, won positive critical reception receiving several awards in 2001. Over the years, the studio released additions to the Kohan series: Kohan: Ahriman’s Gift and Kohan II: Kings of War. The company also had worked with industry publishers such as Vivendi Games, Take-Two Interactive, Atari, Ubisoft, SouthPeak Games, and Gamecock Media Group on franchises like Section 8, Axis & Allies and F.E.A.R.. Studio went bankrupt in 2013.",TimeGate Studios,timegate-studios,https://www.igdb.com/companies/timegate-studios
-409,1317600000,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) WB Games - duplicate,archive-wb-games-duplicate,https://www.igdb.com/companies/archive-wb-games-duplicate
+403,840,1306886400,Sucker Punch Productions,sucker-punch-productions,https://www.igdb.com/companies/sucker-punch-productions
+404,250,1306924835,Cyanide Studio,cyanide-studio,https://www.igdb.com/companies/cyanide-studio
+405,250,1306886400,Spiders,spiders,https://www.igdb.com/companies/spiders
+406,752,1311033600,Ubisoft Massive,ubisoft-massive,https://www.igdb.com/companies/ubisoft-massive
+407,840,1317600000,Monolith Productions,monolith-productions,https://www.igdb.com/companies/monolith-productions
+408,840,1317600000,TimeGate Studios,timegate-studios,https://www.igdb.com/companies/timegate-studios
+409,1317600000,(Archive) WB Games - duplicate,archive-wb-games-duplicate,https://www.igdb.com/companies/archive-wb-games-duplicate
 410,826,1317600000,Big Blue Box,big-blue-box,https://www.igdb.com/companies/big-blue-box
 411,1317600000,Robosoft Technologies,robosoft-technologies,https://www.igdb.com/companies/robosoft-technologies
-412,826,1317600000,Original codemasters studio,Codemasters Southam,codemasters-southam,https://www.igdb.com/companies/codemasters-southam
-413,840,1317629966,"Founded in 1997, Human Head Studios is a privately-owned independent studio in Madison, Wisconsin.
-​
-We're a full-service developer for Windows/PC, next-gen consoles, VR, and mobile platforms. We cover all the bases; providing tech, game design, 3D modeling and animation, concept and production artwork, and sound design.",Human Head Studios,human-head-studios,https://www.igdb.com/companies/human-head-studios
+412,826,1317600000,Codemasters Southam,codemasters-southam,https://www.igdb.com/companies/codemasters-southam
+413,840,1317629966,Human Head Studios,human-head-studios,https://www.igdb.com/companies/human-head-studios
 414,191,1317600000,Croteam,croteam,https://www.igdb.com/companies/croteam
 416,1317600000,Syfy Games,syfy-games,https://www.igdb.com/companies/syfy-games
 418,1317600000,EA Play,ea-play,https://www.igdb.com/companies/ea-play
-419,392,1317637279,"Project Aces is an internal development team of Bandai Namco Entertainment employees who have been directly responsible for developing Ace Combat games since 2001. Prior to that, development for Ace Combat games was simply credited to Namco.",Project Aces,project-aces,https://www.igdb.com/companies/project-aces
-420,616,1317638640,"Flying Wild Hog is an acclaimed game development company, comprised of almost two hundred skilled industry veterans, that has established a reputation of quality and passion.
-
-We specialize in action-packed, fast-paced and wholeheartedly unique titles, that transport players into unexpected and exciting new worlds.
-
-We thrive when we are able to push our creative boundaries.",Flying Wild Hog,flying-wild-hog,https://www.igdb.com/companies/flying-wild-hog
-421,392,1317639457,"Nintendo Entertainment Analysis & Development was the largest division inside Nintendo. It was preceded by the Creative Department, a team of designers with backgrounds in art responsible for many different tasks, to which Shigeru Miyamoto and Takashi Tezuka originally belonged. Both served as managers of the EAD studios and were credited in every game developed by the division, with varying degrees of involvement. Nintendo EAD was best known for its work on games in the Donkey Kong, Mario, The Legend of Zelda, F-Zero, Star Fox, Pikmin, and Animal Crossing series.",Nintendo EAD,nintendo-ead,https://www.igdb.com/companies/nintendo-ead
+419,392,1317637279,Project Aces,project-aces,https://www.igdb.com/companies/project-aces
+420,616,1317638640,Flying Wild Hog,flying-wild-hog,https://www.igdb.com/companies/flying-wild-hog
+421,392,1317639457,Nintendo EAD,nintendo-ead,https://www.igdb.com/companies/nintendo-ead
 422,840,1317600000,Carbine Studios,carbine-studios,https://www.igdb.com/companies/carbine-studios
-423,276,1317642036,"Deep Silver develops and distributes interactive games for all platforms. The Deep Silver label means to captivate all gamers who have a passion for thrilling gameplay in exciting game worlds. Deep Silver works with its partners to achieve a maximum of success while maintaining the highest possible quality, always focusing on what the customer desires.",Deep Silver,deep-silver,https://www.igdb.com/companies/deep-silver
-425,826,1317646706,"Eurocom Entertainment Software was a British video game developer originally developing games for the Nintendo Entertainment System but then expanded to several other platforms, including handheld game systems and most major video game consoles. The company was known for its arcade to console ports and games based on licensed properties. They also developed a few original properties, such as Magician, Machine Hunter, 40 Winks, and Sphinx and the Cursed Mummy. The company had a development team of 200 people based in their Derby studio.",Eurocom Entertainment Software,eurocom-entertainment-software,https://www.igdb.com/companies/eurocom-entertainment-software
-426,840,1317600000,"Disney Interactive Studios, Inc. (originally established as Walt Disney Computer Software, Disney Interactive, Buena Vista Interactive, and Buena Vista Games) was an American video game developer and publisher owned by The Walt Disney Company through Disney Interactive. Prior to its closure in 2016, it developed and distributed multi-platform video games and interactive entertainment worldwide.",Disney Interactive Studios,disney-interactive-studios,https://www.igdb.com/companies/disney-interactive-studios
-427,246,1317647252,Bugbear Entertainment Ltd. is an award-winning Finnish game developer focusing on action driving games.,Bugbear Entertainment,bugbear-entertainment,https://www.igdb.com/companies/bugbear-entertainment
+423,276,1317642036,Deep Silver,deep-silver,https://www.igdb.com/companies/deep-silver
+425,826,1317646706,Eurocom Entertainment Software,eurocom-entertainment-software,https://www.igdb.com/companies/eurocom-entertainment-software
+426,840,1317600000,Disney Interactive Studios,disney-interactive-studios,https://www.igdb.com/companies/disney-interactive-studios
+427,246,1317647252,Bugbear Entertainment,bugbear-entertainment,https://www.igdb.com/companies/bugbear-entertainment
 428,840,1317600000,Treyarch,treyarch,https://www.igdb.com/companies/treyarch
 429,826,1317600000,Venom Games,venom-games,https://www.igdb.com/companies/venom-games
-430,1317686400,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) duplicate company name 1,archive-duplicate-company-name-1,https://www.igdb.com/companies/archive-duplicate-company-name-1
-431,840,1317686400,"Ready At Dawn Studios was founded in 2003 by senior members of Naughty Dog and Blizzard Entertainment and set a new standard for PSP games with its multi-million selling, Game of The Year award winning titles Daxter™ and God of War: Chains of Olympus. Ready At Dawn’s technological innovations, its reputation for excellence in artistry and design, and its combined experience developing blockbuster franchises, ensure the studio will continue to raise player expectations.
-Ready At Dawn is known for pushing their target hardware to the limits, evident from their previous titles. With the announcement of The Order: 1886™ in June 2013, the studio has now set their sights and expertise on the PlayStation 4 system. Available exclusively on PlayStation 4, The Order: 1886™ introduces players to a unique vision of Victorian-Era London where Man uses advanced technology to battle a powerful and ancient foe.  As Galahad, a member of an elite order of Knights, join a centuries-old war that will determine the course of history forever.
-
-Ready At Dawn Studios® is located in Irvine, California.",Ready at Dawn,ready-at-dawn,https://www.igdb.com/companies/ready-at-dawn
+430,1317686400,(Archive) duplicate company name 1,archive-duplicate-company-name-1,https://www.igdb.com/companies/archive-duplicate-company-name-1
+431,840,1317686400,Ready at Dawn,ready-at-dawn,https://www.igdb.com/companies/ready-at-dawn
 432,124,1317712371,Beenox,beenox,https://www.igdb.com/companies/beenox
-433,826,1317712749,"Ubisoft Reflections was founded in 1984 in Newcastle upon Tyne, England. The company has developed several successful franchises, including Destruction Derby and Driver before Ubisoft's acquisition in July 2006. After Reflections' acquisition, the company continued to work on new Driver titles, with the latest being 2011's Driver: San Francisco. The studio then turned to become a support team to work on other titles such as Tom Clancy's The Division, worked on vehicle physics for other Ubisoft games, and experimented with smaller projects such as Grow Home. The studio is managed by Pauline Jacquey. Ubisoft Reflections works closely with Ubisoft Leamington.",Ubisoft Reflections,ubisoft-reflections,https://www.igdb.com/companies/ubisoft-reflections
+433,826,1317712749,Ubisoft Reflections,ubisoft-reflections,https://www.igdb.com/companies/ubisoft-reflections
 434,840,1317686400,High Moon Studios,high-moon-studios,https://www.igdb.com/companies/high-moon-studios
 435,840,1317686400,Danger Close,danger-close,https://www.igdb.com/companies/danger-close
 436,705,1317686400,ZootFly,zootfly,https://www.igdb.com/companies/zootfly
-437,752,1317715984,"Avalanche Studios is an independent AAA developer dedicated to creating huge open worlds, full of explosive, emergent gameplay. You probably know us as the creator of the Just Cause franchise, or the developer of Mad Max, which was released in September of 2015. We created the critically acclaimed XBLA/PSN twin stick shooter Renegade Ops, we manage more than 6 million players in the online world of theHunter, and are currently hard at work on several future projects. Here’s a look into our world.",Avalanche Studios,avalanche-studios,https://www.igdb.com/companies/avalanche-studios
-438,840,1317686400,"Founded in 2002, Infinity Ward is the original studio behind the Call of Duty franchise.
-
-The titles developed by Infinity Ward have won over 200 ""Game of the Year"" awards and 100 ""Editor's Choice"" awards, among many other industry accolades. In 2007, the studio released Call of Duty 4: Modern Warfare, a revolutionary title that set the bar for the modern first-person shooter. 
-
-Infinity Ward is located in Woodland Hills, California, just outside of Los Angeles. A critically-acclaimed studio, Infinity Ward is proud to have one of the most passionate and accomplished development teams in the industry. We love to have as much fun as the games we create, and it shows in our relaxed, yet diligent workplace environment.",Infinity Ward,infinity-ward,https://www.igdb.com/companies/infinity-ward
-439,826,1317717800,"Sumo Digital is made up of a diverse mix of fantastic people, although sometimes, some groups are still under-represented. We are working to remove obstacles that can make it difficult for those groups to progress their careers in the games industry. We welcome applications from under-represented people in the gaming industry, including, but not limited to BAME, LGBQT+, women, people with physical disabilities, neurodiversity or mental health issues, and parents or carers.
-
-Our environment is relaxed, friendly and built on every team member having the opportunity to shine and have real, meaningful input into the games that we create. We pride ourselves on our positive atmosphere and sociable team who regularly partake in shared interest groups, lunchtime and after-work clubs, and charity fundraising events.",Sumo Digital,sumo-digital,https://www.igdb.com/companies/sumo-digital
-440,1317686400,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) SCEE - duplicate,archive-scee-duplicate,https://www.igdb.com/companies/archive-scee-duplicate
-442,250,1317686400,"""Since 2002, as a group of video game enthusiasts, we've created successful games adapted from famous brands, RnD on next generation equipment based games (360 kinect, PS3 move, Wii, HoloLens...), and critically acclaimed original IP's.""",Asobo Studio,asobo-studio,https://www.igdb.com/companies/asobo-studio
+437,752,1317715984,Avalanche Studios,avalanche-studios,https://www.igdb.com/companies/avalanche-studios
+438,840,1317686400,Infinity Ward,infinity-ward,https://www.igdb.com/companies/infinity-ward
+439,826,1317717800,Sumo Digital,sumo-digital,https://www.igdb.com/companies/sumo-digital
+440,1317686400,(Archive) SCEE - duplicate,archive-scee-duplicate,https://www.igdb.com/companies/archive-scee-duplicate
+442,250,1317686400,Asobo Studio,asobo-studio,https://www.igdb.com/companies/asobo-studio
 443,1317686400,Endrant Studios,endrant-studios,https://www.igdb.com/companies/endrant-studios
 444,124,1317686400,Radical Entertainment,radical-entertainment,https://www.igdb.com/companies/radical-entertainment
-445,840,1317686400,"505 Games is a global video game publisher focused on offering a broad selection of titles for players of all ages and levels. The company publishes and distributes premium and free-to-play games on leading console, PC and handheld platforms as well as for mobile devices and social networks. 505 Games has offices in California, United Kingdom, France, Germany, Italy, Spain and China.",505 Games,505-games,https://www.igdb.com/companies/505-games
+445,840,1317686400,505 Games,505-games,https://www.igdb.com/companies/505-games
 446,840,1317686400,Got Game Entertainment,got-game-entertainment,https://www.igdb.com/companies/got-game-entertainment
 448,1317686400,Vicious Cycle Software,vicious-cycle-software,https://www.igdb.com/companies/vicious-cycle-software
 449,1317686400,D3 Publisher,d3-publisher,https://www.igdb.com/companies/d3-publisher
 450,1317686400,Aion Team Development Dept,aion-team-development-dept,https://www.igdb.com/companies/aion-team-development-dept
 451,840,1317686400,Terminal Reality,terminal-reality,https://www.igdb.com/companies/terminal-reality
 452,1317686400,Threewave Software,threewave-software,https://www.igdb.com/companies/threewave-software
-453,348,1317738405,"Zen Studios is a leading global producer and publisher of interactive entertainment software for all major digital game platforms, and is recognized as one of the premiere independent gaming studios in the world. Zen is an internationally renowned publisher headquartered in Budapest, Hungary with offices in the United States.
-
-Zen Studios has worked with some of the largest brands in the world of entertainment, including Marvel Entertainment, South Park, and LucasArts, as well as revered gaming properties like Valve’s Portal and TellTale Games’ The Walking Dead. Zen Studios’ CastleStorm franchise has also won the developer critical acclaim and commercial success, including the coveted Editor’s Choice awards from both the Apple App Store and Google Play.",Zen Studios,zen-studios,https://www.igdb.com/companies/zen-studios
-454,124,1317745711,"EA Sports is a division of Electronic Arts that develops and publishes sports video games. Formerly a marketing gimmick of Electronic Arts, it soon grew up to become a sub-label on its own, releasing game series such as FIFA, NHL, NBA Live and Madden NFL.",EA Sports,ea-sports,https://www.igdb.com/companies/ea-sports
+453,348,1317738405,Zen Studios,zen-studios,https://www.igdb.com/companies/zen-studios
+454,124,1317745711,EA Sports,ea-sports,https://www.igdb.com/companies/ea-sports
 455,1317686400,Sonalysts,sonalysts,https://www.igdb.com/companies/sonalysts
 456,1317686400,Crack dot Com,crack-dot-com,https://www.igdb.com/companies/crack-dot-com
 457,250,1317686400,Eugen Systems,eugen-systems,https://www.igdb.com/companies/eugen-systems
-458,578,1317686400,"Funcom was founded in 1993 and has since then developed and published over 25 game titles across several genres and gaming platforms. Most notable of these are the MMOs 'The Secret World', 'Age of Conan' and 'Anarchy Online', as well as the adventure game 'The Longest Journey'. 
- 
-There are about 130 talented individuals from several different nationalities working at Funcom, spread out across offices in Norway, Canada, and the US. After more than 20 years of operation one of the largest and most influential independent development studios in the business.",Funcom,funcom,https://www.igdb.com/companies/funcom
+458,578,1317686400,Funcom,funcom,https://www.igdb.com/companies/funcom
 461,1317686400,Fox Interactive,fox-interactive,https://www.igdb.com/companies/fox-interactive
-463,1317686400,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) MS Game Studios - duplicate,archive-ms-game-studios-duplicate,https://www.igdb.com/companies/archive-ms-game-studios-duplicate
+463,1317686400,(Archive) MS Game Studios - duplicate,archive-ms-game-studios-duplicate,https://www.igdb.com/companies/archive-ms-game-studios-duplicate
 465,1317686400,U.S. Army,u-s-army,https://www.igdb.com/companies/u-s-army
 466,1317686400,Interactive Magic,interactive-magic,https://www.igdb.com/companies/interactive-magic
 467,1317686400,Digital Integration,digital-integration,https://www.igdb.com/companies/digital-integration
-468,124,1317745756,Meridian4 is an indie video game publisher launching indie games for the modern gamer on Steam and Consoles.,Meridian4,meridian4,https://www.igdb.com/companies/meridian4
-469,40,1317686400,"JoWooD Entertainment AG (formerly JoWooD Productions Software AG, commonly referred to as JoWooD) was an Austrian video game publisher that was founded in 1995. 
-In June 2011, JoWooD Entertainment all their assets and its subsidiary, Quantic Lab, was acquired by Nordic Games Holding AB. From this point on, JoWooD was no longer operating. All activities of the two companies were taken over by Nordic Games Holding. On 16 August 2011 Nordic Games Holding announced that it had acquired JoWooD's products and brands and some of the companies labels, including The Adventure Company. Following the acquisition it was announced that JoWood and the Adventure Company would become publishing labels for Nordic Games GmbH, a wholly owned subsidiary of Nordic Games Holding.",JoWooD Entertainment AG,jowood-entertainment-ag,https://www.igdb.com/companies/jowood-entertainment-ag
-470,840,1317745764,Turbine was a game development studio focused on MMORPGs.,Turbine,turbine,https://www.igdb.com/companies/turbine
+468,124,1317745756,Meridian4,meridian4,https://www.igdb.com/companies/meridian4
+469,40,1317686400,JoWooD Entertainment AG,jowood-entertainment-ag,https://www.igdb.com/companies/jowood-entertainment-ag
+470,840,1317745764,Turbine,turbine,https://www.igdb.com/companies/turbine
 471,1317686400,Pulse Entertainment,pulse-entertainment,https://www.igdb.com/companies/pulse-entertainment
 472,1317686400,Infinite Monkey,infinite-monkey,https://www.igdb.com/companies/infinite-monkey
-474,840,1317745771,"Liquid Entertainment was an American independent video game developer based in Pasadena, California. The studio was founded in April 1999 by Ed Del Castillo and Mike Grayford.",Liquid Entertainment,liquid-entertainment,https://www.igdb.com/companies/liquid-entertainment
-476,840,1317686400,"Founded in 2000, the company was merged with Slitherine Software UK Limited in 2010, creating the new Slitherine ltd company. 
- 
-Both Slitherine and Matrix Games continue to operate as publishing brands, as part of the Slitherine Group, along with Ageod which was also merged into the company near the end of 2012.",Matrix Games,matrix-games,https://www.igdb.com/companies/matrix-games
+474,840,1317745771,Liquid Entertainment,liquid-entertainment,https://www.igdb.com/companies/liquid-entertainment
+476,840,1317686400,Matrix Games,matrix-games,https://www.igdb.com/companies/matrix-games
 478,1317686400,Aries Online Games,aries-online-games,https://www.igdb.com/companies/aries-online-games
-479,1317686400,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) PopCap,archive-popcap,https://www.igdb.com/companies/archive-popcap
+479,1317686400,(Archive) PopCap,archive-popcap,https://www.igdb.com/companies/archive-popcap
 481,840,1317686400,Reflexive Entertainment,reflexive-entertainment,https://www.igdb.com/companies/reflexive-entertainment
 482,826,1317686400,Revolution Software,revolution-software,https://www.igdb.com/companies/revolution-software
 483,1317686400,Gray Matter,gray-matter,https://www.igdb.com/companies/gray-matter
 485,1317686400,SCi Games,sci-games,https://www.igdb.com/companies/sci-games
-486,826,1317686400,"Sports Interactive are the world’s leading developer of football management simulations through its Football Manager series of games based in London, there are now over 100 full time people in the team. 
- 
-The SI team is expanded by more than 1,300 researchers across the world whose research makes up the world largest football database, as well as a contracted QA team on-site, and over 100 offsite beta testers.",Sports Interactive,sports-interactive,https://www.igdb.com/companies/sports-interactive
+486,826,1317686400,Sports Interactive,sports-interactive,https://www.igdb.com/companies/sports-interactive
 487,1317686400,3DO,3do,https://www.igdb.com/companies/3do
 488,1317686400,Stick Man Games,stick-man-games,https://www.igdb.com/companies/stick-man-games
 489,528,1317748683,Mindscape,mindscape,https://www.igdb.com/companies/mindscape
 491,1317686400,Dreamworks Games,dreamworks-games,https://www.igdb.com/companies/dreamworks-games
 492,840,1317686400,Atomic Games,atomic-games,https://www.igdb.com/companies/atomic-games
 493,1317686400,Stormregion,stormregion,https://www.igdb.com/companies/stormregion
-494,840,1317748716,"Battlefront.com is a video game developer and publisher. Battlefront specialises in war-related games, including turn-based and real-time strategies, as well as simulations of air, land and naval military vehicles.",Battlefront.com,battlefront-com,https://www.igdb.com/companies/battlefront-com
+494,840,1317748716,Battlefront.com,battlefront-com,https://www.igdb.com/companies/battlefront-com
 495,1317686400,Big Time Software,big-time-software,https://www.igdb.com/companies/big-time-software
 496,840,1317686400,EA Pacific,ea-pacific,https://www.igdb.com/companies/ea-pacific
-498,724,1317686400,"Pyro Studios was a Spanish video game developer company founded in 1996, whose offices were located in Madrid. He developed Commandos: Behind Enemy Lines, gaining rapid national and international recognition. 
- 
-In 2012 it merged with Play Wireless founding Pyro Mobile, a company dedicated to the development of applications for Smartphones, Tablets and Social Networks",Pyro Studios,pyro-studios,https://www.igdb.com/companies/pyro-studios
-499,1317686400,Remove please,Relic,relic,https://www.igdb.com/companies/relic
+498,724,1317686400,Pyro Studios,pyro-studios,https://www.igdb.com/companies/pyro-studios
+499,1317686400,Relic,relic,https://www.igdb.com/companies/relic
 500,1317686400,Auran,auran,https://www.igdb.com/companies/auran
-501,250,1317748753,"Delphine Software International was a French video game developer. They were famous for publishing Another World and creating the cinematic platform game Flashback, which bore a similarity to Prince of Persia, both in gameplay and in its use of rotoscoped animation. They were also known for their Moto Racer series.
-The company closed down in July 2004 after bankruptcy and liquidation. Their official website has since shut down.",Delphine Software,delphine-software,https://www.igdb.com/companies/delphine-software
-502,1317686400,"This is a duplicate company and should not be used. 
-Will be archived at a later time.",(Archive) Valve Software - duplicate,archive-valve-software-duplicate,https://www.igdb.com/companies/archive-valve-software-duplicate
+501,250,1317748753,Delphine Software,delphine-software,https://www.igdb.com/companies/delphine-software
+502,1317686400,(Archive) Valve Software - duplicate,archive-valve-software-duplicate,https://www.igdb.com/companies/archive-valve-software-duplicate
 503,1317686400,Mitsumi,mitsumi,https://www.igdb.com/companies/mitsumi
-505,840,1317686400,"From Wikipedia: 
-""Founded in late 1996 as Outrage Entertainment when Parallax Software decided to split into two studios (the other being Volition)."" 
- 
-""On April 4, 2002, Outrage was acquired by THQ and renamed Outrage Games.""",Outrage Games,outrage-games,https://www.igdb.com/companies/outrage-games
-506,1317748775,"Parallax Software was founded on June 14, 1993, by Mike Kulas and Matt Toschlog. The company was incorporated under the name Parallax Software Corporation.",Parallax Software,parallax-software,https://www.igdb.com/companies/parallax-software
+505,840,1317686400,Outrage Games,outrage-games,https://www.igdb.com/companies/outrage-games
+506,1317748775,Parallax Software,parallax-software,https://www.igdb.com/companies/parallax-software
 507,840,1317686400,Volition Inc,volition-inc,https://www.igdb.com/companies/volition-inc
-508,840,1317686400,A San Francisco based casual games developer,PlayFirst,playfirst,https://www.igdb.com/companies/playfirst
-510,56,1317686400,"Larian Studios is a game developer studio located in Gent, Belgium. Proud to be independent for 19 years, they create games for multiple genres and platforms.
-They have a passion for role playing games; our Divinity series includes 5 games spanning over 13 years in multiple genres. Their crown jewel, Divinity: Original Sin, was a Kickstarter success story of 2014.",Larian Studios,larian-studios,https://www.igdb.com/companies/larian-studios
+508,840,1317686400,PlayFirst,playfirst,https://www.igdb.com/companies/playfirst
+510,56,1317686400,Larian Studios,larian-studios,https://www.igdb.com/companies/larian-studios
 512,1317686400,Ocean,ocean,https://www.igdb.com/companies/ocean
-513,826,1317748808,"Digital Image Design was a game development studio established in 1989 by Martin Kenwright and Phillip Allsopp from a bedroom in a small house in Runcorn, England.
-
-DID was best known for 3D games at a time where very few games used similar technology",Digital Image Design,digital-image-design,https://www.igdb.com/companies/digital-image-design
+513,826,1317748808,Digital Image Design,digital-image-design,https://www.igdb.com/companies/digital-image-design
 515,1317686400,Razorworks Studios,razorworks-studios,https://www.igdb.com/companies/razorworks-studios
 516,1317686400,4HEAD Studios,4head-studios,https://www.igdb.com/companies/4head-studios
-517,752,1317748823,"For over a decade, Paradox Interactive has been a leading global publisher of PC-based strategy games with a particularly strong presence in the United Stated and Europe. Its steadily-growing portfolio includes firmly established PC franchises such as the critically acclaimed Europa Universalis and Crusader Kings series of games, created by Paradox Development Studio, as well as the award-winning Magicka and Mount & Blade titles.",Paradox Interactive,paradox-interactive,https://www.igdb.com/companies/paradox-interactive
+517,752,1317748823,Paradox Interactive,paradox-interactive,https://www.igdb.com/companies/paradox-interactive
 518,1317686400,Third Wire,third-wire,https://www.igdb.com/companies/third-wire
 519,1317686400,Graphic Simulations,graphic-simulations,https://www.igdb.com/companies/graphic-simulations
 522,1317686400,Origin,origin,https://www.igdb.com/companies/origin
@@ -771,36 +478,24 @@ DID was best known for 3D games at a time where very few games used similar tech
 529,1317686400,Flying Legends,flying-legends,https://www.igdb.com/companies/flying-legends
 530,643,1317686400,Eagle Dynamics,eagle-dynamics,https://www.igdb.com/companies/eagle-dynamics
 532,826,1317686400,Probe Entertainment,probe-entertainment,https://www.igdb.com/companies/probe-entertainment
-533,840,1317686400,"Stardock Corporation is a software development company founded in 1991 and incorporated in 1993 as Stardock Systems. Stardock initially developed for the OS/2 platform, but was forced to switch to Windows due to the collapse of the OS/2 software market between 1997 and 1998. The company is best known for computer programs that allow a user to modify or extend a graphical user interface as well as personal computer games, particularly strategy games such as Galactic Civilizations, Galactic Civilizations II, Sins of a Solar Empire and Elemental: War of Magic. Game development is handled by the company's internal division Stardock Entertainment, which also works with 3rd party developers to publish games for Windows PC.&#13;
-&#13;
-Stardock created and maintains WinCustomize, a graphical user interface customization community, and developed the Impulse content delivery system before its sale to GameStop. Many of the skins and themes featured on its site are for software that is part of Object Desktop, their main subscription service. They are based in Plymouth, Michigan, USA.",Stardock,stardock,https://www.igdb.com/companies/stardock
+533,840,1317686400,Stardock,stardock,https://www.igdb.com/companies/stardock
 534,1317686400,Sick Puppies,sick-puppies,https://www.igdb.com/companies/sick-puppies
 535,1317686400,Papyrus,papyrus,https://www.igdb.com/companies/papyrus
 536,826,1317686400,DMA Design,dma-design,https://www.igdb.com/companies/dma-design
-537,752,1317748973,"Massive Entertainment is a world-leading AAA studio located in Malmö and part of the Ubisoft family. It is a multinational team of more than 650 passionate and highly skilled people from more than 50 different countries. The studio worked on some big projects like Tom Clancy’s The Division 2, Avatar: Frontiers of Pandora, The Star Wars Project, Snowdrop, or Ubisoft Connect.",Massive Entertainment,massive-entertainment,https://www.igdb.com/companies/massive-entertainment
-538,840,1317686400,"Viva Media publishes, produces and develops high quality games for PC, Mac, Androids, iOS, mobile devices and other platforms. The company is a leader in the North American retail sector for games on PC with a top 10 NPD ranking for several years running.",Viva Media,viva-media,https://www.igdb.com/companies/viva-media
+537,752,1317748973,Massive Entertainment,massive-entertainment,https://www.igdb.com/companies/massive-entertainment
+538,840,1317686400,Viva Media,viva-media,https://www.igdb.com/companies/viva-media
 539,752,1317686400,SimBin,simbin,https://www.igdb.com/companies/simbin
-540,276,1317686400,10TACLE STUDIOS was specialized in the development of games that brought a significant added value to the field of game design.,10tacle Studios,10tacle-studios,https://www.igdb.com/companies/10tacle-studios
+540,276,1317686400,10tacle Studios,10tacle-studios,https://www.igdb.com/companies/10tacle-studios
 541,1317686400,Team .366,team-366,https://www.igdb.com/companies/team-366
 542,124,1317686400,Barking Dog,barking-dog,https://www.igdb.com/companies/barking-dog
-543,826,1317686400,"Rage Software or Rage Games or FX Digital Network was a British video game developer. Formed in Liverpool in 1992, its games were marked by an emphasis on graphical effects with arcade gameplay.
-
-Rage's first title Striker sold more than one million copies throughout its two-year life cycle and established Rage as a major creative force in the interactive entertainment industry. The company went through rapid expansion in the 1990s and partnered with multiple third party software publishers for distribution of its titles.
-
-Rage Games Limited was floated on the stock exchange in 1996 as Rage Software plc. Rage continued to form commercial partnerships with major publishing houses, including Microsoft, Intel, Dell, Compaq, Nintendo, Sony and Sega, and re-registered as a private company as Rage Software Limited in 1999.
-
-In 2000, Rage began to expand into publishing. However, the costs of publishing and a run of games that did not sell as expected (most notably the David Beckham franchise) eventually led to the company closing in January 2003 due to bankruptcy. At that time, it was one of the oldest game developers in the UK and at its peak had offices in Liverpool, Birmingham, Sheffield, Newcastle, Bristol and Warrington.
-
-Some of the former development staff have formed other game development companies such as Swordfish Studios in Birmingham, Juice Games in Warrington and Venom Games in Newcastle.",Rage Software,rage-software,https://www.igdb.com/companies/rage-software
+543,826,1317686400,Rage Software,rage-software,https://www.igdb.com/companies/rage-software
 545,1317686400,Particle Systems,particle-systems,https://www.igdb.com/companies/particle-systems
-547,840,1317686400,"""From 1985 to 2000, there was only one name for action, adventure, heart pounding thrills and fast paced games on your favorite computer or gaming system - Accolade! Now, after more than a decade and half absence, 2017 marks the return of one of the most beloved and iconic names to gamers all around the World. Accolade is back! 
- 
-Accolade returns with classic all new, reimagined games from its vast catalog and brand new franchises that will thrill anyone from 9 to 90 that calls themselves a gamer.""",Accolade,accolade,https://www.igdb.com/companies/accolade
+547,840,1317686400,Accolade,accolade,https://www.igdb.com/companies/accolade
 548,1317686400,Eclipse Software,eclipse-software,https://www.igdb.com/companies/eclipse-software
 549,1317686400,Hypnos,hypnos,https://www.igdb.com/companies/hypnos
 550,1317686400,Gamestorm,gamestorm,https://www.igdb.com/companies/gamestorm
 551,1317686400,NetDevil,netdevil,https://www.igdb.com/companies/netdevil
-552,840,1317749054,"Crystal is Craftsmanship, Transparency, and Impact at its core. Our passion is for great gaming; our mission is to tell a story through art, animation and innovation. This is the studio at which you will make the games of your career, and it's a studio dedicated not only to quality, but to making groundbreaking games that turn into lifetime memories. Backed by a twenty year history of developing franchises like Tomb Raider and Legacy of Kain, Crystal Dynamics is a place for excellence.",Crystal Dynamics,crystal-dynamics,https://www.igdb.com/companies/crystal-dynamics
+552,840,1317749054,Crystal Dynamics,crystal-dynamics,https://www.igdb.com/companies/crystal-dynamics
 553,840,1317686400,Access Software,access-software,https://www.igdb.com/companies/access-software
 555,840,1317686400,EA Tiburon,ea-tiburon,https://www.igdb.com/companies/ea-tiburon
 558,1317686400,FASA Studio,fasa-studio,https://www.igdb.com/companies/fasa-studio
