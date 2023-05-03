@@ -2,7 +2,8 @@ import requests,csv,json
 
 url = "https://api.igdb.com/v4/platforms"
 
-payload = "fields id,name,alternative_name,abbreviation,url;\nlimit 500;\nsort id;"
+#payload = "fields id,name,alternative_name,abbreviation,url;\nlimit 500;\nsort id;"
+payload="fields id,name,url;\nlimit 500;\nsort id;"
 headers = {
     "cookie": "__cf_bm=DGMrxIAvAMdagdjBXl38OeYjOfG0qnOoSFBr_NcB1O8-1682857774-0-ARAWHvTvr3I%2F8VezmkrdpYJOFm1kHlATuxwXnRMSerVHHx72by6cNWiRXnz%2FcTyngDFfCLLQmUvd%2BQ0rMcPAhRI%3D",
     "Client-ID": "4z2v12ldjowkh8o9yuflyvxm7ojn3e",
@@ -18,7 +19,8 @@ def get_csv(data,filename=None):
         filename='Platforms.csv'
     with open(filename,'w') as file:
         writer=csv.writer(file)
-        writer.writerow(['ID','Abbreviation','Alternative Name','Name','Data','Link'])
+        #writer.writerow(['ID','Abbreviation','Alternative Name','Name','Data','Link'])
+        writer.writerow(['ID','Name','Link'])
         for instance in data:
             writer.writerow(instance.values())
 

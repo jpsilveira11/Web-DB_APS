@@ -2,7 +2,8 @@ import requests,csv,json
 
 url = "https://api.igdb.com/v4/companies"
 
-payload = "fields id,name,slug,country,created_at,description,url;\nlimit 500;\nsort id;\n"
+#payload = "fields id,name,slug,country,created_at,description,url;\nlimit 500;\nsort id;\n"
+payload = "fields id,name,slug,created_at,url;\nlimit 500;\nsort id;\n"
 headers = {
     "cookie": "__cf_bm=Z31NlwyDz7eiUGa9AZhsBzR4Kd5UK_xeLO6fOSF6vb0-1682867470-0-AQAQ6ZvBRRJKOKmPP10iLquIopHJkiRTnDv1ht6d6PILX5ey6TlMGrRoni4%2Fkjrj5Q0lXCg3ZLmNZ8vATxD7rhY%3D",
     "Client-ID": "4z2v12ldjowkh8o9yuflyvxm7ojn3e",
@@ -19,7 +20,8 @@ def get_csv(data,filename=None):
         filename='Companies.csv'
     with open(filename,'w',encoding='utf-8') as file:
         writer=csv.writer(file)
-        writer.writerow(['ID','Country','Creation','Description','Name','Slug','Link'])
+        #writer.writerow(['ID','Country','Creation','Description','Name','Slug','Link'])
+        writer.writerow(['ID','Creation','Name','Slug','Link'])
         for instance in data:
             writer.writerow(instance.values())
 
