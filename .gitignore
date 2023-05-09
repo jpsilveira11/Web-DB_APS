@@ -7,11 +7,6 @@ pixel-pay/yarn-error.log*
 pixel-pay/pnpm-debug.log*
 pixel-pay/lerna-debug.log*
 
-pixel-pay/node_modules
-pixel-pay/dist
-pixel-pay/dist-ssr
-pixel-pay/*.local
-
 # Editor directories and files
 pixel-pay/.vscode/*
 pixel-pay/!.vscode/extensions.json
@@ -23,5 +18,9 @@ pixel-pay/*.njsproj
 pixel-pay/*.sln
 pixel-pay/*.sw?
 pixel-pay/yarn.lock
+pixel-pay/node_modules
+pixel-pay/dist
+pixel-pay/dist-ssr
+pixel-pay/*.local
 server/yarn.lock
 server/node_modules
