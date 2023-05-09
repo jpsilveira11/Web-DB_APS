@@ -24,3 +24,4 @@ pixel-pay/*.sln
 pixel-pay/*.sw?
 pixel-pay/yarn.lock
 server/yarn.lock
+server/node_modules
