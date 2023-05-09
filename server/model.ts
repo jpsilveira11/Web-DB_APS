@@ -13,7 +13,7 @@ app.listen(port, () => {
 });
 
 app.get('/api', (req, res) => {
-  connection.query('SELECT * FROM jogos', (error, results, fields) => {
+  connection.query('SELECT * FROM jogos', (error, results) => {
     if (error) {
       console.error(error);
       res.status(500).send('Erro ao buscar dados');
