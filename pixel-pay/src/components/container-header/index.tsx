@@ -4,9 +4,9 @@ function ContainerHeader(props: any){
     
     return(
         <>
-            <div className={`container backgroud-color-${props.color} ${props.className}`}>
-                 <span>{props.children}</span>
-            </div>
+            <nav className={`container backgroud-color-${props.color} ${props.className}`}>
+                 {props.children}
+            </nav>
         </>
     );
 }

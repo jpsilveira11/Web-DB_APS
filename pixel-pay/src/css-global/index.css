@@ -30,6 +30,7 @@ body{
 #root {
     margin: 0 auto;
     text-align: center;
+    width: 100vw;
 }
 
 .text-x-small {
@@ -112,4 +113,10 @@ body{
 
 .border-radius {
      border-radius: 9px;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+    align-items: center;
 }

@@ -9,8 +9,12 @@ export default function Welcome(){
         <>
         
              <ContainerHeader color="transparent" className="text-uppercase text-color-white" >
-                <div className="text-root-size">{words.header}</div>
-                <MdOutlineAccountCircle className="text-large"/>
+                <div className="text-bold text-large">PIXEL PLAY</div>
+                <div className="nav">
+                    <MdOutlineAccountCircle className="text-large"/>
+                    <div>{words.header}</div>
+                </div>
+                
             </ContainerHeader>
 
             {/* <div className="button-container">
