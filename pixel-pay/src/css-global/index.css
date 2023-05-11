@@ -1,0 +1,93 @@
+:root {
+    --dark-gray:#242424;
+    --Charcoal:#464447;
+    --light-grey: #F6F6F6;
+    --grey: #666666;
+    --orange-peel: #F79F1F;
+    --forest-green: #1A9359;
+    --deep-green: #008572;
+    --steel-blue: #1A899A;
+    --padding-standard: 0 4%;
+    background-color: var(--dark-gray);
+}
+body{
+    margin: 0; 
+}
+
+
+#root {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.text-extra-small {
+    font-size: 8px;
+}
+
+.text-small {
+    font-size: 16px;
+}
+
+.text-medium {
+    font-size: 24px;
+}
+
+.text-large {
+    font-size: 32px;
+}
+
+.text-extra-large {
+    font-size: 40px;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.text-lowercase {
+    text-transform:lowercase;
+}
+
+.text-color-white {
+    color: #ffffff;
+}
+
+.text-color-black {
+    color: #000000;
+}
+
+.text-color-grey {
+    color: var(--grey);
+}
+
+.text-color-orange-peel {
+    color: var(--orange-peel);
+}
+
+.background-color-dark-gray {
+    background-color: var(--dark-gray);
+}
+
+.background-color-Charcoal {
+    background-color: var(--Charcoal);
+}
+
+.background-color-deep-green {
+    background-color: var(--deep-green);
+}
+
+.background-color-forest-green {
+    background-color: var(--forest-green);
+}
+
+.background-color-steel-blue {
+    background-color: var(--steel-blue);
+}
+
+.border-radius {
+     border-radius: 9px;
+}
