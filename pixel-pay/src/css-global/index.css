@@ -5,6 +5,13 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'Roboto';
+    src: url('../assets/fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 html {
     font-size: 12px;
     font-family: 'Roboto',  sans-serif;
@@ -89,7 +96,11 @@ body{
 
 .backgroud-color-transparent {
     background-color: transparent;
-  }
+}
+
+.background-color-black {
+    background-color: #000000;
+}
 
 .background-color-dark-gray {
     background-color: var(--dark-gray);
@@ -117,6 +128,47 @@ body{
 
 .nav {
     display: flex;
-    gap: 30px;
+    gap: 35px;
     align-items: center;
 }
+
+.btn-orange-peel {
+    border-radius: 7px;
+    padding: 8px 12px;
+    background-color: var(--orange-peel);
+    font-weight: bold;
+}
+
+.btn-orange-peel:hover {
+    color: #000000;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.btn-icon {
+    font-size: 30px;
+    border-radius: 50%; /* arredonda as bordas para um círculo */ 
+    color: var(--grey);
+    cursor: pointer;
+}
+
+.btn-icon:hover {
+    border-radius: 50%; /* arredonda as bordas para um círculo */ 
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.btn-secondary {
+    color: var(--grey);
+    border-radius: 7px;
+    padding: 8px 12px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-secondary:hover {
+    color: #000000;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
