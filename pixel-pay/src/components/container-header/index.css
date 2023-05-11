@@ -1,11 +1,9 @@
 @import url("../../css-global/index.css");
 
-.backgroud-color-transparent {
-  opacity: 0;
-}
-
 .container {
     height: 56px;
     padding: var(--padding-standard);
     width: 100%;
+    align-items: center;
+    display: flex;
 }
