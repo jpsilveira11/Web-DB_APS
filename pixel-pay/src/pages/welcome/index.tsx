@@ -12,7 +12,7 @@ function App() {
     const [jogos, setJogos] = useState([]);
 
     useEffect(() => {
-        axios.get('http://localhost:5174/api/jogos/')
+        axios.get('/api/jogos/')
         .then(response => {
               setJogos(response.data);
         })
@@ -23,8 +23,8 @@ function App() {
   
     return (
       <>{
-        jogos.map(jogo =>
-          <Card content={jogo}></Card>
+        jogos.map((jogo, index) =>
+          <Card key={index} content={jogo}></Card>
           )
       }
        
