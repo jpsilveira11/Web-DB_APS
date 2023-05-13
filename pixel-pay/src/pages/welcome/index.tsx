@@ -22,8 +22,12 @@ function App() {
     }, [])
   
     return (
-      <>
-       <Card content={jogos}></Card>
+      <>{
+        jogos.map(jogo =>
+          <Card content={jogo}></Card>
+          )
+      }
+       
       </>
     )
   }
