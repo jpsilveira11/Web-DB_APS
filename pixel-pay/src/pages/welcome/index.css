@@ -1,0 +1,15 @@
+@import url("../../css-global/index.css");
+
+.carousel{
+    height: 608px;
+    width: 100vh;
+    position: relative;
+    top: -56px;
+    z-index: 0;
+}
+
+.cont {
+    display:flex;
+    flex-direction: column;
+}
+
