@@ -1,6 +1,5 @@
 import "./index.css"
 import { useState, useEffect } from 'react';
-import { MdOutlineAccountCircle } from "react-icons/md";
 import ContainerHeader from "../../components/container-header/index.tsx";
 import words from "../../assets/text-welcome.json"
 import Card from "../../components/card/index.tsx";
@@ -40,7 +39,6 @@ export default function Welcome(){
             <ContainerHeader color="transparent" className="text-uppercase text-color-white trigo" >
                 <div className="text-bold text-large">PIXEL PLAY</div>
                 <div className="nav">
-                    <MdOutlineAccountCircle className="btn-icon"/>
                     <div className="btn-secondary">{words.header}</div>
                 </div> 
             </ContainerHeader>
