@@ -1,10 +1,10 @@
 import "./index.css"
 import { useState, useEffect } from 'react';
-import ContainerHeader from "../../components/container-header/index.tsx";
+import ContainerHeader from "../../components/navbar/navbar.tsx";
 import words from "../../assets/text-welcome.json"
-import Card from "../../components/card/index.tsx";
-
+import Card from "../../components/card/card.tsx";
 import axios from 'axios';
+import Carousel from "../../components/carousel/carousel.tsx";
 
 function App() {
 
@@ -31,17 +31,34 @@ function App() {
     )
   }
 
+function CarouselCurrent(){
+
+  const paths = [];
+
+  for (let i = 1; i <= 5; i++) {
+    const imagePath = `/images/carousel/id-${i}.jpg`;
+    paths.push(imagePath);
+  }
+
+  return(
+    <>
+      <Carousel paths={paths}/> 
+    </>
+  )
+}
+
 
 export default function Welcome(){
 
     return (
         <>
-            <ContainerHeader color="transparent" className="text-uppercase text-color-white trigo" >
+            <ContainerHeader>
                 <div className="text-bold text-large">PIXEL PLAY</div>
                 <div className="nav">
                     <div className="btn-secondary">{words.header}</div>
                 </div> 
             </ContainerHeader>
+            <CarouselCurrent/>
            <App></App>
         </>   
     )

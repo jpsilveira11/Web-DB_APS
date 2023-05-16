@@ -1,10 +1,10 @@
-import "./index.css"
+import '../../scss/bootstrap.scss'
 
 function ContainerHeader(props: any){
     
     return(
         <>
-            <nav className={`container backgroud-color-${props.color} ${props.className}`}>
+            <nav className="navbar navbar-expand-lg bg-body-tertiary">
                  {props.children}
             </nav>
         </>
