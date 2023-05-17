@@ -1,0 +1,19 @@
+  .navbar {
+      max-height: 50px;
+      overflow: hidden;  
+      --bs-bg-opacity: 0.4 !important;
+  }
+
+  .navbar-img {
+    max-height: 34px; /* Defina a altura desejada */
+    margin-right: 10px; /* Adicione o espaçamento horizontal desejado */
+  }
+
+  .logo {
+    height: 34px; /* Defina a altura desejada */
+  }
+
+  
+  .text {
+    height: 25px; /* Defina a altura desejada */
+  }
