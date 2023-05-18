@@ -4,6 +4,7 @@ import { NavbarWelcome }from "../../components/navbar/navbar.tsx";
 import Card from "../../components/card/card.tsx";
 import axios from 'axios';
 import ControlCarousel from "../../components/carousel/carousel.tsx";
+import Login from "../login/login.tsx";
 
 function App() {
 
@@ -51,8 +52,9 @@ export default function Welcome(){
 
     return (
         <>
-            <NavbarWelcome/>
-            <CarouselCurrent/>
+            {/* <NavbarWelcome/>
+            <CarouselCurrent/> */}
+            <Login></Login>
            
         </>   
     )
