@@ -1,7 +1,16 @@
-import { Stack, Container , Form, Button, Image} from 'react-bootstrap'
-import './login.css'
+import { useState, useEffect } from 'react';
+import { Stack, Container , Form, Button, Image} from 'react-bootstrap';
+import './login.css';
 
 function Login(){
+
+    const [email, setEmail] = useState("");
+    const [password, setPassword] = useState("");
+
+    const handleClick = () => {
+        console.log(email, password);
+      };
+
     return (
         <>
            <div className="page-container">
@@ -12,19 +21,32 @@ function Login(){
                     <Form className="w-100">
                         <Form.Group className="mb-3" controlId="formBasicEmail">
                         <Form.Label>E-MAIL</Form.Label>
-                        <Form.Control type="email" placeholder="Digite seu e-mail" />
+                        <Form.Control type="email" 
+                            placeholder="Digite seu e-mail" 
+                            onChange={(e) => {
+                                setEmail(e.target.value);
+                            }} 
+                        />
                         </Form.Group>
 
                         <Form.Group className="mb-3" controlId="formBasicPassword">
                         <Form.Label>SENHA</Form.Label>
-                        <Form.Control type="password" placeholder="Digite a senha" />
+                        <Form.Control type="password" 
+                            placeholder="Digite a senha" 
+                            onChange={(e) => {
+                                setPassword(e.target.value);
+                            }} 
+                        />
                         </Form.Group>
 
                         <Form.Group className="mb-4" controlId="formBasicCheckbox">
                         <Form.Check type="checkbox" label="Lembrar-me" />
                         </Form.Group>
 
-                        <Button className="mb-2 w-100 fw-bold" variant="primary" type="submit">
+                        <Button className="mb-2 w-100 fw-bold" 
+                            variant="primary" 
+                            type="submit"
+                            onClick={() => handleClick()}>
                         CONECTAR
                         </Button>
 
