@@ -1,5 +1,4 @@
 import { connection, app } from './config';
-import express from 'express';
 
 app.get('/api/jogos', (req, res) => {
 

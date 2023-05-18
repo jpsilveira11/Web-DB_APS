@@ -1,6 +1,7 @@
 import express from 'express';
 import cors from "cors";
 import mysql from 'mysql2';
+import {RowDataPacket} from 'mysql2';
 import { performance } from 'perf_hooks';
 
 const connection = mysql.createConnection({
@@ -19,8 +20,8 @@ app.use(express.json());
 
 const port = 5174;
 
-app.get('/', (req, res) => {
-  connection.query('SELECT * FROM jogos', (error, results) => {
+app.get('/', (_req, res) => {
+  connection.query('SELECT * FROM jogos;', (error, results: RowDataPacket[]) => {
     if (error) {
       console.error(error);
       res.status(500).send('Erro ao buscar dados');
@@ -37,22 +38,47 @@ app.get('/', (req, res) => {
 app.get('/tabela/:nometabela', (req, res) => {
   const { nometabela } = req.params;
 
-  connection.query(`SELECT * FROM ${nometabela}`, (error, results) => {
-    if (error) {
-      console.error(error);
-      res.status(500).send('Erro ao buscar dados');
-    } else {
-      const data = {
-        tabela: nometabela,
-        resultados: results
-      };
+    connection.query(`SELECT * FROM ${nometabela};`, (error, results: RowDataPacket[]) => {
+      if (error) {
+        console.error(error);
+        res.status(500).send('Erro ao buscar dados');
+      } else {
+        
+        const data = {
+          tabela: nometabela,
+          resultados: results
+        };
 
-      const jsonString = JSON.stringify(data, null, 2);
+        const jsonString = JSON.stringify(data, null, 2);
 
-      res.set('Content-Type', 'application/json');
-      res.send(jsonString);
-    }
-  });
+        res.set('Content-Type', 'application/json');
+        res.send(jsonString);
+      }
+    });
+
+});
+
+app.get('/show/:nometabela', (req, res) => {
+  const { nometabela } = req.params;
+
+    connection.query(`SHOW COLUMNS FROM ${nometabela};`, (error, results: RowDataPacket[]) => {
+      if (error) {
+        console.error(error);
+        res.status(500).send('Erro ao buscar dados');
+      } else {
+        
+        const data = {
+          tabela: nometabela,
+          resultados: results
+        };
+
+        const jsonString = JSON.stringify(data, null, 2);
+
+        res.set('Content-Type', 'application/json');
+        res.send(jsonString);
+      }
+    });
+
 });
 
 connection.query('SELECT VERSION() AS version', (error, results) => {
