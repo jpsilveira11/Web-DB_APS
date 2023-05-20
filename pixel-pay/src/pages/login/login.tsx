@@ -1,14 +1,37 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Stack, Container , Form, Button, Image} from 'react-bootstrap';
+import { useNavigate } from "react-router-dom";
 import './login.css';
 
 function Login(){
 
     const [email, setEmail] = useState("");
     const [password, setPassword] = useState("");
+    const [isButtonDisabled, setIsButtonDisabled] = useState(true);
+    const navigate = useNavigate();
 
-    const handleClick = () => {
-        console.log(email, password);
+    const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>)=> {
+        const { id, value } = e.target;
+        switch (id) {
+            case 'loginEmail':
+                setEmail(value);
+                break;
+            case 'loginPassword':
+                setPassword(value);
+                break;
+            default:
+                break;
+        }
+    };
+
+     // Verificar se todos os campos foram preenchidos corretamente
+     useEffect(() => {
+        const isFormValid = email !== '' && password !== '';
+        setIsButtonDisabled(!isFormValid);
+    }, [email, password]);
+
+    const handleClick = (route: string) => {
+        navigate(route)
       };
 
     return (
@@ -19,34 +42,33 @@ function Login(){
                     <Image className="login-logo" src="/img/pixel-logotipo.png" height={120} />
                     <h4 className="fw-bold">Conecte-se à sua Conta Pixel</h4>
                     <Form className="w-100">
-                        <Form.Group className="mb-3" controlId="formBasicEmail">
+                        <Form.Group className="mb-3" controlId="loginEmail">
                         <Form.Label>E-MAIL</Form.Label>
                         <Form.Control type="email" 
                             placeholder="Digite seu e-mail" 
-                            onChange={(e) => {
-                                setEmail(e.target.value);
-                            }} 
+                            value={email}
+                            onChange={handleInputChange} 
                         />
                         </Form.Group>
 
-                        <Form.Group className="mb-3" controlId="formBasicPassword">
+                        <Form.Group className="mb-3" controlId="loginPassword">
                         <Form.Label>SENHA</Form.Label>
                         <Form.Control type="password" 
                             placeholder="Digite a senha" 
-                            onChange={(e) => {
-                                setPassword(e.target.value);
-                            }} 
+                            value={password}
+                            onChange={handleInputChange}
                         />
                         </Form.Group>
 
-                        <Form.Group className="mb-4" controlId="formBasicCheckbox">
+                        <Form.Group className="mb-4" controlId="loginCheckbox">
                         <Form.Check type="checkbox" label="Lembrar-me" />
                         </Form.Group>
 
                         <Button className="mb-2 w-100 fw-bold" 
                             variant="primary" 
-                            type="submit"
-                            onClick={() => handleClick()}>
+                            onClick={() => handleClick("/welcome")}
+                            disabled={isButtonDisabled}
+                        >
                         CONECTAR
                         </Button>
 
@@ -54,7 +76,10 @@ function Login(){
                         Esqueceu sua senha?
                         </Button>
 
-                        <Button className="w-100 fw-bold" variant="secondary" type="submit">
+                        <Button className="w-100 fw-bold" 
+                            variant="secondary" 
+                            onClick={() => handleClick('/register')}
+                        >
                         CRIAR CONTA
                         </Button>
                     </Form>

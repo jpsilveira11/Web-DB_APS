@@ -1,5 +1,6 @@
 import {Navbar, Nav, Container, Image, Button} from 'react-bootstrap'
 import './navbar.css'
+
 function NavbarWelcome(){
     
     return(
@@ -13,7 +14,9 @@ function NavbarWelcome(){
                 <Nav className="me-auto">
                     <Nav.Link href="#jogos">JOGOS</Nav.Link>
                 </Nav>
-                <Button className="ms-auto" >Assine Já</Button>
+                <Button className="ms-auto">
+                    Assine Já
+                </Button>
             </Container>
         </Navbar>
         </>

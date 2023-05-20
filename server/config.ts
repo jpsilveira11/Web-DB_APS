@@ -21,18 +21,38 @@ app.use(express.json());
 const port = 5174;
 
 app.get('/', (_req, res) => {
-  connection.query('SELECT * FROM jogos;', (error, results: RowDataPacket[]) => {
+
+  connection.query('SHOW TABLES;', (error, results: RowDataPacket[]) => {
     if (error) {
       console.error(error);
-      res.status(500).send('Erro ao buscar dados');
+      res.status(500).send('Erro ao buscar tabelas');
     } else {
-      //console.table(results);
-      const jsonString = JSON.stringify(results, null, 2);
+      const verCampos = `localhost:${port}/campos/`; // URL base para os links
+      const verTabela = `localhost:${port}/tabela/`; // URL base para os links
+
+      const tabelas = results.map((result: any) => {
+        const tabela: string = result[`Tables_in_loja`]; // Substitua "databaseName" pelo nome do seu banco de dados
+        const link1: string = verCampos + tabela; // URL completa com o nome da tabela
+        const link2: string = verTabela + tabela; // URL completa com o nome da tabela
+
+        return {
+          tabela: tabela,
+          verCampos: link1,
+          verTabela: link2,
+        };
+      });
+
+      const data = {
+        tabelas: tabelas,
+      };
+
+      const jsonString = JSON.stringify(data, null, 2);
 
       res.set('Content-Type', 'application/json');
       res.send(jsonString);
     }
   });
+
 });
 
 app.get('/tabela/:nometabela', (req, res) => {
@@ -58,7 +78,7 @@ app.get('/tabela/:nometabela', (req, res) => {
 
 });
 
-app.get('/show/:nometabela', (req, res) => {
+app.get('/campos/:nometabela', (req, res) => {
   const { nometabela } = req.params;
 
     connection.query(`SHOW COLUMNS FROM ${nometabela};`, (error, results: RowDataPacket[]) => {
@@ -79,6 +99,36 @@ app.get('/show/:nometabela', (req, res) => {
       }
     });
 
+});
+
+app.get('/tabelas', (_req, res) => {
+  connection.query('SHOW TABLES;', (error, results: RowDataPacket[]) => {
+    if (error) {
+      console.error(error);
+      res.status(500).send('Erro ao buscar tabelas');
+    } else {
+      const baseUrl = `localhost:${port}/show/`; // URL base para os links
+
+      const tabelas = results.map((result: any) => {
+        const tabela: string = result[`Tables_in_loja`]; // Substitua "databaseName" pelo nome do seu banco de dados
+        const link: string = baseUrl + tabela; // URL completa com o nome da tabela
+
+        return {
+          tabela: tabela,
+          link: link
+        };
+      });
+
+      const data = {
+        tabelas: tabelas
+      };
+
+      const jsonString = JSON.stringify(data, null, 2);
+
+      res.set('Content-Type', 'application/json');
+      res.send(jsonString);
+    }
+  });
 });
 
 connection.query('SELECT VERSION() AS version', (error, results) => {
