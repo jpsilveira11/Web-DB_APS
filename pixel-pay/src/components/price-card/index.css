@@ -1,0 +1,77 @@
+.plan-price-card {
+  background-color: #464447;
+  border-radius: 9px;
+  padding: 40px;
+  width: 30rem;
+  margin-bottom: 20px;
+}
+
+.plan-name {
+  color: #f6f6f6;
+  text-transform: uppercase;
+  font-size: 16px;
+  text-align: center;
+}
+
+.price-value-wrapper {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
+.price-indicator {
+  color: #f6f6f6;
+  font-size: 30px;
+  font-weight: 500;
+  margin-right: 8px;
+  margin-bottom: 0px;
+}
+
+.price-value {
+  color: #f79f1f;
+  font-size: 60px;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+
+.price-period {
+  color: #f6f6f6;
+  font-size: 22px;
+  align-self: baseline;
+  margin-bottom: 0px;
+}
+
+.plan-description {
+  color: #f6f6f6;
+  font-size: 14px;
+  margin: 0 20px 25px;
+  text-align: center;
+}
+
+.plan-beneficits p {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+
+.plan-button-wrapper {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+.plan-button-wrapper button {
+  border: none;
+  outline: none;
+  background-color: #f79f1f;
+  color: #fff;
+  font-size: 14px;
+  border-radius: 8px;
+  padding: 8px 18px;
+  transition: 0.2s;
+}
+
+.plan-button-wrapper button:hover {
+  background-color: rgb(226, 146, 25);
+}

@@ -1,0 +1,20 @@
+.information-card {
+  background-color: #464447;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.information-text {
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 700;
+
+  padding-left: 40px;
+  width: 22rem;
+}
+
+.information-text span {
+  color: #f79f1f;
+}

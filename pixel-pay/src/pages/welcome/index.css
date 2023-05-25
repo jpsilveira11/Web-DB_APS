@@ -1,15 +1,19 @@
-@import url("../../css-global/index.css");
-
-.carousel{
-    height: 608px;
-    width: 100vh;
-    position: relative;
-    top: -56px;
-    z-index: 0;
+.plans-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 20px;
 }
 
-.cont {
-    display:flex;
-    flex-direction: column;
+h1 {
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-weight: 700;
+
+  margin-bottom: 20px;
 }
 
+section {
+  margin-bottom: 60px;
+}

@@ -1,0 +1,32 @@
+.swiper-container {
+  width: 480px;
+}
+
+@media screen and (min-width: 640px) {
+  .swiper-container {
+    width: 200px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .swiper-container {
+    width: 300px;
+  }
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  color: #fff !important;
+  font-size: 12px;
+  background-color: #464447;
+  padding: 14px;
+  width: 18px !important;
+  height: 18px !important;
+  border-radius: 4px;
+  margin-top: -20px !important;
+}
+
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  font-size: 14px !important;
+}
