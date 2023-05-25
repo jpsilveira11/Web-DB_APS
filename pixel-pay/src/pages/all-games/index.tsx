@@ -1,15 +1,18 @@
 import axios from "axios";
 import { useState, useEffect } from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import GameCard from "../../components/game-card";
 
 import Container from "react-bootstrap/Container";
+
+import GamesData from "../../types/GamesData";
 
 import "./index.css";
 
 export default function AllGames() {
   const { state } = useLocation();
-  const [games, setGames] = useState<any[]>([]);
+
+  const [games, setGames] = useState<GamesData[]>([]);
 
   useEffect(() => {
     const getGames = async () => {

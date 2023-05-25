@@ -2,13 +2,13 @@ import "./index.css";
 import { useState, useEffect } from "react";
 import { NavbarWelcome } from "../../components/navbar/navbar.tsx";
 import axios from "axios";
+
 import Categories from "../../components/categories/index.tsx";
 import PriceCard from "../../components/price-card/index.tsx";
 import InformationCard from "../../components/information-card/index.tsx";
 import TopGamesCard from "../../components/top-games-card/index.tsx";
-import Container from "react-bootstrap/Container";
-
 import ControlCarousel from "../../components/carousel/carousel.tsx";
+import Container from "react-bootstrap/Container";
 
 import { plans, carouselData } from "../../models/index.ts";
 

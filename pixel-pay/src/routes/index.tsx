@@ -5,6 +5,7 @@ import Login from "../pages/login/login.tsx";
 import Register from "../pages/login/register.tsx";
 import GamesByCategory from "../pages/games-by-category/index.tsx";
 import AllGames from "../pages/all-games/index.tsx";
+import ViewGame from "../pages/view-game/index.tsx";
 
 const router = createBrowserRouter([
   {
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
   {
     path: "/games",
     element: <AllGames />,
+  },
+  {
+    path: "/game/:gameId",
+    element: <ViewGame />,
   },
 ]);
 

@@ -3,6 +3,8 @@ import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { useNavigate } from "react-router-dom";
 
+import GamesData from "../../types/GamesData";
+
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/navigation";
@@ -13,8 +15,10 @@ import "./index.css";
 export default function TopCardGames({ topGames }) {
   const navigate = useNavigate();
 
-  const viewGame = (categorias_id: number) => {
-    navigate(`/category/${categorias_id}`, { state: { categoryId: 1 } });
+  const goToGameDetail = ({ JogosId, categorias_id }: GamesData) => {
+    navigate(`/game/${JogosId}`, {
+      state: { gameId: JogosId, categoryId: categorias_id },
+    });
   };
 
   return (
@@ -44,12 +48,12 @@ export default function TopCardGames({ topGames }) {
           <SwiperSlide key={index}>
             <div
               className="top-game-card"
-              onClick={() => viewGame(topGame.categorias_id)}
+              onClick={() => goToGameDetail(topGame)}
             >
               <img
                 className="top-game-image"
                 src={topGame.link.split(" ")[0]}
-                alt=""
+                alt={topGame.nome}
               />
               <p className="top-game-name">{topGame.nome}</p>
             </div>

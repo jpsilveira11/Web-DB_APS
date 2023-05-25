@@ -1,7 +1,18 @@
-import { Navbar, Nav, Container, Image, Button } from "react-bootstrap";
+import {
+  Navbar,
+  Nav,
+  Container,
+  Image,
+  Button,
+  NavItem,
+} from "react-bootstrap";
+import { useNavigate } from "react-router-dom";
+
 import "./navbar.css";
 
 function NavbarWelcome() {
+  const goToHome = () => (window.location.href = "/");
+  const goToAllGames = () => (window.location.href = "/games");
   return (
     <>
       <Navbar bg="dark" variant="dark" fixed="top" collapseOnSelect expand="lg">
@@ -13,8 +24,8 @@ function NavbarWelcome() {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse>
             <Nav className="me-auto">
-              <Nav.Link href="#jogos">HOME</Nav.Link>
-              <Nav.Link href="#jogos">JOGOS</Nav.Link>
+              <Nav.Link onClick={() => goToHome()}>HOME</Nav.Link>
+              <Nav.Link onClick={() => goToAllGames()}>JOGOS</Nav.Link>
             </Nav>
             <Button className="ms-auto">Assine Já</Button>
           </Navbar.Collapse>

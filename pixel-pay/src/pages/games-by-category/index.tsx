@@ -1,7 +1,9 @@
-import axios from "axios";
 import { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
+import axios from "axios";
 import GameCard from "../../components/game-card";
+
+import GamesData from "../../types/GamesData";
 
 import Container from "react-bootstrap/Container";
 
@@ -10,7 +12,7 @@ import "./index.css";
 export default function GamesByCategory() {
   const { state } = useLocation();
   const { categoryId, categoryName } = state;
-  const [games, setGames] = useState<any[]>([]);
+  const [games, setGames] = useState<GamesData[]>([]);
 
   useEffect(() => {
     const getGames = async () => {
@@ -18,7 +20,7 @@ export default function GamesByCategory() {
         const response = await axios.get("/api/categorias/");
         setGames(
           response.data.resultados.filter(
-            (game) => game.categorias_id === categoryId
+            (game: GamesData) => game.categorias_id === categoryId
           )
         );
       } catch (error) {
@@ -36,7 +38,7 @@ export default function GamesByCategory() {
 
         <div className="game-cards">
           {games.map((game) => (
-            <GameCard gameData={game} />
+            <GameCard gameData={game} showCategory={false} />
           ))}
         </div>
       </Container>
