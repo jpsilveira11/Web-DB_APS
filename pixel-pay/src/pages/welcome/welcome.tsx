@@ -40,9 +40,21 @@ export default function Welcome() {
       });
   };
 
+  const getGamesByCatetory = () => {
+    axios
+      .get("/api/tabela/categorias/RPG")
+      .then((response) => {
+        console.log(response);
+      })
+      .catch((error) => {
+        console.error(error);
+      });
+  };
+
   useEffect(() => {
     getCategories();
     getGames();
+    getGamesByCatetory();
   }, []);
 
   return (
@@ -50,8 +62,6 @@ export default function Welcome() {
       <ControlCarousel carouselData={carouselData} />
 
       <Container>
-        <NavbarWelcome />
-
         <section className="mt-10">
           <h1>Jogos destaques</h1>
 

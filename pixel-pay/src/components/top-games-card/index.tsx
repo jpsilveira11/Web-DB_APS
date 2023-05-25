@@ -1,7 +1,7 @@
 // import Swiper core and required modules
 import { Navigation, Pagination, Scrollbar, A11y, Autoplay } from "swiper";
-
 import { Swiper, SwiperSlide } from "swiper/react";
+import { useNavigate } from "react-router-dom";
 
 // Import Swiper styles
 import "swiper/css";
@@ -11,15 +11,11 @@ import "swiper/css/scrollbar";
 import "./index.css";
 
 export default function TopCardGames({ topGames }) {
-  // const { content } = _prop;
+  const navigate = useNavigate();
 
-  // if (!content || !content.link) {
-  //   return null;
-  // }
-
-  // const link = content.link.split(" ")[0];
-
-  console.log("topGames", topGames.slice(0, 10));
+  const viewGame = (categorias_id: number) => {
+    navigate(`/category/${categorias_id}`, { state: { categoryId: 1 } });
+  };
 
   return (
     <>
@@ -46,7 +42,10 @@ export default function TopCardGames({ topGames }) {
       >
         {topGames.slice(0, 10).map((topGame, index) => (
           <SwiperSlide key={index}>
-            <div className="top-game-card">
+            <div
+              className="top-game-card"
+              onClick={() => viewGame(topGame.categorias_id)}
+            >
               <img
                 className="top-game-image"
                 src={topGame.link.split(" ")[0]}
@@ -57,12 +56,6 @@ export default function TopCardGames({ topGames }) {
           </SwiperSlide>
         ))}
       </Swiper>
-      {/* <Card className="bg-dark text-white">
-        <Card.Img src={link} alt={content.nome} />
-        <Card.ImgOverlay>
-          <Card.Text>{content.nome}</Card.Text>
-        </Card.ImgOverlay>
-      </Card> */}
     </>
   );
 }
