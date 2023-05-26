@@ -10,6 +10,7 @@ export default function GameCard({ gameData, showCategory }) {
   }
 
   const goToGameDetail = ({ JogosId, categorias_id }: GamesData) => {
+    // window.location.href = `/game/${JogosId}`;
     navigate(`/game/${JogosId}`, {
       state: { gameId: JogosId, categoryId: categorias_id },
     });

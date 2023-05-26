@@ -76,16 +76,6 @@ export default function ViewGame() {
             alt={game.nome}
           />
         </div>
-
-        <div className="another-games">
-          <h1>Outros jogos na categoria</h1>
-
-          <div className="game-cards">
-            {gamesIncategory.map((game) => (
-              <GameCard gameData={game} showCategory={false} />
-            ))}
-          </div>
-        </div>
       </Container>
     </div>
   );

@@ -27,6 +27,7 @@ const CategoryCard = styled.div<Props>`
 
   display: flex;
   align-items: flex-end;
+  cursor: pointer;
 `;
 
 export default CategoryCard;

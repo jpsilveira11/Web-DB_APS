@@ -62,7 +62,7 @@ export default function Welcome() {
       <ControlCarousel carouselData={carouselData} />
 
       <Container>
-        <section className="mt-10">
+        <section className="first-section">
           <h1>Jogos destaques</h1>
 
           <TopGamesCard topGames={jogos}></TopGamesCard>

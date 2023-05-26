@@ -114,16 +114,55 @@ app.post("/api/usuarios", (req, res) => {
   });
 });
 
-app.post("/api/signin", async (req, res) => {
+app.get("/api/signin", (req, res) => {
   const { email, senha } = req.body;
 
   const sqlCheck = "SELECT * FROM usuario WHERE email = ? AND senha = ?";
 
-  connection.query(sqlCheck, [email, senha], (error, results) => {
-    if (error) {
-      res.status(200).send("Login bem-sucedido");
-    } else {
+  connection.query(sqlCheck, [email, senha], (error, results: any) => {
+    if (error || !results) {
+      console.error(error);
       res.status(500).send("Erro ao fazer login");
+    } else {
+      if (results) {
+        const id = results[0].usuario_id;
+        const name = results[0].nome;
+        const sqlReturn =
+          "SELECT * FROM assinatura_usuario WHERE usuario_id = ?";
+
+        connection.query(sqlReturn, [id], (error, results: any) => {
+          if (error || !results) {
+            console.error(error);
+            res.status(500).send("Erro ao fazer login");
+          } else {
+            const dadosUsuario = results[0];
+            const data = {
+              resultados: { ...dadosUsuario, email: email, nome: name },
+            };
+
+            const jsonString = JSON.stringify(data, null, 2);
+
+            res.set("Content-Type", "application/json");
+            res.send(jsonString);
+          }
+        });
+      }
+    }
+  });
+});
+
+app.post("/api/subscription", (req, res) => {
+  const { assinatura_id, usuario_id } = req.body;
+
+  const sqlCheck =
+    "INSERT INTO assinatura_usuario (assinatura_id, usuario_id) VALUES (? , ?)";
+
+  connection.query(sqlCheck, [assinatura_id, usuario_id], (error, results) => {
+    if (error) {
+      console.error(error);
+      res.status(500).send("Erro ao fazer assinatura");
+    } else {
+      res.status(200).send("Assinatura feita com sucesso!");
     }
   });
 });

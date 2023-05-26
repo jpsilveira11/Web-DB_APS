@@ -16,3 +16,25 @@
 .text {
   height: 25px; /* Defina a altura desejada */
 }
+
+.modal-content {
+  background-color: #202020;
+}
+
+.modal-header {
+  border-bottom: 1px solid #3f3f3f;
+}
+
+.modal-footer {
+  border-top: 1px solid #3f3f3f;
+}
+
+.user-lable {
+  margin-bottom: 0;
+  font-size: 14px;
+}
+
+.user-value {
+  margin-bottom: 20px;
+  color: #f6f6f6;
+}
