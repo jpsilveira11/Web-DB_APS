@@ -1,0 +1,26 @@
+# Logs
+pixel-pay/logs
+pixel-pay/*.log
+pixel-pay/npm-debug.log*
+pixel-pay/yarn-debug.log*
+pixel-pay/yarn-error.log*
+pixel-pay/pnpm-debug.log*
+pixel-pay/lerna-debug.log*
+
+# Editor directories and files
+pixel-pay/.vscode/*
+pixel-pay/!.vscode/extensions.json
+pixel-pay/.idea
+pixel-pay/.DS_Store
+pixel-pay/*.suo
+pixel-pay/*.ntvs*
+pixel-pay/*.njsproj
+pixel-pay/*.sln
+pixel-pay/*.sw?
+pixel-pay/yarn.lock
+pixel-pay/node_modules
+pixel-pay/dist
+pixel-pay/dist-ssr
+pixel-pay/*.local
+server/yarn.lock
+server/node_modules

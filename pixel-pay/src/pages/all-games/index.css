@@ -1,0 +1,9 @@
+.game-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.default-spacer {
+  margin-top: 110px;
+}
