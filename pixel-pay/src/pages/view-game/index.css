@@ -1,0 +1,60 @@
+.game-title {
+  font-size: 2.5rem;
+  margin-top: 110px;
+}
+
+.games-details {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 50px;
+}
+
+@media (max-width: 768px) {
+  .games-details {
+    flex-direction: column-reverse;
+  }
+
+  .games-details-description {
+    width: auto !important;
+  }
+
+  .game-details-informations {
+    flex-direction: column;
+    align-items: flex-start !important;
+  }
+}
+
+.games-details-description {
+  width: 800px;
+}
+
+.game-details-informations {
+  background-color: #464447;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 20px;
+  border-radius: 8px;
+  margin-top: 50px;
+}
+
+.details-title {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 14px;
+  margin-bottom: 0px;
+}
+
+.details-value {
+  color: #d3d3d3;
+  font-size: 14px;
+}
+
+.another-games {
+  margin-top: 20px;
+}
+
+.mb-10 {
+  margin-bottom: 10px;
+}

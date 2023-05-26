@@ -1,0 +1,17 @@
+.carousel {
+  z-index: 0;
+  position: relative;
+  height: 700px !important;
+}
+
+.carousel-img {
+  height: 700px;
+  object-fit: cover;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .carousel-item {
+    transition: none;
+    height: 700px;
+  }
+}

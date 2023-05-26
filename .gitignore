@@ -1,24 +1,26 @@
 # Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
-
-node_modules
-dist
-dist-ssr
-*.local
+pixel-pay/logs
+pixel-pay/*.log
+pixel-pay/npm-debug.log*
+pixel-pay/yarn-debug.log*
+pixel-pay/yarn-error.log*
+pixel-pay/pnpm-debug.log*
+pixel-pay/lerna-debug.log*
 
 # Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+pixel-pay/.vscode/*
+pixel-pay/!.vscode/extensions.json
+pixel-pay/.idea
+pixel-pay/.DS_Store
+pixel-pay/*.suo
+pixel-pay/*.ntvs*
+pixel-pay/*.njsproj
+pixel-pay/*.sln
+pixel-pay/*.sw?
+pixel-pay/yarn.lock
+pixel-pay/node_modules
+pixel-pay/dist
+pixel-pay/dist-ssr
+pixel-pay/*.local
+server/yarn.lock
+server/node_modules
