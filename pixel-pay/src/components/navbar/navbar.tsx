@@ -65,7 +65,7 @@ function NavbarWelcome() {
           <p className="user-value">
             {localStorage.getItem("userPlan")
               ? localStorage.getItem("userPlan")
-              : "Nenhum plano encontrado"}
+              : "Nenhum Plano Encontrado"}
           </p>
         </Modal.Body>
         <Modal.Footer>
